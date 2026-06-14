@@ -1,0 +1,1234 @@
+[
+  {
+    "id": "bikaoci_unit_03:28",
+    "word": "incentive",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "激励；刺激因素；诱因"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 incentivus（激励的、激发的），源自 incinere（吹奏、激发），由 in-（在... 里）+ canere（唱歌）构成，原义为\"吹奏乐器以激发热情\"。",
+    "formation_semantic": "in-（进入、使）+ cent（唱歌，来自 canere）+ -ive（名词/形容词后缀）；字面义为\"激发某人做某事的事物\"。 从\"激发热情的音乐\"引申为一般的\"激励、刺激因素\"，尤其在经济学中指激励某人采取行动的奖励或诱因。",
+    "examples": [
+      {
+        "en": "The government introduced tax incentives to encourage companies to invest in renewable energy research and development.",
+        "zh": "政府推出了税收激励措施，以鼓励公司投资于可再生能源的研发。"
+      },
+      {
+        "en": "The passage uses \"incentive\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“incentive”，可结合证据和语法理解为“激励；刺激因素；诱因”。"
+      },
+      {
+        "en": "In exam reading, \"incentive\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“incentive”也可能表达相关义项，如“激励；刺激因素；诱因”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:29",
+    "word": "incidence",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "发生率；发生频率"
+        ]
+      }
+    ],
+    "etymology": "来自中古英语，源自拉丁语 incidentia（发生的事件），由 in-（在... 上）+ cadere（落下）构成，字面义为\"落在... 之上\"。",
+    "formation_semantic": "in-（在... 上）+ cid（落下，来自 cadere）+ -ence（名词后缀）；字面义为\"发生的事\"。 由\"发生的事件\"引申为统计学意义上的\"发生率、发生频率\"，尤指疾病或不良事件的发生率。",
+    "examples": [
+      {
+        "en": "The public health campaign successfully reduced the incidence of smoking-related diseases among teenagers in urban areas.",
+        "zh": "这项公共卫生运动成功地降低了城市地区青少年中与吸烟相关疾病的发生率。"
+      },
+      {
+        "en": "The passage uses \"incidence\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“incidence”，可结合证据和语法理解为“发生率；发生频率”。"
+      },
+      {
+        "en": "In exam reading, \"incidence\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“incidence”也可能表达相关义项，如“发生率；发生频率”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:30",
+    "word": "incident",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "事件；事变；事故"
+        ]
+      }
+    ],
+    "etymology": "来自中古法语，源自拉丁语 incidens（发生的），是 incidere（发生、落入）的现在分词，由 in-（在... 上）+ cadere（落下）构成。",
+    "formation_semantic": "in-（在... 上）+ cid（落下）+ -ent（形容词/名词后缀）；字面义为\"落在... 上的事\"。 从\"偶发事件\"引申为\"（尤指不寻常或不好的）事件、事变\"。",
+    "examples": [
+      {
+        "en": "The diplomatic incident strained relations between the two countries and required urgent negotiation to resolve.",
+        "zh": "这起外交事件使两国关系紧张，需要紧急谈判来解决。"
+      },
+      {
+        "en": "The passage uses \"incident\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“incident”，可结合证据和语法理解为“事件；事变；事故”。"
+      },
+      {
+        "en": "In exam reading, \"incident\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“incident”也可能表达相关义项，如“事件；事变；事故”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:31",
+    "word": "incidentally",
+    "pos_defs": [
+      {
+        "pos": "adv.",
+        "defs": [
+          "顺便提一句；附带地",
+          "偶然地"
+        ]
+      }
+    ],
+    "etymology": "由 incident（事件）+ -al（形容词后缀）+ -ly（副词后缀）构成，作为副词表示\"顺便地、偶然地\"。",
+    "formation_semantic": "incident（事件）+ -al（的）+ -ly（地）；字面义为\"以附带事件的方式\"。 从\"附带发生的\"引申为副词用法\"顺便提一句、附带地\"，用于引出补充说明的信息。",
+    "examples": [
+      {
+        "en": "Incidentally, the professor mentioned that the research findings could have significant implications for climate change policy.",
+        "zh": "顺便提一句，教授提到这些研究发现可能对气候变化政策有重大影响。"
+      },
+      {
+        "en": "The passage uses \"incidentally\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“incidentally”，可结合证据和语法理解为“顺便提一句；附带地”。"
+      },
+      {
+        "en": "In exam reading, \"incidentally\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“incidentally”也可能表达相关义项，如“偶然地”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:32",
+    "word": "incline",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "倾向于；偏向",
+          "倾斜"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "斜坡；斜面"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 inclinare（倾斜），由 in-（向）+ clinare（倾斜、弯曲）构成。",
+    "formation_semantic": "in-（向、使）+ cline（倾斜、弯曲）；字面义为\"使向... 倾斜\"。 从物理上的\"倾斜\"（如道路坡度）引申为抽象层面\"倾向于（某种观点/行为）\"。",
+    "examples": [
+      {
+        "en": "Many economists incline toward the view that inflation will gradually stabilize as global supply chains recover.",
+        "zh": "许多经济学家倾向于认为，随着全球供应链的恢复，通货膨胀将逐步稳定。"
+      },
+      {
+        "en": "The passage uses \"incline\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“incline”，可结合证据和语法理解为“倾向于；偏向”。"
+      },
+      {
+        "en": "In exam reading, \"incline\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“incline”也可能表达相关义项，如“倾斜”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:33",
+    "word": "academic",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "学术的；学院的",
+          "纯理论的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "大学教师；学者"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 academicus，来自 Academia（柏拉图讲学的学园），源自希腊语 Akademeia，是雅典城外的一片橄榄树林，以英雄 Akademos 命名。",
+    "formation_semantic": "academ-（学园、学院）+ -ic（形容词后缀）；字面义为\"与学园有关的\"。 从\"柏拉图学园的\"引申为\"学术的、学院的\"，进一步引申为\"纯理论的、不切实际的\"（贬义）。",
+    "examples": [
+      {
+        "en": "The academic conference brought together leading scholars from around the world to discuss innovative teaching methodologies.",
+        "zh": "这次学术会议汇集了来自世界各地的顶尖学者，共同讨论创新的教学方法。"
+      },
+      {
+        "en": "The passage uses \"academic\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“academic”，可结合证据和语法理解为“学术的；学院的”。"
+      },
+      {
+        "en": "In exam reading, \"academic\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“academic”也可能表达相关义项，如“纯理论的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:34",
+    "word": "academy",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "学院；研究院",
+          "学会；专门机构"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 Academia，源自希腊语 Akademeia，指雅典附近柏拉图教学的那片橄榄树林，以英雄 Akademos 命名。",
+    "formation_semantic": "直接借自拉丁语/希腊语专有名词，泛指\"学术机构、学院\"。 从\"柏拉图讲学的学园\"这个专有名词泛化为任何\"学术机构、学院、学会\"。",
+    "examples": [
+      {
+        "en": "The Royal Academy of Sciences awarded the prestigious prize to the young physicist for her groundbreaking research.",
+        "zh": "皇家科学院将这一著名奖项授予了这位年轻物理学家，以表彰她开创性的研究。"
+      },
+      {
+        "en": "The passage uses \"academy\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“academy”，可结合证据和语法理解为“学院；研究院”。"
+      },
+      {
+        "en": "In exam reading, \"academy\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“academy”也可能表达相关义项，如“学会；专门机构”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:35",
+    "word": "accelerate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "加速；促进"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 acceleratus，是 accelerare（加速）的过去分词，由 ad-（向）+ celer（快速的）构成。",
+    "formation_semantic": "ac-（向，变体 of ad-）+ celer（快速）+ -ate（动词后缀）；字面义为\"使变得更快\"。 保持\"加速\"的核心义不变，可用于物理速度（车辆加速）和抽象速度（经济增长加速）。",
+    "examples": [
+      {
+        "en": "The government's investment in digital infrastructure has accelerated the growth of e-commerce and online education sectors.",
+        "zh": "政府对数字基础设施的投资加速了电子商务和在线教育行业的增长。"
+      },
+      {
+        "en": "The passage uses \"accelerate\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“accelerate”，可结合证据和语法理解为“加速；促进”。"
+      },
+      {
+        "en": "In exam reading, \"accelerate\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“accelerate”也可能表达相关义项，如“加速；促进”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:36",
+    "word": "accept",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "接受；接收",
+          "承认；认可",
+          "容忍"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 acceptare（接收），是 accipere（拿取、接收）的反复体，由 ad-（向）+ capere（拿、取）构成。",
+    "formation_semantic": "ac-（向，变体 of ad-）+ cept（拿、取，来自 capere）；字面义为\"向... 拿取\"即\"接收\"。 从\"接收（物品）\"引申为\"接受（邀请/建议/观点）\"、\"承认/容忍（现实）\"。",
+    "examples": [
+      {
+        "en": "The university has accepted the new curriculum reform proposal, which emphasizes interdisciplinary learning and practical skills.",
+        "zh": "该大学已接受了新的课程改革提案，该提案强调跨学科学习和实践技能。"
+      },
+      {
+        "en": "The passage uses \"accept\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“accept”，可结合证据和语法理解为“接受；接收”。"
+      },
+      {
+        "en": "In exam reading, \"accept\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“accept”也可能表达相关义项，如“承认；认可”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:37",
+    "word": "acceptance",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "接受；接纳",
+          "认可；赞同"
+        ]
+      }
+    ],
+    "etymology": "由 accept（接受）+ -ance（名词后缀）构成，16世纪进入英语。",
+    "formation_semantic": "accept（接受）+ -ance（表行为、状态的名词后缀）；字面义为\"接受的行为或状态\"。 从\"接受、接收\"的行为引申为\"认可、接纳\"，以及商业上的\"承兑（汇票）\"。",
+    "examples": [
+      {
+        "en": "The widespread acceptance of remote working has transformed traditional office culture and employment practices.",
+        "zh": "远程工作的广泛接受已经改变了传统的办公室文化和雇佣实践。"
+      },
+      {
+        "en": "The passage uses \"acceptance\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“acceptance”，可结合证据和语法理解为“接受；接纳”。"
+      },
+      {
+        "en": "In exam reading, \"acceptance\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“acceptance”也可能表达相关义项，如“认可；赞同”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:38",
+    "word": "access",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "通道；入口",
+          "使用权；机会"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "访问；获取；进入"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 accessus（接近、入口），是 accedere（走近、接近）的过去分词，由 ad-（向）+ cedere（走、行）构成。",
+    "formation_semantic": "ac-（向）+ cess（走，来自 cedere）；字面义为\"走向...\"。 从\"接近、进入\"的具体动作引申为\"入口、通道\"，进一步引申为\"（使用某物的）权利/机会\"。",
+    "examples": [
+      {
+        "en": "Equal access to quality education remains a fundamental challenge in many developing regions around the world.",
+        "zh": "平等获得优质教育的机会仍然是世界许多发展中地区面临的根本挑战。"
+      },
+      {
+        "en": "The passage uses \"access\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“access”，可结合证据和语法理解为“通道；入口”。"
+      },
+      {
+        "en": "In exam reading, \"access\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“access”也可能表达相关义项，如“使用权；机会”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:39",
+    "word": "accessory",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "附件；配件",
+          "配饰",
+          "从犯"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "附属的；辅助的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 accessorius（附属的），由 access（接近、附加）+ -ory（形容词/名词后缀）构成，15世纪进入英语。",
+    "formation_semantic": "access（附加、增加）+ -ory（与... 相关的）；字面义为\"附加的东西\"。 从\"附加物、附属品\"引申为时尚领域的\"配饰\"，也在法律中表示\"从犯、同谋\"。",
+    "examples": [
+      {
+        "en": "In the fashion industry, accessories such as bags and jewelry often contribute significantly to a brand's overall revenue.",
+        "zh": "在时尚产业中，包和珠宝等配饰通常对品牌的整体收入有显著贡献。"
+      },
+      {
+        "en": "The passage uses \"accessory\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“accessory”，可结合证据和语法理解为“附件；配件”。"
+      },
+      {
+        "en": "In exam reading, \"accessory\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“accessory”也可能表达相关义项，如“配饰”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:40",
+    "word": "begin",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "开始；着手"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 beginnan（开始），由 be-（使... 成为）+ ginnan（打开、张开）构成。ginnan 与古高地德语 ginan（张开）同源。",
+    "formation_semantic": "be-（使）+ gin（打开、张开）；字面义为\"使打开\"即\"开始\"。 从\"打开（一个过程）\"的隐喻出发，延续\"开始\"的核心义至今，是最基本的英语动词之一。",
+    "examples": [
+      {
+        "en": "The research project will begin next month, focusing on the impact of artificial intelligence on employment patterns.",
+        "zh": "该研究项目将于下个月开始，重点关注人工智能对就业模式的影响。"
+      },
+      {
+        "en": "The passage uses \"begin\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“begin”，可结合证据和语法理解为“开始；着手”。"
+      },
+      {
+        "en": "In exam reading, \"begin\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“begin”也可能表达相关义项，如“开始；着手”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:41",
+    "word": "beginning",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "开始；起点；初期"
+        ]
+      }
+    ],
+    "etymology": "由 begin（开始）+ -ing（动名词后缀，名词化）构成，12世纪进入英语。",
+    "formation_semantic": "begin（开始）+ -ing（动名词后缀）；字面义为\"开始的行为或起点\"。 作为名词表示\"开始、起点、初期\"，常与 end（结束）形成对比。",
+    "examples": [
+      {
+        "en": "At the beginning of the twentieth century, few could have predicted the transformative impact of technological innovation.",
+        "zh": "在二十世纪初，很少有人能预见到技术创新的变革性影响。"
+      },
+      {
+        "en": "The passage uses \"beginning\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“beginning”，可结合证据和语法理解为“开始；起点；初期”。"
+      },
+      {
+        "en": "In exam reading, \"beginning\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“beginning”也可能表达相关义项，如“开始；起点；初期”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:42",
+    "word": "behalf",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "代表；利益"
+        ]
+      }
+    ],
+    "etymology": "来自中古英语 bi halfe，字面义为\"在旁边、在一边\"，由 by（在... 旁）+ half（边、侧）组合而成，后缩合为 behalf。",
+    "formation_semantic": "be（在... 旁，古体）+ half（边、侧）；字面义为\"在... 旁边\"。 最初表示\"在... 旁边\"的空间概念，后引申为\"代表... 一方、为了... 的利益\"。",
+    "examples": [
+      {
+        "en": "The lawyer spoke on behalf of the environmental organization, arguing for stricter regulations on industrial waste disposal.",
+        "zh": "律师代表该环保组织发言，主张对工业废物处理实施更严格的规定。"
+      },
+      {
+        "en": "The passage uses \"behalf\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“behalf”，可结合证据和语法理解为“代表；利益”。"
+      },
+      {
+        "en": "In exam reading, \"behalf\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“behalf”也可能表达相关义项，如“代表；利益”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:43",
+    "word": "behave",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "行为；表现",
+          "举止得体"
+        ]
+      }
+    ],
+    "etymology": "来自中古英语 behaven，由 be-（使）+ have（拥有、保持）构成，字面义为\"使自己保持在某种状态\"。",
+    "formation_semantic": "be-（使）+ have（拥有、保持）；字面义为\"使自己保持... 状态\"。 从\"保持某种状态\"引申为\"行为、举止、表现\"，常与 well/badly 搭配表示\"表现好/不好\"。",
+    "examples": [
+      {
+        "en": "Consumers tend to behave differently during economic recessions, prioritizing essential goods over luxury items.",
+        "zh": "消费者在经济衰退期间往往行为不同，优先购买必需品而非奢侈品。"
+      },
+      {
+        "en": "The passage uses \"behave\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“behave”，可结合证据和语法理解为“行为；表现”。"
+      },
+      {
+        "en": "In exam reading, \"behave\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“behave”也可能表达相关义项，如“举止得体”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:44",
+    "word": "behavio(u)r",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "行为；举止",
+          "运行方式；表现"
+        ]
+      }
+    ],
+    "etymology": "由 behave（行为）+ -ior（名词后缀，来自拉丁语 -ior）构成，是 behave 的名词形式，15世纪进入英语。",
+    "formation_semantic": "behave（表现、行为）+ -ior（名词后缀）；字面义为\"行为的方式\"。 从\"举止、行为方式\"引申为社会科学中的核心概念\"行为\"，在心理学、社会学中广泛使用。",
+    "examples": [
+      {
+        "en": "The study examines the relationship between social media usage and consumer behavior among young adults.",
+        "zh": "该研究考察了社交媒体使用与年轻人消费行为之间的关系。"
+      },
+      {
+        "en": "The passage uses \"behavio(u)r\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“behavio(u)r”，可结合证据和语法理解为“行为；举止”。"
+      },
+      {
+        "en": "In exam reading, \"behavio(u)r\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“behavio(u)r”也可能表达相关义项，如“运行方式；表现”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:45",
+    "word": "belief",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "信念；看法",
+          "信仰；信任"
+        ]
+      }
+    ],
+    "etymology": "来自中古英语 beleve，由 be-（使）+ leve（信任、允许，来自古英语 leafa）构成，与 believe（相信）同源。",
+    "formation_semantic": "be-（使）+ lief（信任，与 believe 同根）；字面义为\"信任的状态\"。 从\"信任\"引申为\"信念、信仰\"，可以指宗教信仰（religious belief）也可指一般看法（it is my belief that...）。",
+    "examples": [
+      {
+        "en": "The scientist's belief in the power of evidence-based research guided her approach to investigating climate change.",
+        "zh": "这位科学家对循证研究力量的信念引导了她研究气候变化的方法。"
+      },
+      {
+        "en": "The passage uses \"belief\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“belief”，可结合证据和语法理解为“信念；看法”。"
+      },
+      {
+        "en": "In exam reading, \"belief\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“belief”也可能表达相关义项，如“信仰；信任”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:46",
+    "word": "believe",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "相信",
+          "认为；以为",
+          "信任"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 beliefan（相信、信任），由 be-（使）+ leafan（允许、信任）构成，与古高地德语 gilauben（相信）同源，最终源自原始日耳曼语 *ga-laubjan。",
+    "formation_semantic": "be-（使）+ lieve（信任，变体 of lief）；字面义为\"使信任、认为真实\"。 从\"信任某人/某物\"的基本义出发，引申为\"相信（某事是真的）\"、\"认为（某种观点正确）\"。",
+    "examples": [
+      {
+        "en": "Many educators believe that project-based learning is more effective than traditional lecture methods for developing critical thinking.",
+        "zh": "许多教育者认为，基于项目的学习在培养批判性思维方面比传统的讲座式教学更有效。"
+      },
+      {
+        "en": "The passage uses \"believe\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“believe”，可结合证据和语法理解为“相信”。"
+      },
+      {
+        "en": "In exam reading, \"believe\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“believe”也可能表达相关义项，如“认为；以为”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:47",
+    "word": "belong",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "属于",
+          "是……的成员",
+          "应在；适合处于"
+        ]
+      }
+    ],
+    "etymology": "来自中古英语 belongen（属于），由 be-（使）+ long（长、属于），古义为\"伸展到、与... 有关联\"。",
+    "formation_semantic": "be-（使）+ long（长、延伸）；字面义为\"延伸至... 的范围\"。 由\"与... 相关\"引申为\"属于（某人/某物）\"、\"是... 的成员\"、\"该放在（某处）\"。",
+    "examples": [
+      {
+        "en": "The fossils discovered in the cave belong to a previously unknown species of prehistoric mammals.",
+        "zh": "在洞穴中发现的化石属于一种此前未知的史前哺乳动物。"
+      },
+      {
+        "en": "The passage uses \"belong\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“belong”，可结合证据和语法理解为“属于”。"
+      },
+      {
+        "en": "In exam reading, \"belong\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“belong”也可能表达相关义项，如“是……的成员”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:48",
+    "word": "beneficial",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "有益的；有利的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 beneficialis（有益的），源自 beneficium（善行、好处），由 bene（好）+ facere（做）构成。",
+    "formation_semantic": "bene-（好）+ fic（做，来自 facere）+ -ial（形容词后缀）；字面义为\"做了好事的、有好处的\"。 由\"做了善事的\"引申为\"有益的、有利的\"，常用于描述对健康、发展、关系等方面有积极作用的事物。",
+    "examples": [
+      {
+        "en": "Regular physical exercise is beneficial not only for physical health but also for cognitive function and emotional well-being.",
+        "zh": "定期体育锻炼不仅对身体有益，对认知功能和情绪健康也有好处。"
+      },
+      {
+        "en": "The passage uses \"beneficial\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“beneficial”，可结合证据和语法理解为“有益的；有利的”。"
+      },
+      {
+        "en": "In exam reading, \"beneficial\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“beneficial”也可能表达相关义项，如“有益的；有利的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:49",
+    "word": "benefit",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "好处；利益",
+          "津贴；补助金"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "有益于；受益"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 beneficium（善行、好处），由 bene（好）+ facere（做）构成，字面义为\"做的好事\"。",
+    "formation_semantic": "bene-（好）+ fit（做，来自 facere）；与 beneficial 同根，但直接来自拉丁语名词形式。 由\"善行\"引申为\"利益、好处\"，以及\"津贴、补助金\"（如 welfare benefits），动词义为\"对... 有益\"。",
+    "examples": [
+      {
+        "en": "The new trade agreement will benefit both economies by reducing tariffs and increasing market access.",
+        "zh": "新的贸易协定将通过降低关税和增加市场准入使两国经济都受益。"
+      },
+      {
+        "en": "The passage uses \"benefit\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“benefit”，可结合证据和语法理解为“好处；利益”。"
+      },
+      {
+        "en": "In exam reading, \"benefit\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“benefit”也可能表达相关义项，如“津贴；补助金”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:50",
+    "word": "benevolent",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "仁慈的；慈善的；善意的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 benevolens（好意的），由 bene（好）+ volens（愿意的，velle 的现在分词，意为\"希望、意愿\"）构成。",
+    "formation_semantic": "bene-（好）+ vol-（意愿，来自 velle）+ -ent（形容词后缀）；字面义为\"心怀善意的\"。 从\"心存好意的\"引申为\"慈善的、仁慈的\"，常形容组织或个人的慈善行为。",
+    "examples": [
+      {
+        "en": "The benevolent foundation donated millions of dollars to support educational programs in underprivileged communities.",
+        "zh": "这家慈善基金会捐赠了数百万美元，用于支持贫困地区的教育项目。"
+      },
+      {
+        "en": "The passage uses \"benevolent\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“benevolent”，可结合证据和语法理解为“仁慈的；慈善的；善意的”。"
+      },
+      {
+        "en": "In exam reading, \"benevolent\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“benevolent”也可能表达相关义项，如“仁慈的；慈善的；善意的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:51",
+    "word": "benign",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "良性的",
+          "温和的；无害的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 benignus（好心的、仁慈的），由 bene（好）+ gignere（产生、出生）构成，字面义为\"生来就好的\"。",
+    "formation_semantic": "beni-（好，变体 of bene）+ gn（产生、出生）；字面义为\"天性善良的\"。 从\"善良的、温和的\"引申为医学语境中的\"良性的\"（如 benign tumor 良性肿瘤），与 malignant（恶性的）相对。",
+    "examples": [
+      {
+        "en": "The doctor confirmed that the growth was benign and required no immediate treatment, though regular monitoring was advised.",
+        "zh": "医生确认这个增生是良性的，不需要立即治疗，但建议定期监测。"
+      },
+      {
+        "en": "The passage uses \"benign\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“benign”，可结合证据和语法理解为“良性的”。"
+      },
+      {
+        "en": "In exam reading, \"benign\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“benign”也可能表达相关义项，如“温和的；无害的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:52",
+    "word": "challenge",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "挑战；难题",
+          "质疑"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "挑战；质疑"
+        ]
+      }
+    ],
+    "etymology": "来自中古英语 chalengen，源自拉丁语 calumnia（诬告、诽谤），原本带有负面含义。后经古法语 chalenge（争论、要求）传入英语，词义逐渐中性化。",
+    "formation_semantic": "源自 calumni（诬告），经由法语演变为\"挑战\"含义。 从\"诬告\"到\"质疑\"到\"挑战\"的词义演变是渐进的。现代英语中主要表示\"挑战、艰巨任务\"以及\"质疑（权威/观点）\"。",
+    "examples": [
+      {
+        "en": "The greatest challenge facing modern education is preparing students for jobs that do not yet exist.",
+        "zh": "现代教育面临的最大挑战是让学生为尚未存在的工作做好准备。"
+      },
+      {
+        "en": "The passage uses \"challenge\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“challenge”，可结合证据和语法理解为“挑战；难题”。"
+      },
+      {
+        "en": "In exam reading, \"challenge\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“challenge”也可能表达相关义项，如“质疑”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:53",
+    "word": "chance",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "机会",
+          "可能性",
+          "偶然；运气"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "冒险；碰巧"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 cheance（偶然事件、运气），源自拉丁语 cadentia（落下），是 cadere（落）的派生词。",
+    "formation_semantic": "源自 cadere（落下），与 incident（事件）、case（情况）等词同根。 从\"落下\"引申为\"事物偶然发生\"→ \"偶然、运气\"，进一步引申为\"可能性、机会\"。",
+    "examples": [
+      {
+        "en": "Many scientific discoveries were made by chance, highlighting the role of serendipity in the research process.",
+        "zh": "许多科学发现都是偶然获得的，凸显了意外发现在研究过程中的作用。"
+      },
+      {
+        "en": "The passage uses \"chance\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“chance”，可结合证据和语法理解为“机会”。"
+      },
+      {
+        "en": "In exam reading, \"chance\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“chance”也可能表达相关义项，如“可能性”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:54",
+    "word": "change",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "变化；改变",
+          "零钱"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "改变；变化；更换"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 changier，源自拉丁语 cambiare（交换、更换），与希腊语 kambein（弯曲）同源。",
+    "formation_semantic": "单一词根，经由法语进入中古英语，取代了古英语的 wendan。 从\"交换\"的基本义引申为\"改变、变化\"，可指任何事物的变化（从天气到社会变革）。",
+    "examples": [
+      {
+        "en": "Climate change poses unprecedented challenges to global agriculture, requiring innovative solutions and international cooperation.",
+        "zh": "气候变化给全球农业带来了前所未有的挑战，需要创新的解决方案和国际合作。"
+      },
+      {
+        "en": "The passage uses \"change\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“change”，可结合证据和语法理解为“变化；改变”。"
+      },
+      {
+        "en": "In exam reading, \"change\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“change”也可能表达相关义项，如“零钱”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:55",
+    "word": "channel",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "渠道；途径",
+          "频道",
+          "水道；海峡"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "引导；输送"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 chanel（水道、运河），源自拉丁语 canalis（管道、水渠），与 cane（藤条、管子）同根。",
+    "formation_semantic": "源自 canalis（管道），经由法语进入英语。 从\"水道、海峡\"（如 the English Channel）引申为\"渠道、途径\"，在传播学中指\"频道\"（电视频道）或\"沟通渠道\"。",
+    "examples": [
+      {
+        "en": "Social media has become a powerful channel for political communication, influencing public opinion on major policy issues.",
+        "zh": "社交媒体已成为政治传播的强大渠道，影响着公众对重大政策问题的看法。"
+      },
+      {
+        "en": "The passage uses \"channel\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“channel”，可结合证据和语法理解为“渠道；途径”。"
+      },
+      {
+        "en": "In exam reading, \"channel\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“channel”也可能表达相关义项，如“频道”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:56",
+    "word": "character",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "性格；品质",
+          "人物；角色",
+          "文字；符号",
+          "特色"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 character（雕刻的工具、标记），源自希腊语 kharaktēr（雕刻印记、独特特征），来自 kharassein（雕刻、刻痕）。",
+    "formation_semantic": "源自希腊语\"雕刻\"一词；字面义为\"刻下的痕迹\"。 从\"刻下的标记\"引申为\"文字符号\"（如汉字 character）、\"（人的）性格特征\"、\"（故事中的）人物角色\"。",
+    "examples": [
+      {
+        "en": "The protagonist's strong moral character and determination to overcome adversity inspired readers around the world.",
+        "zh": "主角坚强的道德品格和克服逆境的决心激励了世界各地的读者。"
+      },
+      {
+        "en": "The passage uses \"character\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“character”，可结合证据和语法理解为“性格；品质”。"
+      },
+      {
+        "en": "In exam reading, \"character\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“character”也可能表达相关义项，如“人物；角色”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:57",
+    "word": "characterise",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "描述……的特征",
+          "以……为特征"
+        ]
+      }
+    ],
+    "etymology": "由 character（特征）+ -ise（动词后缀）派生而来，17世纪进入英语，拼写有 -ise/-ize 两种变体。",
+    "formation_semantic": "character（特征）+ -ise（使成为）；字面义为\"描述... 的特征\"或\"成为... 的特征\"。 从\"刻画特征\"引申为\"以... 为特征\"（被动 be characterised by）以及\"描述... 的特征\"。",
+    "examples": [
+      {
+        "en": "The modern economy is characterised by rapid technological change and increasing global interconnectedness.",
+        "zh": "现代经济的特点在于快速的技术变革和日益增长的全球互联性。"
+      },
+      {
+        "en": "The passage uses \"characterise\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“characterise”，可结合证据和语法理解为“描述……的特征”。"
+      },
+      {
+        "en": "In exam reading, \"characterise\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“characterise”也可能表达相关义项，如“以……为特征”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:58",
+    "word": "characteristic",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "特征；特点"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "典型的；特有的"
+        ]
+      }
+    ],
+    "etymology": "由 character（特征）+ -istic（复合形容词后缀，来自 -ist + -ic）构成，17世纪中期进入英语。",
+    "formation_semantic": "character（特征）+ -istic（的）；字面义为\"有特征的\"。 作为形容词表示\"典型的、有特色的\"，作为名词表示\"特征、特质\"。",
+    "examples": [
+      {
+        "en": "One characteristic of successful entrepreneurs is their ability to adapt quickly to changing market conditions.",
+        "zh": "成功企业家的一个特征是他们能够快速适应不断变化的市场环境。"
+      },
+      {
+        "en": "The passage uses \"characteristic\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“characteristic”，可结合证据和语法理解为“特征；特点”。"
+      },
+      {
+        "en": "In exam reading, \"characteristic\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“characteristic”也可能表达相关义项，如“典型的；特有的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:59",
+    "word": "defend",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "保卫；防御",
+          "为……辩护；维护"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 defendere（击退、保卫），由 de-（离开、去除）+ fendere（打击、击打）构成。",
+    "formation_semantic": "de-（离开、去除）+ fend（打击）；字面义为\"通过击打来驱离\"即\"保卫\"。 从军事上的\"防御、保卫\"引申为法律上的\"辩护、为... 辩护\"，以及体育中的\"防守\"。",
+    "examples": [
+      {
+        "en": "The lawyer argued passionately to defend her client's rights, citing several precedents from previous court cases.",
+        "zh": "律师慷慨陈词，引用先前案件中的多个先例来捍卫她的当事人的权利。"
+      },
+      {
+        "en": "The passage uses \"defend\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“defend”，可结合证据和语法理解为“保卫；防御”。"
+      },
+      {
+        "en": "In exam reading, \"defend\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“defend”也可能表达相关义项，如“为……辩护；维护”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:60",
+    "word": "define",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "给……下定义",
+          "界定；限定",
+          "明确显示"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 definire（限定、确定），由 de-（完全地）+ finire（限制、终止，来自 finis 边界/界限）构成。",
+    "formation_semantic": "de-（完全地、强调）+ fine（界限、边界）；字面义为\"确定... 的界限/范围\"。 从\"划定边界\"引申为\"给... 下定义、界定\"，进一步引申为\"明确显示... 的特征\"。",
+    "examples": [
+      {
+        "en": "Economists define inflation as a sustained increase in the general price level of goods and services in an economy.",
+        "zh": "经济学家将通货膨胀定义为经济中商品和服务总体价格水平的持续上涨。"
+      },
+      {
+        "en": "The passage uses \"define\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“define”，可结合证据和语法理解为“给……下定义”。"
+      },
+      {
+        "en": "In exam reading, \"define\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“define”也可能表达相关义项，如“界定；限定”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:61",
+    "word": "definite",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "明确的；确定的",
+          "肯定的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 definitus（限定的、确定的），是 definire（限定）的过去分词，由 de-（完全地）+ finire（限制）构成。",
+    "formation_semantic": "de-（完全地）+ fin（界限）+ -ite（形容词后缀）；字面义为\"界限清楚的\"。 从\"界限明确的\"引申为\"明确的、确切的、确定的\"，与 indefinite（不确定的）相对。",
+    "examples": [
+      {
+        "en": "There is no definite evidence to support the claim that this drug is effective in treating the disease.",
+        "zh": "没有确切的证据支持这种药物对这种疾病有效的说法。"
+      },
+      {
+        "en": "The passage uses \"definite\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“definite”，可结合证据和语法理解为“明确的；确定的”。"
+      },
+      {
+        "en": "In exam reading, \"definite\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“definite”也可能表达相关义项，如“肯定的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:62",
+    "word": "definition",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "定义；释义",
+          "清晰度；明确性"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 definitio（界限、定义），由 definire（限定）的过去分词词干 + -io（名词后缀）构成。",
+    "formation_semantic": "de-（完全地）+ fin（界限）+ -ition（名词后缀）；字面义为\"划定界限的行为或结果\"。 由\"划定界限\"引申为\"定义、释义\"，还引申为（图像/声音的）清晰度（如 high-definition 高清）。",
+    "examples": [
+      {
+        "en": "The legal definition of \"reasonable doubt\" varies across different judicial systems and has significant implications for trial outcomes.",
+        "zh": "\"合理怀疑\"的法律定义在不同司法体系中有所不同，对审判结果有重大影响。"
+      },
+      {
+        "en": "The passage uses \"definition\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“definition”，可结合证据和语法理解为“定义；释义”。"
+      },
+      {
+        "en": "In exam reading, \"definition\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“definition”也可能表达相关义项，如“清晰度；明确性”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:63",
+    "word": "defy",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "违抗；公然反抗",
+          "难以；经不起"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 defier（挑战、藐视），由 de-（离开、去除）+ fier（信任，源自拉丁语 fidere 信任）构成，字面义为\"不再信任\"。",
+    "formation_semantic": "de-（去除、否定）+ fy（信任，来自 fidere）；字面义为\"不再信任某人\"。 从\"不再信任\"引申为\"公然反抗、藐视、违抗\"，进一步引申为\"（事物）难以...\"（如 defy explanation 难以解释）。",
+    "examples": [
+      {
+        "en": "The ancient building has defied centuries of natural disasters and still stands as a testament to remarkable engineering.",
+        "zh": "这座古老建筑经受住了几个世纪的自然灾害，依然屹立不倒，成为非凡工程的见证。"
+      },
+      {
+        "en": "The passage uses \"defy\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“defy”，可结合证据和语法理解为“违抗；公然反抗”。"
+      },
+      {
+        "en": "In exam reading, \"defy\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“defy”也可能表达相关义项，如“难以；经不起”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:64",
+    "word": "degree",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "程度；等级",
+          "学位",
+          "度数"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 dégré（步骤、等级），源自拉丁语 de-（向下）+ gradus（步、等级）。",
+    "formation_semantic": "de-（向下）+ gree（步、等级，来自 gradus）；字面义为\"向下的步子\"即\"一步步的进程\"。 从\"阶梯、步骤\"引申为\"等级、程度\"，以及教育领域的\"学位\"（完成一系列学业步骤后的认证）。",
+    "examples": [
+      {
+        "en": "To a large degree, the success of the project depends on effective collaboration between different departments.",
+        "zh": "在很大程度上，该项目的成功取决于不同部门之间的有效协作。"
+      },
+      {
+        "en": "The passage uses \"degree\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“degree”，可结合证据和语法理解为“程度；等级”。"
+      },
+      {
+        "en": "In exam reading, \"degree\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“degree”也可能表达相关义项，如“学位”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:65",
+    "word": "delay",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "推迟；延误"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "延迟；耽搁"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 delayer（延迟），由 de-（离开、强调）+ laier（留下、放置）构成。",
+    "formation_semantic": "de-（强调、离开）+ lay（放置）；字面义为\"放在一边、搁置\"。 从\"搁置\"引申为\"延迟、推迟、延误\"，既可用于主动延迟（delay the meeting），也可用于被迫延迟（flight delayed）。",
+    "examples": [
+      {
+        "en": "The construction of the new airport was delayed due to unforeseen environmental concerns and budget constraints.",
+        "zh": "新机场的建造因不可预见的环境问题和预算限制而被推迟。"
+      },
+      {
+        "en": "The passage uses \"delay\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“delay”，可结合证据和语法理解为“推迟；延误”。"
+      },
+      {
+        "en": "In exam reading, \"delay\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“delay”也可能表达相关义项，如“延迟；耽搁”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:66",
+    "word": "deliberate",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "故意的；蓄意的",
+          "深思熟虑的"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "仔细考虑；商议"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 deliberatus，是 deliberare（仔细权衡）的过去分词，由 de-（完全地）+ librare（称量、平衡，来自 libra 天平）构成。",
+    "formation_semantic": "de-（完全地）+ liber（天平、称量）+ -ate（动词/形容词后缀）；字面义为\"在天平上仔细称量\"。 从\"称量\"的比喻引申为\"仔细考虑、斟酌\"（动词），以及\"故意的、深思熟虑的\"（形容词）。",
+    "examples": [
+      {
+        "en": "The government's deliberate investment in renewable energy reflects its long-term commitment to sustainable development.",
+        "zh": "政府对可再生能源的审慎投资反映了其对可持续发展的长期承诺。"
+      },
+      {
+        "en": "The passage uses \"deliberate\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“deliberate”，可结合证据和语法理解为“故意的；蓄意的”。"
+      },
+      {
+        "en": "In exam reading, \"deliberate\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“deliberate”也可能表达相关义项，如“深思熟虑的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:67",
+    "word": "delicate",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "脆弱的；娇嫩的",
+          "精致的；精密的",
+          "微妙的；棘手的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 delicatus（诱人的、精致的、娇弱的），源自 deliciae（愉悦、诱惑），由 de-（强调）+ lacere（吸引、诱惑）构成。",
+    "formation_semantic": "de-（强调）+ lic（吸引，来自 lacere）+ -ate（形容词后缀）；字面义为\"引人喜爱的\"。 从\"诱人的、精致的\"引申为\"精密的、脆弱的、微妙的\"（如 delicate balance 微妙的平衡）、\"（健康）娇弱的\"。",
+    "examples": [
+      {
+        "en": "The delicate balance between economic growth and environmental protection requires carefully designed policies and regulations.",
+        "zh": "经济增长与环境保护之间的微妙平衡需要精心设计的政策和法规来维护。"
+      },
+      {
+        "en": "The passage uses \"delicate\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“delicate”，可结合证据和语法理解为“脆弱的；娇嫩的”。"
+      },
+      {
+        "en": "In exam reading, \"delicate\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“delicate”也可能表达相关义项，如“精致的；精密的”，因此要看上下文。"
+      }
+    ]
+  }
+]

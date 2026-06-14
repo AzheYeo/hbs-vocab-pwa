@@ -1,0 +1,1251 @@
+[
+  {
+    "id": "bikaoci_unit_09:53",
+    "word": "health",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "健康",
+          "卫生；医疗保健",
+          "状况；运行状态"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 hǣlþ（完整的、健康的状态），来自 hāl（完整的、健康的）。与 heal、whole 同源。",
+    "formation_semantic": "heal-（完整）+ -th（抽象名词后缀，表示\"状态\"）。类似构词：true → truth（真实）、strong → strength（力量）。 \"完整的状态\"→\"健康\"——身体或精神的良好状态。世界卫生组织定义健康为\"身体、心理和社会福祉的完全状态\"。",
+    "examples": [
+      {
+        "en": "Regular exercise and a balanced diet are essential for maintaining good health.",
+        "zh": "定期锻炼和均衡饮食对于保持良好健康至关重要。"
+      },
+      {
+        "en": "Students often meet the word \"health\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 health 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"health\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 health 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:54",
+    "word": "healthy",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "健康的",
+          "有益健康的",
+          "正常的；良好的"
+        ]
+      }
+    ],
+    "etymology": "由英语 health（健康）+ -y（形容词后缀）构成。health 源自古英语 hǣlþ。",
+    "formation_semantic": "health（健康）+ -y（形容词后缀，表示\"具有...性质的、充满...的\"）。同结构词包括 wealthy（富有的）、stealthy（隐秘的）。 \"拥有健康的\"→\"健康的、有益健康的\"——形容人身体健康或事物对健康有益的。引申为\"正常的、良好的\"（healthy economy 健康的经济）。",
+    "examples": [
+      {
+        "en": "A healthy society requires not only economic prosperity but also social justice and equality.",
+        "zh": "一个健康的社会不仅需要经济繁荣，还需要社会公正与平等。"
+      },
+      {
+        "en": "Students often meet the word \"healthy\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 healthy 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"healthy\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 healthy 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:55",
+    "word": "hesitate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "犹豫；迟疑",
+          "顾虑；不愿意"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 haesitare（粘住、犹豫不决），是 haerere（粘住、附着）的反复体（表示重复动作）。",
+    "formation_semantic": "haes-（粘住）+ -it-（反复体标记）+ -ate（动词后缀）。同根词包括 adhere（粘附——ad-朝 + haerere粘）、coherent（连贯的——co-一起 + haerere粘）。 \"粘在某处不动\"→\"犹豫、迟疑\"——就像脚被粘在地上一样无法迈步前进。hesitate 强调因不确定或担心而\"卡住\"做不了决定。",
+    "examples": [
+      {
+        "en": "The government should not hesitate to implement policies that protect the environment.",
+        "zh": "政府不应犹豫实施保护环境的政策。"
+      },
+      {
+        "en": "Students often meet the word \"hesitate\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 hesitate 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"hesitate\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 hesitate 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:56",
+    "word": "highlight",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "强调；突出",
+          "使醒目"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "最精彩的部分；亮点",
+          "高光；突出部分"
+        ]
+      }
+    ],
+    "etymology": "由英语 high（高、强）和 light（光、照亮）组合而成，最初是绘画术语——用\"高光\"（最亮的部分）来突出画面中的重点。",
+    "formation_semantic": "high（高的）+ light（光）。字面义\"强光\"——绘画中光线最强的区域。动词义\"强调、突出、使显著\"——就像用强光照亮某物使其格外醒目。 从绘画术语\"高光\"引申为\"强调、突出\"——让某事物在众多信息中特别突出。名词义\"最精彩的部分\"（highlights of the game 比赛亮点）。",
+    "examples": [
+      {
+        "en": "The report highlights the urgent need for investment in renewable energy infrastructure.",
+        "zh": "这份报告强调了投资可再生能源基础设施的紧迫性。"
+      },
+      {
+        "en": "Students often meet the word \"highlight\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 highlight 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"highlight\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 highlight 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:57",
+    "word": "highly",
+    "pos_defs": [
+      {
+        "pos": "adv.",
+        "defs": [
+          "高度地；非常",
+          "很；极其"
+        ]
+      }
+    ],
+    "etymology": "由古英语 hēah（高的）+ -lice（相当于现代英语 -ly 副词后缀）构成。high 的副词形式。",
+    "formation_semantic": "high（高的）+ -ly（副词后缀）。high 本身也可作副词（fly high 飞得高），highly 则专用于抽象含义（highly recommended 强烈推荐）。 \"高度地、非常\"——表示程度高。常与抽象动词搭配：highly regarded（备受推崇的）、highly likely（极有可能的）、highly educated（受过高等教育的）。",
+    "examples": [
+      {
+        "en": "The new drug has been highly effective in treating patients with the rare disease.",
+        "zh": "这种新药在治疗罕见病患者方面非常有效。"
+      },
+      {
+        "en": "Students often meet the word \"highly\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 highly 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"highly\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 highly 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:58",
+    "word": "immediate",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "立即的；即时的",
+          "直接的；最接近的",
+          "当前的；眼前的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 immediatus（没有中介的、直接的），由 in-（不、无）和 mediare（位于中间）构成。mediare 来自 medius（中间的）。",
+    "formation_semantic": "im-（由 in- 变来，表示\"不\"）+ medi-（中间）+ -ate（形容词后缀）。字面义\"没有中间事物的\"→\"直接的、立即的\"。同根词包括 medium（媒介——\"中间物\"）、middle（中间）、mediate（调解——\"居中\"）。 \"没有中间环节的\"→在时间上\"立即的\"（没有时间间隔）；在关系上\"直接的\"（没有中间人）；在空间上\"紧邻的\"（immediate neighbor 紧邻）。",
+    "examples": [
+      {
+        "en": "The government's immediate response to the crisis helped prevent further damage.",
+        "zh": "政府对危机的立即响应有助于防止进一步的损害。"
+      },
+      {
+        "en": "Students often meet the word \"immediate\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 immediate 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"immediate\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 immediate 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:59",
+    "word": "immense",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "巨大的；极大的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 immensus（无法测量的、无边无际的），由 in-（不、无）和 mensus（测量过的——metiri 的过去分词）构成。",
+    "formation_semantic": "im-（不）+ mense（测量——来自 mensus \"测量\"）。字面义\"无法测量的\"→\"巨大的、无边的\"。同根词包括 measure（测量——来自拉丁语 metiri）、mensuration（测量）。 \"大到无法测量的\"→\"巨大的、广大的\"——强调大到超出常规测量范围的程度。比 huge、very large 更有文学色彩，强调\"无边无际\"的感觉。",
+    "examples": [
+      {
+        "en": "The discovery of the new energy source has immense potential to transform the global economy.",
+        "zh": "新能源的发现具有改变全球经济的巨大潜力。"
+      },
+      {
+        "en": "Students often meet the word \"immense\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 immense 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"immense\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 immense 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:60",
+    "word": "immerse",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "使沉浸；使专心于",
+          "浸没；浸入"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 immersus（浸入的），是 immergere（浸入）的过去分词，由 in-（进入）和 mergere（沉没、浸入）构成。",
+    "formation_semantic": "im-（由 in- 变来，进入）+ merse（沉没）。同根词包括 emerge（浮现——e-向外 + merge-沉）、submerge（淹没——sub-在下面 + merge-沉）、merge（合并——\"沉到一起\"）。 \"沉入其中\"→\"沉浸在\"——物理上指\"把某物浸入液体中\"；比喻义指\"全身心投入\"（immerse oneself in work 埋头工作）。",
+    "examples": [
+      {
+        "en": "The researcher immersed herself in the study of ancient civilizations for over a decade.",
+        "zh": "这位研究者全身心投入到古代文明的研究中长达十多年。"
+      },
+      {
+        "en": "Students often meet the word \"immerse\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 immerse 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"immerse\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 immerse 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:61",
+    "word": "immigrant",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "移民；外来移居者"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "移民的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 immigrare（迁入），由 in-（进入）和 migrare（迁移）构成。immigrant 是 immigrare 的现在分词形式，后转为名词。",
+    "formation_semantic": "im-（进入）+ migr-（迁移）+ -ant（表示\"...的人\"）。同根词包括 emigrant（移民——e-向外 + migr-迁移）、migrate（迁徙）、migrant（迁徙者）。 \"迁入某地的人\"→\"（外来）移民\"——从外国迁入并长期定居的人。与 emigrant（迁出者）视角不同：immigrant 从迁入国角度看，emigrant 从迁出国角度看。",
+    "examples": [
+      {
+        "en": "The country has a long history of welcoming immigrants who contribute to its cultural diversity.",
+        "zh": "这个国家有着欢迎移民的悠久历史，他们为其文化多样性做出了贡献。"
+      },
+      {
+        "en": "Students often meet the word \"immigrant\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 immigrant 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"immigrant\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 immigrant 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:62",
+    "word": "imminent",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "即将发生的；迫近的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 imminens（突出的、即将到来的），是 imminere（突出、逼近）的现在分词，由 in-（朝、向）和 minere（突出、伸出来）构成。",
+    "formation_semantic": "im-（朝向）+ min-（突出）+ -ent（形容词后缀）。同根词包括 eminent（卓越的——e-向外 + min-突出）、prominent（显著的——pro-向前 + min-突出）。 \"朝着你伸出来\"→\"即将发生的、逼近的\"——形容坏事情快要发生（通常是不好的事）。与 eminent（卓越的）拼写接近但意义完全不同，注意区分。",
+    "examples": [
+      {
+        "en": "Scientists warn that an imminent environmental crisis could occur if carbon emissions are not reduced.",
+        "zh": "科学家警告说，如果不减少碳排放，一场迫在眉睫的环境危机可能会发生。"
+      },
+      {
+        "en": "Students often meet the word \"imminent\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 imminent 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"imminent\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 imminent 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:63",
+    "word": "immune",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "免疫的",
+          "不受影响的；免除的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 immunis（免除义务的、免税的），由 in-（不）和 munus（服务、义务、责任）构成。",
+    "formation_semantic": "im-（不）+ mune（来自 munus 义务）。原义\"不需履行义务的\"→\"免疫的、免除的\"。同根词包括 municipal（市政的——munus 公共职责 + capere 承担）、community（社区——com-共同 + munus 义务）。 \"免除的\"——医学上：免疫系统使人\"免除\"疾病；法律上：immune from prosecution（免于起诉）。immune system（免疫系统）——保护身体不受疾病侵袭的系统。",
+    "examples": [
+      {
+        "en": "The wealthy are not immune to the economic challenges that affect the rest of society.",
+        "zh": "富人也不能免受那些影响社会其他阶层的经济挑战。"
+      },
+      {
+        "en": "Students often meet the word \"immune\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 immune 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"immune\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 immune 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:64",
+    "word": "likely",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "可能的",
+          "有希望的"
+        ]
+      },
+      {
+        "pos": "adv.",
+        "defs": [
+          "很可能"
+        ]
+      }
+    ],
+    "etymology": "源自古诺尔斯语 likligr（可能的），来自 likr（相似的、像...的）。与古英语 gelic（相似的）同源。like（像）的形容词形式。",
+    "formation_semantic": "like（像、相似）+ -ly（形容词/副词后缀）。字面义\"像某事的\"→\"可能的\"——因为\"像\"所以\"有可能\"。 \"有可能的、可能的\"——作形容词（a likely outcome 可能的结果）和副词（It will likely rain 很可能下雨）。考研高频词，be likely to（很可能...）。",
+    "examples": [
+      {
+        "en": "Students who engage in regular physical activity are more likely to perform well academically.",
+        "zh": "经常参加体育活动的学生在学业上更有可能表现出色。"
+      },
+      {
+        "en": "Students often meet the word \"likely\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 likely 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"likely\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 likely 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:65",
+    "word": "likelihood",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "可能性；概率"
+        ]
+      }
+    ],
+    "etymology": "由英语 likely（可能的）+ -hood（名词后缀）构成。likely 源自古诺尔斯语 likligr。",
+    "formation_semantic": "likely（可能的）+ -hood（名词后缀，表示\"状态或性质\"）。同后缀词包括 neighborhood（邻里）、childhood（童年）。 \"可能性\"——likely 的名词形式，强调\"某事发生的概率\"。比 possibility 更强调\"基于证据判断的可能性大小\"。",
+    "examples": [
+      {
+        "en": "In all likelihood, the global economy will experience a slow recovery rather than a rapid rebound.",
+        "zh": "全球经济极有可能经历缓慢复苏而非快速反弹。"
+      },
+      {
+        "en": "Students often meet the word \"likelihood\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 likelihood 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"likelihood\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 likelihood 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:66",
+    "word": "likewise",
+    "pos_defs": [
+      {
+        "pos": "adv.",
+        "defs": [
+          "同样地；也",
+          "类似地"
+        ]
+      }
+    ],
+    "etymology": "由英语 like（相似的）和 -wise（表示\"方式/方向\"的后缀）构成。中古英语时期已出现。",
+    "formation_semantic": "like（相似的）+ -wise（方式）。字面义\"以相似的方式\"→\"同样地、也\"。同后缀词包括 clockwise（顺时针方向地）、otherwise（否则——\"用其他方式\"）。 \"以同样的方式\"→\"同样地、也\"——用于连接两个相似的情况。与 similarly 同义，但更简洁。",
+    "examples": [
+      {
+        "en": "The first experiment yielded positive results, and the second was likewise successful.",
+        "zh": "第一个实验产生了积极的结果，第二个同样取得了成功。"
+      },
+      {
+        "en": "Students often meet the word \"likewise\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 likewise 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"likewise\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 likewise 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:67",
+    "word": "self",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "自我；自身",
+          "个性；本性"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 self（自己、自身），源自原始日耳曼语 *selbaz。与德语 Selbst（自己）同源。",
+    "formation_semantic": "单音节日耳曼基本名词/代词。大量派生词：selfish（自私的）、selfless（无私的）、self-esteem（自尊）、self-confidence（自信）、self-reliance（自力更生）。 核心义为\"自我、自身\"——指一个人自己的本质或人格。现代心理学中 self 是核心概念（自我意识、自我认同）。",
+    "examples": [
+      {
+        "en": "The concept of self has been extensively studied in both psychology and philosophy.",
+        "zh": "自我的概念在心理学和哲学中都得到了广泛研究。"
+      },
+      {
+        "en": "Students often meet the word \"self\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 self 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"self\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 self 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_09:68",
+    "word": "selfish",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "自私的；只顾自己的"
+        ]
+      }
+    ],
+    "etymology": "由英语 self（自己）+ -ish（形容词后缀）构成。16世纪时产生。",
+    "formation_semantic": "self（自己）+ -ish（形容词后缀，表示\"有...倾向的、以...为主的\"）。与 selfless（无私的——self + -less 没有）相对。 \"以自我为中心的\"→\"自私的、利己的\"——只考虑自己利益，不顾他人。selfish behavior（自私行为）。",
+    "examples": [
+      {
+        "en": "Some critics argue that consumerism encourages selfish behavior at the expense of community values.",
+        "zh": "一些批评者认为，消费主义鼓励以牺牲社区价值观为代价的自私行为。"
+      },
+      {
+        "en": "Students often meet the word \"selfish\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 selfish 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"selfish\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 selfish 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:1",
+    "word": "choke",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "窒息；噎住",
+          "阻塞；堵塞",
+          "抑制；压制"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "窒息；堵塞"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 ācēocian（窒息、噎住），是拟声词——模仿喉咙被堵住时发出的声音。",
+    "formation_semantic": "古英语动词，属于拟声构词。中古英语时期变为 choken。 核心义\"窒息、噎住\"——喉咙被异物堵塞无法呼吸。引申为\"抑制、压制\"（choke back tears 强忍住泪水），以及\"（引擎等）因供油过量而熄火\"。",
+    "examples": [
+      {
+        "en": "The rising cost of living is choking economic growth and reducing consumer spending power.",
+        "zh": "生活成本的上升正在抑制经济增长并降低消费者的消费能力。"
+      },
+      {
+        "en": "Students often meet the word \"choke\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 choke 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"choke\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 choke 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:2",
+    "word": "chop",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "砍；劈",
+          "切碎；剁碎",
+          "削减"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "砍；劈",
+          "排骨"
+        ]
+      }
+    ],
+    "etymology": "源自古法语 coper（切、砍），与拉丁语 colaphus（拳打）有关。是中古英语时期进入的。",
+    "formation_semantic": "经古法语 coper（切、砍）进入英语。原为拟声词——模仿砍东西的声音。 \"用力砍/切\"——用刀、斧等工具垂直劈砍。名词义\"排骨\"（切下来的一块肉）。chop up（切碎）。",
+    "examples": [
+      {
+        "en": "The government decided to chop funding for several outdated programs and redirect resources.",
+        "zh": "政府决定削减几个过时项目的资金并重新分配资源。"
+      },
+      {
+        "en": "Students often meet the word \"chop\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 chop 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"chop\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 chop 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:3",
+    "word": "circumstance",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "情况；情形",
+          "环境；条件"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 circumstantia（周围的情况），由 circum-（围绕）和 stare（站立）构成。字面义\"站在周围的东西\"。",
+    "formation_semantic": "circum-（围绕）+ st-（站立）+ -ance（名词后缀）。同根词包括 circle（圆——circ-圆）、circus（马戏团——\"圆形场地\"）、station（车站——\"站立的地方\"）、stand（站立）。 \"环绕在周围的情况\"→\"环境、条件、境况\"——指影响事件或情况的客观因素。常用复数 circumstances。",
+    "examples": [
+      {
+        "en": "Under the current economic circumstances, many companies are forced to reduce their workforce.",
+        "zh": "在当前的经济环境下，许多公司被迫裁员。"
+      },
+      {
+        "en": "Students often meet the word \"circumstance\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 circumstance 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"circumstance\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 circumstance 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:4",
+    "word": "cite",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "引用；引证",
+          "举例说明",
+          "传唤；传讯"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 citare（呼唤、召唤、引用），是 ciere（使运动、呼唤）的反复体（表示重复动作）。",
+    "formation_semantic": "来自拉丁语 citare（召唤）。同根词包括 excite（使兴奋——ex-向外 + cit-呼唤）、incite（煽动——in-进入 + cit-呼唤）、recite（背诵——re-再次 + cit-呼唤）。 \"召唤出来\"→在学术写作中\"引用（他人的话/文献）\"以支持观点。法律中指\"传唤（出庭）\"。日常语言中，cite an example（举出例子）。",
+    "examples": [
+      {
+        "en": "The researcher cited several studies to support her argument about the benefits of meditation.",
+        "zh": "研究人员引用了多项研究来支持她关于冥想益处的论证。"
+      },
+      {
+        "en": "Students often meet the word \"cite\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 cite 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"cite\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 cite 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:5",
+    "word": "claim",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "声称；宣称",
+          "要求；索取",
+          "夺去生命"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "声明；说法",
+          "要求；索赔",
+          "权利；所有权"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 clamare（呼喊、叫喊），经古法语 clamer（宣称、要求）进入英语。",
+    "formation_semantic": "直接来自拉丁语 clamare 的词干。同根词包括 proclaim（宣告——pro-向前 + claim）、exclaim（惊叫——ex-向外 + claim）、acclaim（喝彩——ad-朝 + claim）、reclaim（回收——\"喊回来\"）。 \"喊出来\"→\"声称、宣称\"（口头主张）；\"要求（权利）\"（大声主张自己的权益）；\"索赔\"（对损失的赔偿要求）。名词同形。",
+    "examples": [
+      {
+        "en": "The scientist's claim about the effectiveness of the new treatment was supported by clinical trials.",
+        "zh": "这位科学家关于新疗法有效性的主张得到了临床试验的支持。"
+      },
+      {
+        "en": "Students often meet the word \"claim\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 claim 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"claim\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 claim 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:6",
+    "word": "clear",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "清楚的；明确的",
+          "清澈的；无障碍的",
+          "无疑的"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "清除；清理",
+          "澄清；证明无罪",
+          "通过；批准"
+        ]
+      },
+      {
+        "pos": "adv.",
+        "defs": [
+          "完全地；径直地"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 clarus（明亮的、清晰的、著名的）。经古法语 cler（明亮的）进入英语。",
+    "formation_semantic": "来自拉丁语 clarus。同根词包括 clarify（澄清——clar-清楚 + -ify使）、clarity（清晰——clar- + -ity）、declare（宣告——de-加强 + clar-清楚）。 核心义\"清晰的、明亮的\"——既可指物理上的透明/明亮（clear water 清澈的水），也可指思维和表达的清晰（clear explanation 清晰的解释），还可指\"明确的、无疑的\"（clear evidence 明确证据）。",
+    "examples": [
+      {
+        "en": "There is clear evidence that regular exercise reduces the risk of chronic diseases.",
+        "zh": "有明确的证据表明定期锻炼降低慢性病的风险。"
+      },
+      {
+        "en": "Students often meet the word \"clear\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 clear 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"clear\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 clear 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:7",
+    "word": "border",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "边界；边境",
+          "边缘；边沿"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "与……接壤",
+          "接近；近似"
+        ]
+      }
+    ],
+    "etymology": "源自古法语 bordure（边、边缘），来自 bord（船的舷侧、边缘）。与古日耳曼语 *bord（板、边缘）同源。",
+    "formation_semantic": "来自古法语 bord（边缘）+ -ure（名词后缀），后英语化缩写为 border。同源词包括 board（木板/板子——\"一片边缘\"）、sideboard。 \"边缘\"→\"边界、国界\"——两个国家或区域之间的分界线。动词\"接壤\"（border on 与...接壤）。比喻义\"近乎\"（border on absurdity 近乎荒谬）。",
+    "examples": [
+      {
+        "en": "The two countries agreed to resolve their border dispute through peaceful negotiations.",
+        "zh": "两国同意通过和平谈判解决边境争端。"
+      },
+      {
+        "en": "Students often meet the word \"border\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 border 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"border\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 border 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:8",
+    "word": "bore",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "使厌烦",
+          "钻孔；挖洞"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "令人厌烦的人或事",
+          "孔；内径"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 borian（钻孔），与拉丁语 forare（钻孔）同源。bore 作\"使厌烦\"义来源不确定——可能来自\"钻孔\"的单调声音，但更可能是另一个词。",
+    "formation_semantic": "古英语 borian（钻孔）。同源词包括拉丁语 forare（钻孔）→英语 perforate（穿孔）。作\"使厌烦\"义的来源不明确。 两个核心义：(1)\"钻/凿孔\"——用工具在物体上钻孔；(2)\"使厌烦\"——因冗长乏味而让人感到无聊。名词\"令人厌烦的人/事\"。",
+    "examples": [
+      {
+        "en": "The lengthy presentation bored the audience, many of whom struggled to stay awake.",
+        "zh": "冗长的演讲使观众感到厌烦，许多人努力保持清醒。"
+      },
+      {
+        "en": "Students often meet the word \"bore\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 bore 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"bore\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 bore 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:9",
+    "word": "born",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "出生的",
+          "天生的；与生俱来的"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 beran（生育、承担）的过去分词 boren。与 bear（生育）、birth（出生）同源。",
+    "formation_semantic": "bear（生育）的过去分词。与 birth（出生——bear 的名词形式）同源。 \"被生出来的\"→\"出生的\"。引申义\"天生的\"（born leader 天生的领导者）。be born（出生于）。born and raised（土生土长的）。",
+    "examples": [
+      {
+        "en": "The concept of sustainable development was born out of the growing awareness of environmental issues.",
+        "zh": "可持续发展的概念诞生于人们对环境问题日益增长的认识。"
+      },
+      {
+        "en": "Students often meet the word \"born\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 born 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"born\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 born 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:10",
+    "word": "bother",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "打扰；烦扰",
+          "费心；麻烦"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "麻烦；烦恼"
+        ]
+      }
+    ],
+    "etymology": "词源不确定，可能来自爱尔兰语 buadhartha（烦恼的、焦虑的），也可能来自英语 brother（兄弟）的某种用法。18世纪进入英语。",
+    "formation_semantic": "词源不确定。可能为拟声词，模仿不耐烦时发出的声音。 \"打扰、烦扰\"——给人带来不便或烦恼。三个核心义：(1)\"打扰\"（Sorry to bother you）；(2)\"使烦恼\"（What's bothering you?）；(3)\"费心去做\"（I didn't bother to check）。",
+    "examples": [
+      {
+        "en": "Many people do not bother to read the terms and conditions before signing online agreements.",
+        "zh": "许多人在签署在线协议前懒得阅读条款和条件。"
+      },
+      {
+        "en": "Students often meet the word \"bother\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 bother 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"bother\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 bother 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:11",
+    "word": "acquire",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "获得；取得",
+          "学到；习得"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 acquirere（获取、增加），由 ad-（朝、向）和 quaerere（寻求、询问）构成。",
+    "formation_semantic": "ac-（由 ad- 变来）+ quire（来自 quaerere 寻求）。同根词包括 query（疑问）、question（问题）、require（要求——re-再 + quire寻求）、inquire（询问——in-进入 + quire寻求）。 \"努力寻求以获得\"→\"获得、获取、学到\"——强调通过努力或过程逐渐获得知识、技能、财产等。比 get 更正式，强调\"经过努力而获得\"。",
+    "examples": [
+      {
+        "en": "Children acquire language skills through constant exposure and interaction with their environment.",
+        "zh": "儿童通过不断接触环境并与之互动来习得语言技能。"
+      },
+      {
+        "en": "Students often meet the word \"acquire\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 acquire 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"acquire\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 acquire 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:12",
+    "word": "acquisition",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "获得；取得",
+          "收购；购置",
+          "习得；获得物"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 acquisitio（获得），来自 acquirere（获取）。与 acquire 同源。",
+    "formation_semantic": "ac-（加强）+ quisit-（来自 quaerere 寻求的过去分词）+ -ion（名词后缀）。acquire 的名词形式。 \"获得的行为或结果\"——可指知识/技能的\"习得\"；商业中指\"收购\"（公司、资产）；也可指\"获得物\"（收藏品、新购的物品）。",
+    "examples": [
+      {
+        "en": "The company's acquisition of the smaller start-up expanded its market share significantly.",
+        "zh": "公司对这家小型初创企业的收购显著扩大了其市场份额。"
+      },
+      {
+        "en": "Students often meet the word \"acquisition\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 acquisition 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"acquisition\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 acquisition 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:13",
+    "word": "act",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "行动；做事",
+          "表演；扮演",
+          "起作用"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "行为；行动",
+          "法案；法令",
+          "一幕；表演"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 agere（做、驱动、行动）的过去分词 actus（做的行为）。经法语 acte 进入英语。",
+    "formation_semantic": "来自拉丁语 actus（做出来的事）。同根词极其丰富：action（行动）、active（积极的）、actor（演员——\"做事的人\"）、actual（实际的——\"已做出来的\"）、agenda（议程——\"要做的事\"）、agent（代理人——\"做的人\"）。 \"做出的事\"——可指具体的\"行为/行动\"（act of kindness 善举）；法律上的\"法令/法案\"；戏剧的\"幕\"（剧中的一个段落）。动词\"行动/扮演\"。",
+    "examples": [
+      {
+        "en": "The government must act quickly to prevent the economic situation from worsening further.",
+        "zh": "政府必须迅速采取行动，防止经济形势进一步恶化。"
+      },
+      {
+        "en": "Students often meet the word \"act\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 act 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"act\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 act 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:14",
+    "word": "action",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "行动；行为",
+          "作用；影响",
+          "诉讼；措施"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 actio（行动、行为），来自 agere（做）的过去分词 actus。与 act 同源。",
+    "formation_semantic": "act-（做）+ -ion（名词后缀，表示\"行为或过程\"）。与 act 相比，action 更强调\"行动的过程\"，而 act 强调\"具体的单个行为\"。 \"行动、行为\"——强调过程。法律用语\"诉讼\"（take legal action 提起法律诉讼）。军事用语\"战斗行动\"。固定短语 in action（在行动中）。",
+    "examples": [
+      {
+        "en": "Environmental groups have called for immediate action to reduce plastic pollution in the ocean.",
+        "zh": "环保组织呼吁立即采取行动减少海洋塑料污染。"
+      },
+      {
+        "en": "Students often meet the word \"action\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 action 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"action\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 action 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:15",
+    "word": "activate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "激活；启动",
+          "使活动起来"
+        ]
+      }
+    ],
+    "etymology": "由英语 active（活跃的）+ -ate（动词后缀）构成，来自拉丁语 activus（活跃的）。",
+    "formation_semantic": "act-（做）+ -ive（形容词）+ -ate（动词后缀，表示\"使...\"）。activate = \"使变为活跃的\"→\"激活、启动\"。 \"使活跃起来\"→\"激活、启动、触发\"——使某物从静止或待机状态变为工作状态。科技用语中极常见（activate an account 激活账户）。",
+    "examples": [
+      {
+        "en": "The new policy will activate a series of measures designed to stimulate economic growth.",
+        "zh": "新政策将启动一系列旨在刺激经济增长的措施。"
+      },
+      {
+        "en": "Students often meet the word \"activate\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 activate 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"activate\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 activate 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:16",
+    "word": "active",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "积极的；主动的",
+          "活跃的",
+          "有效的；在运转的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 activus（活跃的、积极的），来自 agere（做、行动）的过去分词 actus。",
+    "formation_semantic": "act-（做）+ -ive（形容词后缀，表示\"具有...性质的\"）。与 passive（被动的）相对。语法中指\"主动语态\"。 \"正在做事的、活跃的\"——形容人充满活力、积极参与。可指事物\"在活动中的\"（active volcano 活火山）。语法中 active voice（主动语态）。",
+    "examples": [
+      {
+        "en": "Active participation in class discussions helps students develop critical thinking skills.",
+        "zh": "积极参与课堂讨论有助于学生培养批判性思维能力。"
+      },
+      {
+        "en": "Students often meet the word \"active\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 active 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"active\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 active 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:17",
+    "word": "activity",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "活动",
+          "活跃；活性",
+          "行动；工作"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 activitas（活跃、活动），来自 activus（活跃的）。与 active 同源。",
+    "formation_semantic": "act-（做）+ -iv-（连接部分）+ -ity（名词后缀，表示\"状态或性质\"）。active 的名词形式。 \"活动的状态\"或\"具体的活动\"——可指物理活动（physical activity 体育活动）、社会活动（social activities 社交活动）、经济活动（economic activity 经济活动）。",
+    "examples": [
+      {
+        "en": "Regular physical activity is associated with improved mental health and cognitive function.",
+        "zh": "定期的体育活动与改善的心理健康和认知功能相关。"
+      },
+      {
+        "en": "Students often meet the word \"activity\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 activity 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"activity\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 activity 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:18",
+    "word": "actual",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "实际的；真实的",
+          "事实上的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 actualis（实际的、真实的），来自 actus（行为、事件），即\"已经发生的事\"。",
+    "formation_semantic": "act-（做）+ -ual（形容词后缀）。字面义\"已经做出来的\"→\"实际的、真实的\"。与 real 同义但更强调\"已发生/已存在的事实\"。 \"实际的、真实的\"——指与实际情况相符的、非想象的或非理论推测的。in actual fact（事实上）。actual 强调\"确实存在的\"，与 potential（潜在的）相对。",
+    "examples": [
+      {
+        "en": "The actual cost of the project was much higher than the initial estimate.",
+        "zh": "项目的实际成本远高于最初的估算。"
+      },
+      {
+        "en": "Students often meet the word \"actual\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 actual 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"actual\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 actual 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:19",
+    "word": "acute",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "严重的；急性的",
+          "敏锐的；深刻的",
+          "尖锐的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 acutus（锋利的、尖锐的），是 acuere（磨尖）的过去分词。与 acid（酸的——\"刺鼻的\"）、acupuncture（针灸——acus 针 + punctura 刺）同源。",
+    "formation_semantic": "来自拉丁语 acuere（磨尖）的过去分词。同根词包括 acid（酸的——\"刺鼻/刺舌\"）、acupuncture（针灸）。 \"锋利的\"→多个引申方向：医学中\"急性的\"（acute disease 急性病——发作猛烈），几何中\"锐角的\"（acute angle 锐角），认知中\"敏锐的\"（acute observation 敏锐的观察），程度中\"剧烈的\"（acute pain 剧痛）。",
+    "examples": [
+      {
+        "en": "The country is facing an acute shortage of skilled workers in the technology sector.",
+        "zh": "该国科技行业正面临熟练工人的严重短缺。"
+      },
+      {
+        "en": "Students often meet the word \"acute\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 acute 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"acute\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 acute 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:20",
+    "word": "despise",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "鄙视；看不起"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 despicere（向下看→轻视），由 de-（向下）和 specere（看）构成。",
+    "formation_semantic": "de-（向下）+ spise（来自 specere \"看\"的变体）。字面义\"向下看\"→\"鄙视、看不起\"。同根词包括 despite（尽管——\"向下看\"的蔑视）、spectacle（景象——\"看的东西\"）、inspect（检查——\"向内看\"）。 \"向下看某人\"——用俯视的眼光看待别人，即\"鄙视、看不起\"。比 hate（憎恨）多了一层\"蔑视\"的意味。",
+    "examples": [
+      {
+        "en": "Many people despise the culture of consumerism that prioritizes material wealth over personal well-being.",
+        "zh": "许多人鄙视那种将物质财富置于个人福祉之上的消费主义文化。"
+      },
+      {
+        "en": "Students often meet the word \"despise\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 despise 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"despise\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 despise 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:21",
+    "word": "despite",
+    "pos_defs": [
+      {
+        "pos": "prep.",
+        "defs": [
+          "尽管；虽然"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 despectus（向下看、蔑视），是 despicere（向下看）的过去分词。经古法语 despit（蔑视）进入英语。",
+    "formation_semantic": "与 despise 同源——都来自 de-（向下）+ specere（看）。in spite of 与 despite 同义，且 spite 也来自同一词根。 原义\"蔑视\"→在现代英语中转为纯粹的介词\"尽管、不管\"——表示\"不顾（某种不利或反对因素）\"。despite = in spite of，但更正式。",
+    "examples": [
+      {
+        "en": "Despite the economic challenges, the company managed to increase its profits this year.",
+        "zh": "尽管面临经济挑战，公司今年仍实现了利润增长。"
+      },
+      {
+        "en": "Students often meet the word \"despite\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 despite 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"despite\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 despite 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:22",
+    "word": "energetic",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "精力充沛的",
+          "积极有力的"
+        ]
+      }
+    ],
+    "etymology": "源自希腊语 energeia（活动、运作），来自 ergon（工作、行动）。energeia 由 en-（在里面）和 ergon（工作）构成。",
+    "formation_semantic": "en-（在里面）+ erg-（工作）+ -etic（形容词后缀）。同根词包括 energy（能量——en-在内 + erg-工作→内在的工作力量）、ergonomic（人体工程学的——ergon 工作 + nomos 法则）。 \"充满内在工作力量的\"→\"精力充沛的、充满活力的\"——形容人活跃、有力、精神旺盛。",
+    "examples": [
+      {
+        "en": "The energetic debate among scholars highlighted the complexity of the issue.",
+        "zh": "学者们充满活力的辩论突显了问题的复杂性。"
+      },
+      {
+        "en": "Students often meet the word \"energetic\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 energetic 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"energetic\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 energetic 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:23",
+    "word": "energy",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "能量；能源",
+          "精力；活力"
+        ]
+      }
+    ],
+    "etymology": "源自希腊语 energeia（活动、运作），由 en-（在里面）和 ergon（工作）构成。经拉丁语 energia 进入英语。",
+    "formation_semantic": "en-（在里面）+ erg-（工作）+ -y（名词后缀）。同根词包括 energetic、ergonomic。 \"内在的工作能力\"→\"能量、精力、能源\"。物理学中指做功的能力；日常中指人的精力和活力；经济学中指能源（如石油、电力）。",
+    "examples": [
+      {
+        "en": "The transition to renewable energy is essential for reducing carbon emissions and combating climate change.",
+        "zh": "向可再生能源转型对于减少碳排放和应对气候变化至关重要。"
+      },
+      {
+        "en": "Students often meet the word \"energy\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 energy 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"energy\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 energy 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:24",
+    "word": "enforce",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "执行；实施",
+          "强制执行；强迫遵守"
+        ]
+      }
+    ],
+    "etymology": "由英语 en-（使...）和 force（力量）组合而成，经古法语 enforcer（加强、强制执行）进入英语。",
+    "formation_semantic": "en-（使）+ force（力量）。字面义\"使有力量\"→\"执行、实施、强制\"。同根词包括 force（力量/强制）、forced（被迫的）、forceful（有力的）。 \"注入力量\"→\"强制执行（法律/规则）\"——用权力确保法律或规定得到遵守。也可表示\"迫使（某种情况发生）\"。",
+    "examples": [
+      {
+        "en": "The government must enforce environmental regulations to hold polluting companies accountable.",
+        "zh": "政府必须执行环境法规，让污染企业承担责任。"
+      },
+      {
+        "en": "Students often meet the word \"enforce\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 enforce 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"enforce\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 enforce 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  }
+]

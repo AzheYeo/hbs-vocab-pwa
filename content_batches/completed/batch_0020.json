@@ -1,0 +1,1261 @@
+[
+  {
+    "id": "bikaoci_unit_11:28",
+    "word": "victim",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "受害者；遇难者",
+          "牺牲品"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 victima（\"sacrificial animal\"，即\"祭品、牺牲\"），原始印欧语系词根 weik-（\"to consecrate, set apart\"，即\"奉献、献祭\"）。",
+    "formation_semantic": "victim（祭品） \"献给神的祭品\" → \"牺牲品\" → \"受害者、遇难者\"。",
+    "examples": [
+      {
+        "en": "Victims of natural disasters often require both immediate aid and long-term support.",
+        "zh": "自然灾害的受害者通常既需要即时援助，也需要长期支持。"
+      },
+      {
+        "en": "Students often meet the word \"victim\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 victim 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"victim\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 victim 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:29",
+    "word": "click",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "点击",
+          "咔嗒声"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "点击",
+          "突然明白；豁然开朗",
+          "合得来"
+        ]
+      }
+    ],
+    "etymology": "拟声词，模仿轻轻撞击的声音。17世纪开始使用，最初指钟表等机械装置发出的咔嗒声。",
+    "formation_semantic": "拟声词根。 \"咔嗒声\" → \"（鼠标）点击\" → \"恍然大悟（脑中突然接通）\" / \"合得来\"。",
+    "examples": [
+      {
+        "en": "With a single click, users can access thousands of academic journals online.",
+        "zh": "只需点击一下，用户就可以在线访问数千种学术期刊。"
+      },
+      {
+        "en": "Students often meet the word \"click\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 click 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"click\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 click 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:30",
+    "word": "client",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "客户；顾客",
+          "委托人；当事人"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 cliens（\"follower, retainer\"，即\"追随者、随从\"），来自 cluere（\"to hear, obey, be called\"，即\"听从、被称为\"）。",
+    "formation_semantic": "cli（= clu 的变体 \"听\"）+ -ent（名词后缀，表示人） \"听从者\" → \"依附于庇护人的人\" → \"委托人、客户\"。",
+    "examples": [
+      {
+        "en": "The lawyer carefully reviewed the evidence before meeting with her client.",
+        "zh": "律师在会见客户之前仔细审查了证据。"
+      },
+      {
+        "en": "Students often meet the word \"client\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 client 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"client\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 client 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:31",
+    "word": "cling",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "紧紧抓住；黏着",
+          "依附；坚持"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 clingan（\"to hold fast, stick together\"，即\"紧紧抓住、粘在一起\"），原始日耳曼语 kling-。",
+    "formation_semantic": "单一词根。 \"粘在一起\" → \"紧紧抓住、依附\" → \"坚持、固执于\"。",
+    "examples": [
+      {
+        "en": "Some people cling to traditional beliefs despite overwhelming evidence to the contrary.",
+        "zh": "尽管有大量相反证据，有些人仍固守传统观念。"
+      },
+      {
+        "en": "Students often meet the word \"cling\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 cling 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"cling\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 cling 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:32",
+    "word": "close",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "近的；接近的",
+          "亲密的；密切的",
+          "严密的；细致的"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "关闭；合上",
+          "结束；终止"
+        ]
+      },
+      {
+        "pos": "adv.",
+        "defs": [
+          "接近地；靠近地"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 claudere（\"to shut, close\"，即\"关闭\"），经由古法语 clos（过去分词形式）进入英语。",
+    "formation_semantic": "clos（关闭）+ -e \"关闭\" → \"结束\" / \"紧密的、靠近的\"（空间上\"关闭\"即无间隙）。",
+    "examples": [
+      {
+        "en": "The researchers are close to developing a more efficient solar energy system.",
+        "zh": "研究人员接近开发出更高效的太阳能系统。"
+      },
+      {
+        "en": "Students often meet the word \"close\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 close 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"close\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 close 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:33",
+    "word": "closet",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "壁橱；储藏室"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "秘密的；不公开的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 clausum（\"enclosed space\"），经由古法语 closet（\"small enclosure\"，即\"小隔间\"）进入英语。clos（关闭）+ -et（小）。",
+    "formation_semantic": "clos（关闭）+ -et（小后缀） \"关闭的小空间\" → \"壁橱、储藏室\" → \"隐蔽的\" / \"秘密（藏在柜中）\"。",
+    "examples": [
+      {
+        "en": "The politician was forced to admit that he had a closet full of undeclared assets.",
+        "zh": "这位政客被迫承认他有一整柜未申报的资产。"
+      },
+      {
+        "en": "Students often meet the word \"closet\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 closet 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"closet\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 closet 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:34",
+    "word": "code",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "代码；编码",
+          "密码；暗号",
+          "准则；规范"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "编码；把……译成代码"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 codex（\"book, writing tablet\"，即\"书、写字板\"），最初指\"树干\"（因古代写字板用木头制成），后来指\"法典\"。",
+    "formation_semantic": "cod（= codex \"书\"）+ -e \"书、法典\" → \"法律汇编\" → \"代码、密码、准则\"。",
+    "examples": [
+      {
+        "en": "Programmers must write clean and readable code to facilitate team collaboration.",
+        "zh": "程序员必须编写清晰可读的代码以促进团队协作。"
+      },
+      {
+        "en": "Students often meet the word \"code\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 code 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"code\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 code 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:35",
+    "word": "personal",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "个人的；私人的",
+          "亲自的",
+          "身体的；人身的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 personalis，由 persona（\"mask, character, person\"，即\"面具、人物\"）加形容词后缀 -alis 构成。",
+    "formation_semantic": "person（人）+ -al（...的） \"属于个人的\" → \"私人的、亲自的\"。",
+    "examples": [
+      {
+        "en": "The professor shared some personal experiences with the students during the lecture.",
+        "zh": "教授在讲座中与学生分享了一些个人经历。"
+      },
+      {
+        "en": "Students often meet the word \"personal\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 personal 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"personal\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 personal 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:36",
+    "word": "personality",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "个性；人格",
+          "名人；风云人物"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 personalitas，由 personalis（\"personal\"）加抽象名词后缀 -itas 构成。",
+    "formation_semantic": "person（人）+ -al（...的）+ -ity（抽象名词后缀） \"作为人的特质\" → \"性格、个性\" → \"人格\"。",
+    "examples": [
+      {
+        "en": "A child's personality is shaped by both genetic factors and environmental influences.",
+        "zh": "孩子的性格由遗传因素和环境因素共同塑造。"
+      },
+      {
+        "en": "Students often meet the word \"personality\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 personality 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"personality\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 personality 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:37",
+    "word": "personnel",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "人员；员工",
+          "人事部门"
+        ]
+      }
+    ],
+    "etymology": "源自法语 personnel（\"personal\"），作为名词使用时表示\"人员\"。与 personal 同源，但保留了法语的拼写形式。",
+    "formation_semantic": "person（人）+ -n- + -el（= -al 的法语变体） \"个人的集合\" → \"全体人员、员工\" → \"人事部门\"。",
+    "examples": [
+      {
+        "en": "The company is recruiting qualified personnel to work in its research and development department.",
+        "zh": "公司正在招聘合格人员到研发部门工作。"
+      },
+      {
+        "en": "Students often meet the word \"personnel\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 personnel 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"personnel\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 personnel 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:38",
+    "word": "form",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "形式；形态",
+          "表格",
+          "种类；类型"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "形成；构成",
+          "建立；组成"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 forma（\"shape, figure, form\"，即\"形状、形态\"），经由古法语 forme 进入英语。",
+    "formation_semantic": "单一词根。 \"形状、形态\" → \"形式、方式\" → \"表格\" / \"形成\"。",
+    "examples": [
+      {
+        "en": "Water can exist in three forms: solid, liquid, and gas.",
+        "zh": "水可以以三种形态存在：固态、液态和气态。"
+      },
+      {
+        "en": "Students often meet the word \"form\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 form 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"form\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 form 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:39",
+    "word": "formal",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "正式的；正规的",
+          "形式上的",
+          "拘谨的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 formalis，由 forma（\"form\"）加形容词后缀 -alis 构成。",
+    "formation_semantic": "form（形式）+ -al（...的） \"符合形式的\" → \"正式的、正规的\" → \"形式上的\"。",
+    "examples": [
+      {
+        "en": "The two companies signed a formal agreement to collaborate on artificial intelligence research.",
+        "zh": "两家公司签署了正式协议，在人工智能研究方面进行合作。"
+      },
+      {
+        "en": "Students often meet the word \"formal\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 formal 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"formal\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 formal 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:40",
+    "word": "format",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "格式；版式",
+          "安排；形式"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "格式化；安排版式"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 formatus（\"shaped, formed\"），为 formare（\"to shape\"）的过去分词。经法语 format 进入英语，最初指书籍的尺寸大小。",
+    "formation_semantic": "form（形状）+ -at（过去分词后缀） \"被赋予的形状\" → \"版式、格式\" → \"（计算机）格式化\"。",
+    "examples": [
+      {
+        "en": "The data must be converted into a compatible format before analysis can begin.",
+        "zh": "数据必须先转换为兼容格式才能开始分析。"
+      },
+      {
+        "en": "Students often meet the word \"format\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 format 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"format\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 format 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:41",
+    "word": "formation",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "形成；构成",
+          "组成；结构",
+          "队形；编队"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 formatio(n-)（\"a forming, shaping\"），由 formare（\"to form\"）加名词后缀 -io 构成。",
+    "formation_semantic": "form（形成）+ -ation（名词后缀） \"形成的行为或结果\" → \"形成、构成\" → \"编队、地层\"。",
+    "examples": [
+      {
+        "en": "The geological formation of the Himalayan mountains took millions of years.",
+        "zh": "喜马拉雅山的地质形成经历了数百万年。"
+      },
+      {
+        "en": "Students often meet the word \"formation\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 formation 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"formation\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 formation 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:42",
+    "word": "former",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "以前的；从前的",
+          "前者的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "前者"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 forma（\"first, earliest\"），是比较级后缀 -ra 加在 form 上的形式，源自原始日耳曼语 fruma-（\"first\"）。",
+    "formation_semantic": "form（= frum \"第一\"）+ -er（比较级后缀） \"更早的\" → \"以前的、前任的\"。",
+    "examples": [
+      {
+        "en": "The former president returned to academia to teach political science at the university.",
+        "zh": "前总统重返学术界，在大学里教授政治学。"
+      },
+      {
+        "en": "Students often meet the word \"former\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 former 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"former\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 former 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:43",
+    "word": "formidable",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "强大的；令人敬畏的",
+          "难对付的；可怕的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 formidabilis（\"fearsome, terrible\"），由 formido（\"fear, dread\"）加 -abilis 构成。",
+    "formation_semantic": "formid（恐惧）+ -able（能够...的） \"引起恐惧的\" → \"令人生畏的\" → \"难以对付的、强大的\"。",
+    "examples": [
+      {
+        "en": "Climbing Mount Everest remains one of the most formidable challenges for mountaineers.",
+        "zh": "攀登珠穆朗玛峰仍然是登山者最艰巨的挑战之一。"
+      },
+      {
+        "en": "Students often meet the word \"formidable\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 formidable 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"formidable\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 formidable 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:44",
+    "word": "formula",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "公式；方程式",
+          "方案；方法",
+          "配方；准则"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 formula，是 forma（\"form\"）的小称形式，意为\"小形式、固定格式\"。",
+    "formation_semantic": "form（形式）+ -ula（小称后缀） \"小形式\" → \"固定格式、程式\" → \"公式、配方\"。",
+    "examples": [
+      {
+        "en": "The scientist discovered a new formula that could revolutionize battery technology.",
+        "zh": "这位科学家发现了一种可能彻底改变电池技术的新配方。"
+      },
+      {
+        "en": "Students often meet the word \"formula\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 formula 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"formula\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 formula 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:45",
+    "word": "formulate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "制定；规划",
+          "明确表达；系统阐述"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 formulatus，由 formula（\"formula\"）加动词后缀 -are 构成。",
+    "formation_semantic": "formul（公式）+ -ate（动词后缀） \"以公式形式表达\" → \"系统地阐述\" → \"制定、规划\"。",
+    "examples": [
+      {
+        "en": "The government is formulating new policies to address income inequality in urban areas.",
+        "zh": "政府正在制定新政策以解决城市地区的收入不平等问题。"
+      },
+      {
+        "en": "Students often meet the word \"formulate\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 formulate 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"formulate\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 formulate 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:46",
+    "word": "fortunate",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "幸运的；侥幸的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 fortunatus（\"prospered, favored by fortune\"），由 fortuna（\"fortune, luck\"）加 -atus 构成。",
+    "formation_semantic": "fortun（命运、运气）+ -ate（形容词后缀） \"被命运眷顾的\" → \"幸运的、吉利的\"。",
+    "examples": [
+      {
+        "en": "We were fortunate to have access to such a well-equipped laboratory for our research.",
+        "zh": "我们很幸运能使用如此设备精良的实验室进行研究。"
+      },
+      {
+        "en": "Students often meet the word \"fortunate\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 fortunate 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"fortunate\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 fortunate 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:47",
+    "word": "fortune",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "财富；巨款",
+          "运气；命运"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 fortuna（\"luck, fate, fortune\"），来自 fors（\"chance, luck\"），原始印欧语系词根 bher-（\"to carry, bring\"）。",
+    "formation_semantic": "fort（= fors \"机会\"）+ -une（名词后缀） \"运气、机遇\" → \"命运\" → \"财富（好运带来的财富）\"。",
+    "examples": [
+      {
+        "en": "He made a fortune by investing in technology startups during the digital revolution.",
+        "zh": "他在数字革命期间投资科技初创公司，赚了一大笔财富。"
+      },
+      {
+        "en": "Students often meet the word \"fortune\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 fortune 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"fortune\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 fortune 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:48",
+    "word": "guide",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "指导；引导",
+          "影响；支配"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "指南；手册",
+          "导游；向导"
+        ]
+      }
+    ],
+    "etymology": "源自原始日耳曼语 witan（\"to know, show the way\"），经由古法语 guider 进入英语。最终可追溯至原始印欧语系词根 weid-（\"to see, know\"）。",
+    "formation_semantic": "guid（引导）+ -e \"指示方向\" → \"引导、指导\" → \"导游、指南\"。",
+    "examples": [
+      {
+        "en": "Experienced mentors can guide young researchers through the complexities of academic publishing.",
+        "zh": "有经验的导师可以引导年轻研究人员应对学术出版的复杂性。"
+      },
+      {
+        "en": "Students often meet the word \"guide\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 guide 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"guide\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 guide 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:49",
+    "word": "guidance",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "指导；引导",
+          "咨询；建议"
+        ]
+      }
+    ],
+    "etymology": "由 guide 派生，加后缀 -ance，源自法语 guidance。",
+    "formation_semantic": "guid（引导）+ -ance（名词后缀） \"引导的行为或过程\" → \"指导、咨询\"。",
+    "examples": [
+      {
+        "en": "Career guidance services help students make informed decisions about their future professions.",
+        "zh": "职业指导服务帮助学生就未来职业做出明智的决定。"
+      },
+      {
+        "en": "Students often meet the word \"guidance\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 guidance 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"guidance\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 guidance 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:50",
+    "word": "guideline",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "指导方针；准则"
+        ]
+      }
+    ],
+    "etymology": "复合词，由 guide（\"引导\"）+ line（\"线、路线\"）组合而成。",
+    "formation_semantic": "guide（引导）+ line（线） \"引导的线条\" → \"指导方针、准则\"。",
+    "examples": [
+      {
+        "en": "The committee issued new guidelines for ethical conduct in scientific research.",
+        "zh": "委员会发布了科研道德行为的新指导方针。"
+      },
+      {
+        "en": "Students often meet the word \"guideline\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 guideline 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"guideline\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 guideline 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:51",
+    "word": "guild",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "行会；协会；同业公会"
+        ]
+      }
+    ],
+    "etymology": "源自古诺斯语 gildi（\"guild, payment\"），原始日耳曼语 geldam（\"payment, contribution\"）。中世纪欧洲行会成员需缴纳会费。",
+    "formation_semantic": "单一词根。 \"共同捐款的团体\" → \"行会、同业公会\" → \"协会\"。",
+    "examples": [
+      {
+        "en": "The Writers' Guild protects the intellectual property rights of its members.",
+        "zh": "作家协会保护其成员的知识产权。"
+      },
+      {
+        "en": "Students often meet the word \"guild\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 guild 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"guild\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 guild 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:52",
+    "word": "guilt",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "内疚；愧疚",
+          "罪责；有罪"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 gylt（\"crime, sin, fault\"），词源不确定。可能与古英语 gieldan（\"to pay\"）有关，原义可能为\"（犯罪）应赔偿的\"。",
+    "formation_semantic": "单一词根。 \"犯罪、过错\" → \"有罪\" → \"内疚感\"。",
+    "examples": [
+      {
+        "en": "The defendant's guilt was established beyond reasonable doubt by the evidence presented.",
+        "zh": "出示的证据排除了合理怀疑，证明了被告有罪。"
+      },
+      {
+        "en": "Students often meet the word \"guilt\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 guilt 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"guilt\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 guilt 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:53",
+    "word": "guilty",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "有罪的",
+          "内疚的；愧疚的"
+        ]
+      }
+    ],
+    "etymology": "由 guilt 加形容词后缀 -y 构成，源自古英语 gyltig。",
+    "formation_semantic": "guilt（罪）+ -y（形容词后缀） \"有罪的\" → \"内疚的\"。",
+    "examples": [
+      {
+        "en": "The jury found the defendant guilty of fraud and sentenced her to five years in prison.",
+        "zh": "陪审团裁定被告犯有欺诈罪，判处她五年监禁。"
+      },
+      {
+        "en": "Students often meet the word \"guilty\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 guilty 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"guilty\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 guilty 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:54",
+    "word": "recognition",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "认出；识别",
+          "承认；认可",
+          "赞誉；表彰"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 recognitio(n-)，由 re-（\"again\"）+ cognoscere（\"to know, learn\"）构成。cognoscere 由 co-（\"together\"）+ gnoscere（\"to know\"）组成。",
+    "formation_semantic": "re-（再）+ cogn（知道）+ -ition（名词后缀） \"再次知道\" → \"认出、识别\" → \"承认、认可\" → \"表彰\"。",
+    "examples": [
+      {
+        "en": "The scientist received international recognition for her groundbreaking work in genetics.",
+        "zh": "这位科学家因其在遗传学领域的开创性工作而获得国际认可。"
+      },
+      {
+        "en": "Students often meet the word \"recognition\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 recognition 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"recognition\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 recognition 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:55",
+    "word": "recognize",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "认出；识别",
+          "承认；认可",
+          "意识到"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 recognoscere，由 re-（\"again\"）+ cognoscere（\"to know\"）构成。经由古法语 reconoistre 进入英语。",
+    "formation_semantic": "re-（再）+ cogn（知道）+ -ize（动词后缀） \"再次知道\" → \"认出、识别\" → \"承认、意识到\"。",
+    "examples": [
+      {
+        "en": "Economists recognize that inflation is influenced by multiple interrelated factors.",
+        "zh": "经济学家认识到通货膨胀受到多个相互关联的因素影响。"
+      },
+      {
+        "en": "Students often meet the word \"recognize\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 recognize 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"recognize\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 recognize 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:56",
+    "word": "recommend",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "推荐；介绍",
+          "建议；劝告"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 recommendare，由 re-（\"again\"）+ commendare（\"to commend, entrust\"）构成。commendare 由 com-（\"together\"）+ mandare（\"to entrust\"）组成。",
+    "formation_semantic": "re-（再）+ com-（一起）+ mend（委托） \"再次委托、托付\" → \"推荐、举荐\" → \"建议\"。",
+    "examples": [
+      {
+        "en": "The professor recommended that her students read several classic texts before the exam.",
+        "zh": "教授建议学生们在考试前阅读几本经典著作。"
+      },
+      {
+        "en": "Students often meet the word \"recommend\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 recommend 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"recommend\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 recommend 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:57",
+    "word": "recover",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "恢复；康复",
+          "找回；重新获得",
+          "弥补；追回"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 recuperare（\"to regain, recover\"），由 re-（\"again\"）+ capere（\"to take, get\"）组成。经由古法语 recovrer 进入英语。",
+    "formation_semantic": "re-（重新）+ cover（= capere \"获得\"） \"重新获得\" → \"恢复、康复\" → \"收回、挽回\"。",
+    "examples": [
+      {
+        "en": "The economy is expected to recover slowly after the prolonged recession.",
+        "zh": "经济在长期衰退后预计将缓慢复苏。"
+      },
+      {
+        "en": "Students often meet the word \"recover\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 recover 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"recover\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 recover 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:58",
+    "word": "recovery",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "恢复；康复",
+          "复苏；好转",
+          "追回；找回"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 recuperatio(n-)，由 recuperare（\"to recover\"）加名词后缀 -io 构成。",
+    "formation_semantic": "re-（重新）+ cover（获得）+ -y（名词后缀） \"恢复的行为或状态\" → \"恢复、痊愈、复苏\"。",
+    "examples": [
+      {
+        "en": "The patient's recovery was remarkable, thanks to the excellent medical care provided.",
+        "zh": "得益于优质的医疗服务，患者的康复非常显著。"
+      },
+      {
+        "en": "Students often meet the word \"recovery\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 recovery 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"recovery\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 recovery 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:59",
+    "word": "recruit",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "招募；招聘",
+          "吸收；征募"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "新成员；新兵"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 recrescere（\"to grow again\"），由 re-（\"again\"）+ crescere（\"to grow\"）组成。经由法语 recrute（\"new growth\"）进入英语。",
+    "formation_semantic": "re-（再）+ cru（成长）+ -it \"新成长起来的\" → \"新兵\" → \"招募、招聘\"。",
+    "examples": [
+      {
+        "en": "The company is trying to recruit talented graduates from top universities worldwide.",
+        "zh": "公司正试图从全球顶尖大学招募有才华的毕业生。"
+      },
+      {
+        "en": "Students often meet the word \"recruit\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 recruit 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"recruit\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 recruit 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:60",
+    "word": "sell",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "出售；销售",
+          "推销；说服接受"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 sellan（\"to give, hand over, sell\"），原始日耳曼语 saljan（\"to offer, hand over\"）。与拉丁语 salire（\"to salt\"）可能同源，因古代用盐作为交易媒介。",
+    "formation_semantic": "单一词根。 \"交出、给出\" → \"出售、卖\"。",
+    "examples": [
+      {
+        "en": "The store sells eco-friendly products that appeal to environmentally conscious consumers.",
+        "zh": "这家商店销售环保产品，吸引有环保意识的消费者。"
+      },
+      {
+        "en": "Students often meet the word \"sell\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 sell 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"sell\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 sell 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:61",
+    "word": "send",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "发送；寄送",
+          "派遣；派出",
+          "使进入某种状态"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 sendan（\"to send, cause to go\"），原始日耳曼语 sandijan，原始印欧语系词根 sent-（\"to go, travel\"）。",
+    "formation_semantic": "单一词根。 \"使...去\" → \"发送、派遣、寄出\"。",
+    "examples": [
+      {
+        "en": "The university will send a delegation to the international conference on climate change.",
+        "zh": "大学将派遣代表团参加国际气候变化会议。"
+      },
+      {
+        "en": "Students often meet the word \"send\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 send 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"send\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 send 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:62",
+    "word": "senior",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "高级的；级别高的",
+          "年长的；资深的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "上级；资深人员",
+          "年长者；毕业班学生"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 senior（\"older\"），是 senex（\"old\"）的比较级形式。原始印欧语系词根 sen-（\"old\"）。",
+    "formation_semantic": "sen（老）+ -ior（比较级后缀） \"更年长的\" → \"年长的、资深的\" → \"高年级的、高级的\"。",
+    "examples": [
+      {
+        "en": "Senior researchers often mentor junior colleagues in academic institutions.",
+        "zh": "资深研究员在学术机构中经常指导资历较浅的同事。"
+      },
+      {
+        "en": "Students often meet the word \"senior\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 senior 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"senior\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 senior 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:63",
+    "word": "smart",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "聪明的；机敏的",
+          "智能的",
+          "整洁时髦的"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "刺痛；感到难受"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 smeortan（\"to cause sharp pain\"），原始日耳曼语 smertan。\"聪明\"的含义出现在17世纪，由\"刺痛\"引申为\"思维敏锐\"。",
+    "formation_semantic": "单一词根。 \"引起刺痛\" → \"（批评等）尖刻的\" → \"思维尖锐的\" → \"聪明的、精明的\"。",
+    "examples": [
+      {
+        "en": "Smart investments in education yield long-term benefits for society as a whole.",
+        "zh": "对教育的明智投资能够为整个社会带来长期效益。"
+      },
+      {
+        "en": "Students often meet the word \"smart\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 smart 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"smart\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 smart 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:64",
+    "word": "smell",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "气味；嗅觉"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "闻到；嗅出",
+          "散发气味"
+        ]
+      }
+    ],
+    "etymology": "词源不确定。可能源自古英语 smyl（\"smoke, smell\"），或与中古荷兰语 smlen（\"to smell\"）有关。12世纪才出现于英语中。",
+    "formation_semantic": "单一词根。 \"通过鼻子感知气味\" → \"闻、嗅\" → \"气味\" / \"有...的气味\"。",
+    "examples": [
+      {
+        "en": "The laboratory had a strange chemical smell that worried the safety inspector.",
+        "zh": "实验室里有一股奇怪的化学气味，令安全巡检员感到担忧。"
+      },
+      {
+        "en": "Students often meet the word \"smell\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 smell 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"smell\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 smell 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:65",
+    "word": "soak",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "浸泡；浸湿",
+          "吸收；渗透"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "浸泡；湿透"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 socian（\"to soak, steep\"），与古英语 s\\=ucan（\"to suck\"）同源，原始日耳曼语 suk-（\"to suck\"）。",
+    "formation_semantic": "单一词根。 \"吸收水分\" → \"浸泡、浸湿\" → \"渗透\" / \"沉浸\"。",
+    "examples": [
+      {
+        "en": "After the heavy rain, the soil was completely soaked, making planting impossible.",
+        "zh": "大雨过后，土壤完全浸透，无法种植。"
+      },
+      {
+        "en": "Students often meet the word \"soak\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 soak 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"soak\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 soak 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:66",
+    "word": "soar",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "猛增；急升",
+          "高飞；翱翔"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 exaurare（\"to rise up, soar\"），由 ex-（\"out\"）+ aura（\"breeze, air\"）组成，意为\"升入空中\"。经由古法语 essor 进入英语。",
+    "formation_semantic": "so（= ex- \"向外\"）+ ar（= aura \"空气\"） \"升入空中\" → \"翱翔、高飞\" → \"猛增、飙升\"。",
+    "examples": [
+      {
+        "en": "Housing prices in metropolitan areas have soared over the past decade.",
+        "zh": "大都市地区的房价在过去十年中飙升。"
+      },
+      {
+        "en": "Students often meet the word \"soar\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 soar 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"soar\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 soar 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:67",
+    "word": "sociable",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "好交际的；合群的",
+          "友善的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 sociabilis（\"friendly, sociable\"），由 sociare（\"to join, associate\"）加 -abilis 构成，socius（\"companion, ally\"）。",
+    "formation_semantic": "soci（同伴）+ -able（能够...的） \"能够成为同伴的\" → \"好交际的、合群的\"。",
+    "examples": [
+      {
+        "en": "Extroverted people tend to be more sociable and enjoy working in team environments.",
+        "zh": "外向的人往往更好交际，喜欢在团队环境中工作。"
+      },
+      {
+        "en": "Students often meet the word \"sociable\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 sociable 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"sociable\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 sociable 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  }
+]

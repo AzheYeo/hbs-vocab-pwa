@@ -1,0 +1,1224 @@
+[
+  {
+    "id": "bikaoci_unit_04:65",
+    "word": "shift",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "转移；变换",
+          "改变；变动"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "转变；轮班"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 sciftan（划分、安排），源自原始日耳曼语 *skiftjan（划分、分开），与古高地德语 sciftan（划分）同源。",
+    "formation_semantic": "单一词根，古英语延续至今。 从\"（工作）轮班\"（night shift 夜班）引申为\"改变/转移\"（shift the focus 转移焦点）\"（风向/政策/态度）转变\"（a shift in policy 政策转变）。",
+    "examples": [
+      {
+        "en": "There has been a significant shift in public attitudes toward renewable energy over the past decade.",
+        "zh": "过去十年中，公众对可再生能源的态度发生了显著转变。"
+      },
+      {
+        "en": "Public opinion can shift quickly after new evidence appears.",
+        "zh": "新证据出现后，公众意见可能迅速转变。"
+      },
+      {
+        "en": "Nurses on the night shift often face heavy pressure.",
+        "zh": "上夜班的护士常常面临巨大压力。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:66",
+    "word": "shoulder",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "肩；肩部",
+          "路肩"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "承担；肩负"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 sculdor（肩膀），源自原始日耳曼语 *skuldro，与古高地德语 scultirra（肩膀）同源。",
+    "formation_semantic": "单一词根，古英语延续至今。 从身体部位\"肩膀\"引申为动词\"承担\"（shoulder responsibility 承担责任）、\"用肩推/挤\"（shoulder one's way 用肩膀挤出路）。",
+    "examples": [
+      {
+        "en": "Developed countries must shoulder greater responsibility for reducing carbon emissions and combating climate change.",
+        "zh": "发达国家必须承担更大的责任来减少碳排放和应对气候变化。"
+      },
+      {
+        "en": "Universities shoulder responsibility for training future researchers.",
+        "zh": "大学肩负着培养未来研究者的责任。"
+      },
+      {
+        "en": "The driver stopped on the shoulder to check the engine.",
+        "zh": "司机把车停在路肩检查发动机。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:67",
+    "word": "show",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "显示；表明",
+          "展示；演出",
+          "带领；指给看"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "节目；展览",
+          "表现"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 scēawian（看、注视），源自原始日耳曼语 *skauwjan（看），与古高地德语 scouwon（看）同源。",
+    "formation_semantic": "单一词根，古英语延续至今。 从\"看\"引申为\"出示、展示\"（show a picture 展示图片）、\"表明\"（show evidence 出示证据）、\"（电视/戏剧）节目\"（TV show 电视节目）。",
+    "examples": [
+      {
+        "en": "Recent studies show that regular exercise can significantly reduce the risk of chronic diseases such as diabetes.",
+        "zh": "最近的研究表明，定期锻炼可以显著降低糖尿病等慢性疾病的风险。"
+      },
+      {
+        "en": "The results show that early support improves student performance.",
+        "zh": "结果表明早期支持能改善学生表现。"
+      },
+      {
+        "en": "The museum show attracted many visitors interested in local history.",
+        "zh": "这场博物馆展览吸引了许多对地方史感兴趣的游客。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:68",
+    "word": "shower",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "淋浴；阵雨",
+          "大量；一阵"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "淋浴",
+          "大量给予"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 scēawere（看的人、展示者），由 show（展示）+ -er（表人或物）构成，后指\"淋浴\"（水展示般的落下）。\"阵雨\"义来自古英语 scūr（短时降雨）。",
+    "formation_semantic": "同形异义词：(1)淋浴设备/淋浴（来自 show + -er）；(2)阵雨（来自古英语 scūr）。 (1)\"淋浴/淋浴间\"（take a shower 冲个澡）；(2)\"阵雨\"（a shower of rain 一阵雨）；(3)\"大量涌来的东西\"（a shower of gifts 大量礼物）。",
+    "examples": [
+      {
+        "en": "After the conference, the keynote speaker received a shower of praise from the audience for her insightful presentation.",
+        "zh": "会议结束后，主题演讲者因其富有洞察力的演讲而受到了观众的一致好评。"
+      },
+      {
+        "en": "A short shower cooled the city after a hot afternoon.",
+        "zh": "一场短暂阵雨让炎热午后的城市凉爽下来。"
+      },
+      {
+        "en": "The charity showered the village school with books and computers.",
+        "zh": "慈善机构向这所乡村学校捐赠了大量书籍和电脑。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:1",
+    "word": "glamo(u)r",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "魅力；迷人吸引力"
+        ]
+      }
+    ],
+    "etymology": "来自苏格兰英语 glamour（魅力、魔力），是 grammar（语法）的变体，中世纪的\"语法\"与\"魔法\"和\"神秘学问\"相关联。",
+    "formation_semantic": "由 grammar 的方言变体演化而来，最初指\"魔法、巫术\"，后词义变为\"迷人的魅力\"。 从\"魔法、魔力\"（使事物看起来比实际更美）引申为\"魅力、诱惑力\"，尤指外表上的吸引力。",
+    "examples": [
+      {
+        "en": "The glamour of Hollywood has attracted countless aspiring actors and actresses from all over the world.",
+        "zh": "好莱坞的魅力吸引了来自世界各地无数怀揣梦想的演员。"
+      },
+      {
+        "en": "The glamour of city life often hides its high costs.",
+        "zh": "城市生活的魅力常常掩盖了它的高成本。"
+      },
+      {
+        "en": "Advertising adds glamour to ordinary products through images and music.",
+        "zh": "广告通过图像和音乐给普通产品增添魅力。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:2",
+    "word": "generate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "产生；引起",
+          "生成；发电"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 generatus，是 generare（产生、生育）的过去分词，源自 genus（种类、出生、起源）。",
+    "formation_semantic": "gener（产生、出生）+ -ate（动词后缀）；字面义为\"使产生/产生出来\"。 从\"产生、生成\"的基本义出发，广泛用于各个领域：发电（generate electricity）、产生兴趣（generate interest）、生成数据（generate data）。",
+    "examples": [
+      {
+        "en": "The new solar farm is capable of generating enough electricity to power over ten thousand households annually.",
+        "zh": "新的太阳能发电场每年能够产生足够为一万多户家庭供电的电力。"
+      },
+      {
+        "en": "The new policy may generate debate about fairness and efficiency.",
+        "zh": "新政策可能引发关于公平与效率的讨论。"
+      },
+      {
+        "en": "Solar panels generate electricity without producing direct emissions.",
+        "zh": "太阳能电池板发电时不产生直接排放。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:3",
+    "word": "generation",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "一代人；同代人",
+          "产生；生成"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 generatio（生育、产生、世代），由 generare（产生）+ -io（名词后缀）构成。",
+    "formation_semantic": "gener（产生）+ -ation（行为/结果的名词后缀）；字面义为\"产生的行为或产物\"。 从\"产生、生育\"引申为\"一代人、世代\"（the younger generation 年轻一代），以及\"（产品）代\"（a new generation of technology 新一代技术）。",
+    "examples": [
+      {
+        "en": "The younger generation is more environmentally conscious and actively supports sustainable business practices.",
+        "zh": "年轻一代更具环保意识，积极支持可持续的商业实践。"
+      },
+      {
+        "en": "Each generation faces different educational and technological challenges.",
+        "zh": "每一代人都面临不同的教育和技术挑战。"
+      },
+      {
+        "en": "The generation of clean energy is central to climate policy.",
+        "zh": "清洁能源的产生是气候政策的核心。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:4",
+    "word": "generator",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "发电机；发生器",
+          "生成程序；创造者"
+        ]
+      }
+    ],
+    "etymology": "由 generate（产生）+ -or（表人或物）构成，17世纪进入英语。",
+    "formation_semantic": "generate（产生）+ -or（... 者）；字面义为\"产生者/产生器\"。 指\"发电机\"（将机械能转化为电能的设备），也用于计算机术语中的\"生成器\"（random number generator 随机数生成器）。",
+    "examples": [
+      {
+        "en": "The hospital has backup generators to ensure continuous power supply during emergency situations.",
+        "zh": "该医院配备有备用发电机，以确保紧急情况下的持续供电。"
+      },
+      {
+        "en": "The hospital kept a generator ready in case the power failed.",
+        "zh": "医院准备了一台发电机，以防停电。"
+      },
+      {
+        "en": "A random number generator is useful in some experiments.",
+        "zh": "随机数生成器在一些实验中很有用。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:5",
+    "word": "generous",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "慷慨的；大方的",
+          "丰富的；大量的",
+          "宽厚的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 generosus（出身高贵的、高尚的），源自 genus（种族、出身），原义为\"出身好的\"。",
+    "formation_semantic": "gener（出生、出身）+ -ous（形容词后缀）；字面义为\"出身高贵的\"。 从\"出身高贵的\"（贵族被认为具有高尚品质）引申为\"慷慨的、大方的\"（giving freely），以及\"丰富的、充裕的\"（a generous portion 大份）。",
+    "examples": [
+      {
+        "en": "The billionaire made a generous donation to the university, funding scholarships for students from underprivileged backgrounds.",
+        "zh": "这位亿万富翁向大学慷慨捐赠，为来自贫困家庭的学生提供奖学金。"
+      },
+      {
+        "en": "A generous scholarship allowed her to continue her studies abroad.",
+        "zh": "一笔丰厚奖学金使她得以继续出国深造。"
+      },
+      {
+        "en": "The reviewer gave a generous assessment of the young scholar’s work.",
+        "zh": "审稿人对这位年轻学者的工作作出了宽厚评价。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:6",
+    "word": "genius",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "天才；天赋",
+          "天才人物"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 genius（守护神、天赋），源自 gignere（生育、产生），原指每个人出生时伴随的守护神灵，后指与生俱来的才能。",
+    "formation_semantic": "geni（出生、产生）+ -us（拉丁语名词后缀）；字面义为\"与生俱来的东西\"。 从\"与生俱来的守护神\"引申为\"天赋、天才\"（a man of genius 天才），以及\"（某领域的）天才人物\"（Einstein was a genius 爱因斯坦是天才）。",
+    "examples": [
+      {
+        "en": "Einstein's genius lay not only in his mathematical abilities but also in his capacity to think beyond conventional boundaries.",
+        "zh": "爱因斯坦的天才不仅在于他的数学能力，还在于他能超越传统边界思考的能力。"
+      },
+      {
+        "en": "Scientific genius often depends on patience as well as imagination.",
+        "zh": "科学天才往往既依赖想象力，也依赖耐心。"
+      },
+      {
+        "en": "She was regarded as a genius in mathematics at an early age.",
+        "zh": "她很小就被视为数学天才。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:7",
+    "word": "gift",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "礼物；赠品",
+          "天赋；才能"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "赠送；赋予"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 gift（支付、礼物），源自原始日耳曼语 *geftiz（给予之物），与 give（给予）同源。",
+    "formation_semantic": "与 give 同根，指\"被给予的东西\"。 从\"礼物\"的基本义引申为\"天赋、天资\"（a gift for music 音乐天赋），注意\"天赋\"义与 gift（礼物）是同一概念的延伸——天生的才能就像上天给予的礼物。",
+    "examples": [
+      {
+        "en": "Her exceptional gift for languages enabled her to learn six different languages fluently by the age of twenty.",
+        "zh": "她非凡的语言天赋使她到二十岁时就能流利地学习六种不同的语言。"
+      },
+      {
+        "en": "The foundation made a large gift to the public library.",
+        "zh": "该基金会向公共图书馆捐赠了一大笔礼物性质的款项。"
+      },
+      {
+        "en": "Her gift for languages helped her become an excellent translator.",
+        "zh": "她的语言天赋帮助她成为优秀译者。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:8",
+    "word": "genre",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "类型；体裁；流派"
+        ]
+      }
+    ],
+    "etymology": "来自法语 genre（种类、风格），源自拉丁语 genus（种类、类型），与 gene、generate 同根。",
+    "formation_semantic": "直接借自法语 genre，与 genus（属、种类）同源。 指艺术/文学/音乐的\"体裁、类型、流派\"（genre fiction 类型小说，musical genre 音乐流派）。",
+    "examples": [
+      {
+        "en": "Science fiction as a literary genre has gained increasing academic recognition for its exploration of ethical dilemmas.",
+        "zh": "科幻小说作为一种文学体裁因其对伦理困境的探索而获得了越来越多的学术认可。"
+      },
+      {
+        "en": "The novel belongs to the genre of historical fiction.",
+        "zh": "这部小说属于历史小说这一体裁。"
+      },
+      {
+        "en": "Students compared how different genres present scientific ideas.",
+        "zh": "学生比较了不同体裁如何呈现科学思想。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:9",
+    "word": "giant",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "巨人；巨物",
+          "大公司；巨头"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "巨大的；特大的"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 geant，源自拉丁语 gigas gigant-（巨人），借自希腊语 gigas（巨人，神话中的巨灵族）。",
+    "formation_semantic": "借自希腊神话中的巨灵族名称，后泛指\"巨大的\"。 从神话中的\"巨人\"引申为\"巨大的\"（a giant company 巨头公司），以及\"巨人/巨物\"（corporate giant 企业巨头）。",
+    "examples": [
+      {
+        "en": "The technology giant announced plans to invest billions of dollars in artificial intelligence research and development.",
+        "zh": "这家科技巨头宣布计划投资数十亿美元用于人工智能的研发。"
+      },
+      {
+        "en": "The technology giant invested heavily in artificial intelligence research.",
+        "zh": "这家科技巨头大量投资人工智能研究。"
+      },
+      {
+        "en": "A giant screen displayed the results of the public survey.",
+        "zh": "一块巨大的屏幕显示了公众调查结果。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:10",
+    "word": "gigantic",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "巨大的；庞大的"
+        ]
+      }
+    ],
+    "etymology": "由 giant（巨人）的拉丁词根 gigant-（巨人的）+ -ic（形容词后缀）构成。",
+    "formation_semantic": "gigant（巨人）+ -ic（的）；字面义为\"巨人般的\"。 \"巨大的、庞大的\"，与 huge、enormous 同义，强调体积或规模的极大。",
+    "examples": [
+      {
+        "en": "The construction of the gigantic dam required the coordinated efforts of thousands of workers over many years.",
+        "zh": "这座巨型水坝的建设需要数千名工人多年的协调努力。"
+      },
+      {
+        "en": "The city faces a gigantic task in rebuilding its old transport system.",
+        "zh": "这座城市在重建旧交通系统方面面临艰巨任务。"
+      },
+      {
+        "en": "A gigantic amount of data is produced by online activity every day.",
+        "zh": "网络活动每天都会产生巨量数据。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:11",
+    "word": "give",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "给；给予",
+          "提供；产生",
+          "举办；发表",
+          "让步；弯曲"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 giefan（给予），源自原始日耳曼语 *geban（给予），与古高地德语 geban（给予）同源。",
+    "formation_semantic": "单一词根，古英语延续至今，是英语核心动词之一。 从\"给予\"（give a gift）的基本义衍生出极其丰富的用法：\"提供\"（give information）、\"举行\"（give a lecture）、\"产生\"（give rise to 导致）等。",
+    "examples": [
+      {
+        "en": "The professor's groundbreaking research gave rise to new treatments for previously incurable diseases.",
+        "zh": "教授的开创性研究引发了对以前无法治愈的疾病的新疗法。"
+      },
+      {
+        "en": "The program gives students access to high-quality online courses.",
+        "zh": "该项目为学生提供高质量在线课程。"
+      },
+      {
+        "en": "The speaker gave a clear explanation of the new law.",
+        "zh": "演讲者对新法律作了清楚说明。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:12",
+    "word": "happen",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "发生；出现",
+          "碰巧；恰好"
+        ]
+      }
+    ],
+    "etymology": "来自中古英语 happenen，由 hap（运气、偶然）+ -en（动词后缀）构成，与古英语 gehæp（合适的）相关。",
+    "formation_semantic": "hap（运气、机会）+ -en（使... 发生）；字面义为\"以运气的方式发生\"。 从\"偶然发生\"（it happened that... 恰巧...）引申为一般的\"发生\"（what happened? 发生了什么？）。",
+    "examples": [
+      {
+        "en": "Accidents happen when safety regulations are ignored, which is why strict enforcement is essential in high-risk industries.",
+        "zh": "当忽视安全规定时事故就会发生，这就是为什么在高风险行业严格执行规定至关重要。"
+      },
+      {
+        "en": "Important discoveries often happen when researchers ask simple questions.",
+        "zh": "重要发现常常发生在研究人员提出简单问题时。"
+      },
+      {
+        "en": "I happened to meet a professor who studies rural education.",
+        "zh": "我碰巧遇到了一位研究农村教育的教授。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:13",
+    "word": "harm",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "伤害；损害"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "伤害；损害"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 hearm（伤害、痛苦、损害），源自原始日耳曼语 *harmaz（痛苦、伤害），与古高地德语 harm（痛苦）同源。",
+    "formation_semantic": "单一词根，古英语延续至今。 从\"伤害、损害\"的基本义出发，引申为\"危害\"（do harm to 对... 有害）。动词\"伤害\"。",
+    "examples": [
+      {
+        "en": "Excessive use of pesticides can cause significant harm to the environment and human health.",
+        "zh": "过度使用农药可能对环境和人类健康造成重大伤害。"
+      },
+      {
+        "en": "Air pollution can harm children’s health in lasting ways.",
+        "zh": "空气污染可能对儿童健康造成持久伤害。"
+      },
+      {
+        "en": "The law aims to prevent harm to consumers and workers.",
+        "zh": "该法律旨在防止消费者和劳动者受到损害。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:14",
+    "word": "harmony",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "和谐；融洽",
+          "协调；和声"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 harmonia（和谐、一致），借自希腊语 harmonia（接合、和谐），源自 harmos（接缝、接头），与 harm（接头、连接）同源。",
+    "formation_semantic": "harmon（连接、接合）+ -y（名词后缀）；字面义为\"各部分接合在一起的状态\"。 从\"接合、协调\"引申为\"和谐、一致\"（social harmony 社会和谐），以及音乐术语\"和声\"（不同音符的协调组合）。",
+    "examples": [
+      {
+        "en": "Achieving harmony between economic development and environmental protection remains one of the greatest challenges of our time.",
+        "zh": "实现经济发展与环境保护之间的和谐仍是当今时代最大的挑战之一。"
+      },
+      {
+        "en": "Social harmony depends on fairness and mutual respect.",
+        "zh": "社会和谐依赖公平与相互尊重。"
+      },
+      {
+        "en": "The design creates harmony between the old building and the new library.",
+        "zh": "该设计在旧建筑和新图书馆之间创造了协调。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:15",
+    "word": "harsh",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "严厉的；苛刻的",
+          "恶劣的；刺耳的",
+          "粗糙的"
+        ]
+      }
+    ],
+    "etymology": "来自中古英语 harsh（粗糙的、刺耳的），可能与德语的 hart（硬的）或瑞典语的 härsk（酸的、涩的）同源。",
+    "formation_semantic": "单一词根，中古英语时期使用。 从\"（触觉上）粗糙的\"引申为\"（声音）刺耳的\"（harsh voice 刺耳的声音）、\"（气候）严酷的\"（harsh winter 严冬）、\"（惩罚/批评）严厉的\"（harsh punishment 严厉惩罚）。",
+    "examples": [
+      {
+        "en": "The harsh climate in the Arctic region poses significant challenges for scientific research and human habitation.",
+        "zh": "北极地区严酷的气候对科学研究和人类居住构成了重大挑战。"
+      },
+      {
+        "en": "Harsh criticism may discourage students from taking intellectual risks.",
+        "zh": "严厉批评可能使学生不敢进行智力上的尝试。"
+      },
+      {
+        "en": "Plants in this area survive harsh winters with little water.",
+        "zh": "该地区的植物能在少水的严冬中生存。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:16",
+    "word": "ignorance",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "无知；不了解"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 ignorantia（无知、不知道），由 in-（不）+ gnoscere（知道）构成。",
+    "formation_semantic": "ig-（不，变体 of in-）+ nor（知道，来自 gnoscere）+ -ance（名词后缀）；字面义为\"不知道的状态\"。 从\"不知道\"引申为\"无知、愚昧\"（缺乏知识或信息），常与 prejudice（偏见）并列使用。",
+    "examples": [
+      {
+        "en": "Ignorance of the law is not a valid defense in court; citizens are expected to know their legal obligations.",
+        "zh": "对法律的无知不能作为法庭上的有效辩护；公民应当了解自己的法律义务。"
+      },
+      {
+        "en": "Ignorance of basic health information can lead to poor decisions.",
+        "zh": "缺乏基本健康信息会导致糟糕决策。"
+      },
+      {
+        "en": "The campaign tries to reduce public ignorance about mental illness.",
+        "zh": "这项活动试图减少公众对心理疾病的不了解。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:17",
+    "word": "ignorant",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "无知的；不了解的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 ignorans（不知道的），是 ignorare（不知道）的现在分词，由 in-（不）+ gnoscere（知道）构成。",
+    "formation_semantic": "ig-（不，变体 of in-）+ nor（知道）+ -ant（形容词后缀）；字面义为\"不知道的\"。 \"无知的、不知道的\"（ignorant of the facts 不了解事实），可指缺乏知识（中性）或粗鲁（贬义）。",
+    "examples": [
+      {
+        "en": "Many people remain ignorant of the long-term consequences of their daily consumption habits on the environment.",
+        "zh": "许多人仍然不了解他们的日常消费习惯对环境造成的长期后果。"
+      },
+      {
+        "en": "Many people remain ignorant of how their personal data are used.",
+        "zh": "许多人仍不了解自己的个人数据如何被使用。"
+      },
+      {
+        "en": "It is unfair to call students ignorant before offering proper guidance.",
+        "zh": "在给予适当指导前称学生无知是不公平的。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:18",
+    "word": "ignore",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "忽视；不理会"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 ignorare（不知道、忽略），由 in-（不）+ gnoscere（知道）构成。",
+    "formation_semantic": "ig-（不，变体 of in-）+ nore（知道，来自 gnoscere）；字面义为\"不去知道\"即\"忽视、不理睬\"。 从\"不知道\"引申为\"故意忽视、不理睬\"（ignore someone's advice 忽视某人的建议），强调有意识地不理会。",
+    "examples": [
+      {
+        "en": "The government cannot afford to ignore the growing public concern about climate change and environmental degradation.",
+        "zh": "政府不能忽视公众对气候变化和环境退化日益增长的担忧。"
+      },
+      {
+        "en": "Policy makers should not ignore evidence from local communities.",
+        "zh": "政策制定者不应忽视来自地方社区的证据。"
+      },
+      {
+        "en": "Ignoring early symptoms may make a disease harder to treat.",
+        "zh": "忽视早期症状可能使疾病更难治疗。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:19",
+    "word": "ill",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "生病的；不健康的",
+          "坏的；有害的"
+        ]
+      },
+      {
+        "pos": "adv.",
+        "defs": [
+          "差；坏"
+        ]
+      }
+    ],
+    "etymology": "来自古挪威语 illr（坏的、邪恶的），与古英语 ylle（坏）同源。",
+    "formation_semantic": "单一词根，来自古挪威语，经中古英语进入。 从\"坏的、邪恶的\"（ill will 恶意）引申为\"有病的、不健康的\"（fall ill 生病）、\"不好的\"（ill effects 不良影响）。",
+    "examples": [
+      {
+        "en": "The ill effects of air pollution on respiratory health have been well-documented by medical researchers worldwide.",
+        "zh": "空气污染对呼吸系统健康的不良影响已被全球医学研究人员充分记录。"
+      },
+      {
+        "en": "The hospital provides special care for seriously ill patients.",
+        "zh": "医院为重病患者提供特殊护理。"
+      },
+      {
+        "en": "The plan was ill designed and failed within a year.",
+        "zh": "这个计划设计不当，一年内就失败了。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:20",
+    "word": "illness",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "疾病；患病"
+        ]
+      }
+    ],
+    "etymology": "由 ill（病的）+ -ness（名词后缀）构成，14世纪进入英语。",
+    "formation_semantic": "ill（病的）+ -ness（状态）；字面义为\"生病/不健康的状态\"。 \"疾病、身体不适\"，与 disease 同义但比 disease 更侧重\"不健康的状态\"而非特定的病理过程。",
+    "examples": [
+      {
+        "en": "Advances in medical technology have made it possible to detect many serious illnesses at an early, treatable stage.",
+        "zh": "医学技术的进步使得许多严重疾病能够在可治疗的早期阶段被检测出来。"
+      },
+      {
+        "en": "Long-term illness can interrupt a student’s education.",
+        "zh": "长期疾病可能中断学生的教育。"
+      },
+      {
+        "en": "Public understanding of mental illness has improved in recent years.",
+        "zh": "近年来公众对心理疾病的理解有所提高。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:21",
+    "word": "illusion",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "幻想；错觉",
+          "假象"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 illusio（嘲笑、戏弄、幻象），是 illudere（戏弄、嘲笑）的名词形式，由 in-（在... 上）+ ludere（玩耍、表演）构成。",
+    "formation_semantic": "il-（在... 上，变体 of in-）+ lus（玩耍、表演，来自 ludere）+ -ion（名词后缀）；字面义为\"在... 上玩弄\"即\"制造假象\"。 从\"戏弄\"引申为\"幻象、错觉、幻觉\"（optical illusion 视错觉），以及\"错误的观念/幻想\"（under the illusion 错误地以为）。",
+    "examples": [
+      {
+        "en": "The politician was under the illusion that the public would accept the controversial policy without significant opposition.",
+        "zh": "这位政客错误地以为公众会接受这一有争议的政策而不会有重大反对。"
+      },
+      {
+        "en": "The advertisement creates the illusion that success is easy to buy.",
+        "zh": "这则广告制造了成功很容易买到的假象。"
+      },
+      {
+        "en": "A common illusion is that more information always means better judgment.",
+        "zh": "一种常见错觉是信息越多判断就一定越好。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:22",
+    "word": "illustrate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "说明；阐明",
+          "给……加插图"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 illustratus，是 illustrare（照亮、阐明）的过去分词，由 in-（在... 上）+ lustrare（照亮、照耀）构成。",
+    "formation_semantic": "il-（在... 上，变体 of in-）+ lustr（照亮、光明）+ -ate（动词后缀）；字面义为\"照亮使之清晰可见\"。 从\"照亮\"引申为\"（用例子/图表等）阐明、说明\"（illustrate a point 说明观点），以及\"给... 配插图\"（illustrated book 插图本）。",
+    "examples": [
+      {
+        "en": "The professor used real-world examples to illustrate the complex economic theories, making them accessible to students.",
+        "zh": "教授用现实世界的例子来说明复杂的经济理论，使学生们易于理解。"
+      },
+      {
+        "en": "The example illustrates the importance of careful data collection.",
+        "zh": "这个例子说明了谨慎收集数据的重要性。"
+      },
+      {
+        "en": "The textbook uses maps to illustrate changes in population.",
+        "zh": "这本教材用地图说明人口变化。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:23",
+    "word": "illustration",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "说明；例证",
+          "插图；图解"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 illustratio（照亮、阐明），由 illustrate（阐明）+ -ion（名词后缀）构成。",
+    "formation_semantic": "illustrate（阐明、说明）+ -ion（名词后缀）；字面义为\"阐明/说明的行为或结果\"。 从\"说明、例证\"（an illustration of the principle 原理的例证）引申为\"（书中的）插图\"。",
+    "examples": [
+      {
+        "en": "The textbook contains detailed illustrations that help students visualize complex biological processes and structures.",
+        "zh": "这本教科书包含详细的插图，帮助学生将复杂的生物过程和结构形象化。"
+      },
+      {
+        "en": "This case is a clear illustration of unequal access to healthcare.",
+        "zh": "这个案例清楚说明了医疗机会不平等。"
+      },
+      {
+        "en": "Each chapter begins with an illustration of the main concept.",
+        "zh": "每章开头都有一幅解释主要概念的插图。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:24",
+    "word": "image",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "形象；印象",
+          "图像；影像"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 image，源自拉丁语 imago（肖像、影像、模仿），与 imitate（模仿）同根。",
+    "formation_semantic": "直接借自拉丁语 imago。 从\"（视觉）图像、影像\"（digital image 数字图像）引申为\"（头脑中的）形象/印象\"（mental image 脑海中的形象）、\"（公众）形象\"（public image 公众形象）。",
+    "examples": [
+      {
+        "en": "The company is working hard to improve its public image after the environmental scandal damaged its reputation.",
+        "zh": "在环境丑闻损害了声誉之后，该公司正努力改善其公众形象。"
+      },
+      {
+        "en": "The university improved its public image through community service.",
+        "zh": "这所大学通过社区服务改善了公众形象。"
+      },
+      {
+        "en": "Medical images can help doctors detect disease at an early stage.",
+        "zh": "医学影像能帮助医生早期发现疾病。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:25",
+    "word": "imagine",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "想象；设想",
+          "料想；认为"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 imaginer，源自拉丁语 imaginari（在心里描绘、想象），源自 imago（影像）。",
+    "formation_semantic": "image（影像）+ -ine（动词后缀）；字面义为\"在心里形成影像\"。 从\"在心里描绘\"引申为\"想象、设想\"（imagine a world without war 想象一个没有战争的世界），以及\"猜想、认为\"（I imagine so 我猜是这样）。",
+    "examples": [
+      {
+        "en": "It is difficult to imagine what life would be like without the internet and digital communication technologies.",
+        "zh": "很难想象没有互联网和数字通信技术的生活会是什么样子。"
+      },
+      {
+        "en": "It is hard to imagine modern education without digital tools.",
+        "zh": "很难想象没有数字工具的现代教育。"
+      },
+      {
+        "en": "Many voters imagine that economic change will happen quickly.",
+        "zh": "许多选民以为经济变化会很快发生。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:26",
+    "word": "imaginary",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "想象中的；虚构的"
+        ]
+      }
+    ],
+    "etymology": "由 imagine（想象）+ -ary（形容词后缀）构成，14世纪进入英语。",
+    "formation_semantic": "imagine（想象）+ -ary（与... 相关的）；字面义为\"与想象有关的\"。 \"想象中的、虚构的\"（imaginary friend 想象中的朋友），强调不存在于现实中的、只存在于想象的。",
+    "examples": [
+      {
+        "en": "Children often create imaginary worlds and companions as part of their natural cognitive and social development.",
+        "zh": "儿童经常创造想象中的世界和伙伴，这是他们自然的认知和社交发展的一部分。"
+      },
+      {
+        "en": "Children often learn social rules through imaginary games.",
+        "zh": "儿童常通过想象游戏学习社会规则。"
+      },
+      {
+        "en": "The model describes an imaginary economy with only two goods.",
+        "zh": "该模型描述了一个只有两种商品的假想经济。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:27",
+    "word": "imagination",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "想象力；想象",
+          "设想"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 imaginatio（想象、形象），由 imaginari（想象）+ -io（名词后缀）构成。",
+    "formation_semantic": "imagine（想象）+ -ation（名词后缀）；字面义为\"想象力的行为或能力\"。 \"想象力、创造力\"（use your imagination 运用你的想象力），也指\"想象的东西\"（活灵活现的想象）。",
+    "examples": [
+      {
+        "en": "The novel's vivid descriptions capture the reader's imagination and transport them to a different era.",
+        "zh": "小说生动的描述抓住了读者的想象力，将他们带入一个不同的时代。"
+      },
+      {
+        "en": "Scientific progress requires imagination as well as careful testing.",
+        "zh": "科学进步既需要想象力，也需要仔细检验。"
+      },
+      {
+        "en": "The story captured the imagination of readers across the country.",
+        "zh": "这个故事激发了全国读者的想象。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:28",
+    "word": "imaginative",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "富有想象力的；创新的"
+        ]
+      }
+    ],
+    "etymology": "由 imagine（想象）+ -ative（形容词后缀）构成，15世纪进入英语。",
+    "formation_semantic": "imagine（想象）+ -ative（有... 倾向的）；字面义为\"有丰富想象力的\"。 \"富有想象力的、创新的\"（an imaginative solution 有创意的解决方案），与 imaginary（虚构的）区分：imaginative 是褒义\"有创意\"。",
+    "examples": [
+      {
+        "en": "The architect's imaginative design for the building won international acclaim for its innovative use of sustainable materials.",
+        "zh": "建筑师富有想象力的建筑方案因其对可持续材料的创新使用而赢得了国际赞誉。"
+      },
+      {
+        "en": "The city needs imaginative solutions to its housing problem.",
+        "zh": "这座城市需要富有想象力的方案来解决住房问题。"
+      },
+      {
+        "en": "Her imaginative teaching methods made history feel alive.",
+        "zh": "她富有创意的教学方法让历史显得生动。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:29",
+    "word": "imitate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "模仿；仿效",
+          "仿造"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 imitatus，是 imitari（模仿、复制）的过去分词，与 imago（影像、形象）同源。",
+    "formation_semantic": "imit（模仿、复制）+ -ate（动词后缀）；字面义为\"复制影像\"。 \"模仿、效仿\"（imitate someone's behavior 模仿某人的行为），以及\"仿制、仿造\"（imitate a material 仿造材料）。",
+    "examples": [
+      {
+        "en": "Young children often imitate the behavior and language patterns of adults around them as part of their learning process.",
+        "zh": "幼儿经常模仿身边成年人的行为和语言模式，这是他们学习过程的一部分。"
+      },
+      {
+        "en": "Young children often imitate the language of adults around them.",
+        "zh": "幼儿常常模仿身边成年人的语言。"
+      },
+      {
+        "en": "Some companies imitate successful products instead of developing new ideas.",
+        "zh": "一些公司模仿成功产品，而不是开发新想法。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:30",
+    "word": "imitation",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "模仿；仿效",
+          "仿制品；赝品"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "仿制的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 imitatio（模仿、复制品），由 imitari（模仿）+ -io（名词后缀）构成。",
+    "formation_semantic": "imitate（模仿）+ -ion（名词后缀）；字面义为\"模仿的行为或产物\"。 \"模仿\"（learn by imitation 通过模仿学习）、\"仿制品、赝品\"（imitation leather 人造皮革）。",
+    "examples": [
+      {
+        "en": "The market is flooded with cheap imitations of designer products, making it difficult for consumers to distinguish genuine items.",
+        "zh": "市场上充斥着廉价的仿制设计师产品，使消费者难以区分正品。"
+      },
+      {
+        "en": "Imitation can be an early stage of learning a complex skill.",
+        "zh": "模仿可以是学习复杂技能的早期阶段。"
+      },
+      {
+        "en": "The museum displayed an imitation of an ancient tool for teaching purposes.",
+        "zh": "博物馆展出了一件古代工具的仿制品用于教学。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:31",
+    "word": "lead",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "领导；引导",
+          "导致；通向"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "领先地位；线索",
+          "铅"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 lædan（带领、引导），源自原始日耳曼语 *laidjan（使前行），与古高地德语 leiten（带领）同源。",
+    "formation_semantic": "单一词根，古英语延续至今。注意与名词 lead（铅，来自拉丁语 plumbum）是同形异义词。 \"带领、引导\"（lead a team 领导团队）、\"导致\"（lead to 导致）、\"过（某种生活）\"（lead a busy life 过着忙碌的生活）。名词\"领先地位\"（take the lead 领先）。",
+    "examples": [
+      {
+        "en": "The government's investment in education will lead to long-term economic growth and social development.",
+        "zh": "政府对教育的投资将带来长期的经济增长和社会发展。"
+      },
+      {
+        "en": "Good evidence can lead researchers to a more accurate conclusion.",
+        "zh": "良好证据能引导研究人员得出更准确的结论。"
+      },
+      {
+        "en": "The investigation found high levels of lead in old water pipes.",
+        "zh": "调查发现旧水管中铅含量很高。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:32",
+    "word": "leadership",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "领导；领导能力",
+          "领导层"
+        ]
+      }
+    ],
+    "etymology": "由 leader（领导者）+ -ship（表状态、身份）构成，19世纪进入英语。",
+    "formation_semantic": "lead（带领）+ -er（人）+ -ship（表身份/状态）；字面义为\"领导者的身份/能力\"。 \"领导能力、领导地位、领导班子\"（under the leadership of 在... 的领导下）。",
+    "examples": [
+      {
+        "en": "Strong leadership is essential for guiding organizations through periods of rapid technological and market change.",
+        "zh": "强有力的领导对于引导组织度过技术和市场的快速变革期至关重要。"
+      },
+      {
+        "en": "Effective leadership is essential during institutional change.",
+        "zh": "有效领导在机构变革期间至关重要。"
+      },
+      {
+        "en": "The leadership of the university supported open research practices.",
+        "zh": "大学领导层支持开放研究实践。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:33",
+    "word": "leading",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "主要的；领先的",
+          "最重要的"
+        ]
+      }
+    ],
+    "etymology": "由 lead（带领）+ -ing（现在分词/形容词后缀）构成。",
+    "formation_semantic": "lead（带领）+ -ing（的）；字面义为\"起带领作用的\"。 \"主要的、领先的\"（leading role 主要角色/主演，leading expert 顶尖专家）、\"（新闻）头版的\"（leading article 社论/主要文章）。",
+    "examples": [
+      {
+        "en": "The university is a leading institution in the field of environmental science, attracting top researchers from around the world.",
+        "zh": "这所大学是环境科学领域的领先机构，吸引了来自世界各地的顶尖研究人员。"
+      },
+      {
+        "en": "She is a leading expert on environmental law.",
+        "zh": "她是环境法领域的主要专家。"
+      },
+      {
+        "en": "The leading cause of the delay was a lack of funding.",
+        "zh": "延误的主要原因是资金不足。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:34",
+    "word": "legal",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "法律的；合法的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 legalis（法律的），源自 lex leg-（法律、法规）。",
+    "formation_semantic": "leg（法律）+ -al（形容词后缀）；字面义为\"与法律有关的\"。 \"法律的、合法的\"（legal system 法律体系，legal rights 合法权利），反义词 illegal（非法的）。",
+    "examples": [
+      {
+        "en": "The company sought legal advice before signing the international trade agreement to ensure compliance with regulations.",
+        "zh": "该公司在签署国际贸易协定之前寻求了法律咨询，以确保符合法规要求。"
+      },
+      {
+        "en": "Citizens need legal protection when their data are collected.",
+        "zh": "公民的数据被收集时需要法律保护。"
+      },
+      {
+        "en": "The company faced legal questions about its hiring practices.",
+        "zh": "该公司的招聘做法面临法律问题。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:35",
+    "word": "legislation",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "立法；法律法规"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 legislatio（提出法律），由 legis（法律的，lex 的所有格）+ latio（提出、带来，源自 latus）构成。",
+    "formation_semantic": "legis（法律）+ lation（提出、带来）；字面义为\"提出法律的行为\"即\"立法\"。 \"立法、法规\"（introduce legislation 提出立法），指由立法机构制定法律的整个过程和结果。",
+    "examples": [
+      {
+        "en": "New environmental legislation requires all factories to reduce carbon emissions by at least thirty percent by 2030.",
+        "zh": "新的环境立法要求所有工厂到2030年至少减少百分之三十的碳排放。"
+      },
+      {
+        "en": "New legislation requires companies to report environmental risks.",
+        "zh": "新法规要求公司报告环境风险。"
+      },
+      {
+        "en": "The debate over education legislation lasted several months.",
+        "zh": "围绕教育立法的辩论持续了数月。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_05:36",
+    "word": "legitimate",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "合法的；正当的",
+          "合理的；合乎逻辑的"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "使合法；使正当"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 legitimatus，是 legitimare（使合法）的过去分词，源自 legitimus（合法的），由 lex（法律）+ -timus（最高级后缀）构成。",
+    "formation_semantic": "legit（法律）+ -imate（形容词/动词后缀）；字面义为\"最合乎法律的\"。 \"合法的、正当的\"（legitimate business 合法生意）、\"合理的\"（legitimate concern 合理的关切）、（儿童）\"婚生的\"（legitimate child 婚生子女）。",
+    "examples": [
+      {
+        "en": "The public has a legitimate concern about the safety of genetically modified foods and their potential health effects.",
+        "zh": "公众对转基因食品的安全及其潜在的健康影响有着合理的担忧。"
+      },
+      {
+        "en": "Citizens have a legitimate interest in how public money is spent.",
+        "zh": "公民对公共资金如何使用有正当关切。"
+      },
+      {
+        "en": "Transparent procedures help legitimate difficult policy decisions.",
+        "zh": "透明程序有助于使艰难的政策决定正当化。"
+      }
+    ]
+  }
+]

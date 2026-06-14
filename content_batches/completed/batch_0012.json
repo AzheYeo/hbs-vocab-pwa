@@ -1,0 +1,1481 @@
+[
+  {
+    "id": "bikaoci_unit_07:2",
+    "word": "toward(s)",
+    "pos_defs": [
+      {
+        "pos": "prep.",
+        "defs": [
+          "朝某个方向移动",
+          "朝向某处",
+          "对于、关于",
+          "接近（某一时刻）"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 toward（朝向），由 to-（朝、向）和 -weard（表示方向的后缀）构成。",
+    "formation_semantic": "to-（朝、向）+ -ward（表示\"朝向...方向\"）。同后缀词包括 backward、forward、upward。 核心义为\"朝某个方向移动\"——既可表示空间上的\"朝向某处\"，也可表示态度上的\"对于、关于\"，还可表示时间上的\"接近（某一时刻）\"。",
+    "examples": [
+      {
+        "en": "The government has taken significant steps toward reducing carbon emissions by 2030.",
+        "zh": "政府已采取重大措施，朝着到2030年减少碳排放的目标迈进。"
+      },
+      {
+        "en": "In academic reading, \"toward(s)\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“toward(s)”帮助作者在科研和教育语境中表达“朝某个方向移动”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"toward(s)\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“toward(s)”帮助作者在公共政策语境中表达“朝向某处”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"toward(s)\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“toward(s)”帮助作者在商业管理语境中表达“对于、关于”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"toward(s)\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“toward(s)”帮助作者在社会变化语境中表达“接近（某一时刻）”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:3",
+    "word": "take",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "用手拿取",
+          "花费时间、搭乘交通工具、接受建议、承担角色、吃药、记录、"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 tacan（拿、取），借自古诺尔斯语 taka（拿）。与中古荷兰语 taken（拿）同源，属日耳曼语系。",
+    "formation_semantic": "基本日耳曼动词，无前缀后缀。派生词包括 overtake、undertake、mistake、intake 等。 核心义为\"用手拿取\"，是最基础的动作动词之一。语义极大扩展，可表示\"花费时间、搭乘交通工具、接受建议、承担角色、吃药、记录、理解\"等数十种用法。",
+    "examples": [
+      {
+        "en": "It will take years for the economy to fully recover from the pandemic-induced recession.",
+        "zh": "经济需要数年时间才能从疫情引发的衰退中完全复苏。"
+      },
+      {
+        "en": "In academic reading, \"take\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“take”帮助作者在科研和教育语境中表达“用手拿取”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"take\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“take”帮助作者在公共政策语境中表达“花费时间、搭乘交通工具、接受建议、承担角色、吃药、记录、”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"take\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“take”帮助作者在商业管理语境中表达“用手拿取”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:4",
+    "word": "talent",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "重量单位",
+          "货币单位",
+          "有价值的能力",
+          "塔兰特寓言"
+        ]
+      }
+    ],
+    "etymology": "源自古希腊语 talanton（天平、重量、货币单位），经拉丁语 talentum（重量单位、货币单位）进入古法语和英语。",
+    "formation_semantic": "直接借入英语，无分析性前缀后缀。同源词包括古希腊语 tlēnai（承担、忍受）。 词义经历了从\"重量单位\"到\"货币单位\"再到\"有价值的能力\"的演变。在《圣经》的\"塔兰特寓言\"中，主人把 talent（钱币）分给仆人投资——这个比喻使 talent 获得了\"天赋、才能\"的含义。",
+    "examples": [
+      {
+        "en": "The company is always looking for young talent with innovative ideas and strong problem-solving skills.",
+        "zh": "公司一直在寻找拥有创新理念和强大解决问题能力的年轻人才。"
+      },
+      {
+        "en": "In academic reading, \"talent\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“talent”帮助作者在科研和教育语境中表达“重量单位”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"talent\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“talent”帮助作者在公共政策语境中表达“货币单位”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"talent\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“talent”帮助作者在商业管理语境中表达“有价值的能力”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"talent\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“talent”帮助作者在社会变化语境中表达“塔兰特寓言”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:5",
+    "word": "target",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "以...为目标"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "小盾牌",
+          "射箭练习时用作靶子的盾牌",
+          "靶子、目标",
+          "目标市场、指标"
+        ]
+      }
+    ],
+    "etymology": "源自古法语 targuete（小盾牌），为 targe（盾牌）的指小形式。原指一种圆形小盾牌。",
+    "formation_semantic": "targe（盾牌）+ -et（指小后缀，表示\"小...\"）。同源词包括西班牙语 targeta（卡片、标牌）。 从\"小盾牌\"引申为\"射箭练习时用作靶子的盾牌\"，进而泛指\"靶子、目标\"。现代英语中广泛用作动词\"以...为目标\"，商业用语中指\"目标市场、指标\"。",
+    "examples": [
+      {
+        "en": "The marketing campaign specifically targets young professionals aged 25 to 35 in urban areas.",
+        "zh": "这次营销活动专门针对城市地区25至35岁的年轻职场人士。"
+      },
+      {
+        "en": "In academic reading, \"target\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“target”帮助作者在科研和教育语境中表达“以...为目标”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"target\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“target”帮助作者在公共政策语境中表达“小盾牌”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"target\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“target”帮助作者在商业管理语境中表达“射箭练习时用作靶子的盾牌”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"target\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“target”帮助作者在社会变化语境中表达“靶子、目标”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:6",
+    "word": "taste",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "用手触摸感知",
+          "用嘴品尝味道",
+          "审美力、鉴赏力、品味",
+          "尝一尝"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 taxare（触摸、估价），经古法语 taster（品尝、触摸）进入英语。与 touch（触摸）同源，但语义分支不同。",
+    "formation_semantic": "经法语进入英语，词干 tast- + 动词后缀。名词与动词同形。同源词包括 tact（触觉、机智）、tactile（触觉的）。 从\"用手触摸感知\"（古法语义）发展为\"用嘴品尝味道\"（英语义），再引申为抽象的\"审美力、鉴赏力、品味\"。\"尝一尝\"就是\"获得对某物的直接体验\"。",
+    "examples": [
+      {
+        "en": "Modern art often challenges conventional taste and pushes the boundaries of aesthetic expression.",
+        "zh": "现代艺术常常挑战传统的审美趣味，推动审美表达的边界。"
+      },
+      {
+        "en": "In academic reading, \"taste\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“taste”帮助作者在科研和教育语境中表达“用手触摸感知”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"taste\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“taste”帮助作者在公共政策语境中表达“用嘴品尝味道”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"taste\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“taste”帮助作者在商业管理语境中表达“审美力、鉴赏力、品味”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"taste\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“taste”帮助作者在社会变化语境中表达“尝一尝”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:7",
+    "word": "technical",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "与技艺相关的",
+          "技术的、专业的",
+          "与科学技术相关的",
+          "专业领域的、术语性的"
+        ]
+      }
+    ],
+    "etymology": "源自希腊语 technikos（工艺的、技艺的），来自 techne（技艺、手艺、艺术）。经拉丁语 technicus 进入英语。",
+    "formation_semantic": "techn-（技艺）+ -ical（复合形容词后缀）。同根词包括 technique、technology、tech。 从\"与技艺相关的\"发展为\"技术的、专业的\"——最初指各类手工技艺，工业革命后特指\"与科学技术相关的\"，进而引申为\"专业领域的、术语性的\"。",
+    "examples": [
+      {
+        "en": "The report is too technical for the general public to understand without professional guidance.",
+        "zh": "这份报告专业性太强，普通公众没有专业指导很难理解。"
+      },
+      {
+        "en": "In academic reading, \"technical\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“technical”帮助作者在科研和教育语境中表达“与技艺相关的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"technical\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“technical”帮助作者在公共政策语境中表达“技术的、专业的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"technical\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“technical”帮助作者在商业管理语境中表达“与科学技术相关的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"technical\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“technical”帮助作者在社会变化语境中表达“专业领域的、术语性的”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:8",
+    "word": "technician",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "掌握某门技艺的人",
+          "技术员、技师"
+        ]
+      }
+    ],
+    "etymology": "源自希腊语 techne（技艺），经英语 technic（技术）加 -ian 后缀构成。",
+    "formation_semantic": "techn-（技艺）+ -ician（表示\"从事...的人\"）。同后缀词包括 musician（音乐家）、physician（内科医生）。与 technical（技术的）同根。 指\"掌握某门技艺的人\"——在当代主要指\"技术员、技师\"，即受过专业训练、能操作和维修技术设备的人员。",
+    "examples": [
+      {
+        "en": "The laboratory technician carefully calibrated the equipment before conducting the experiment.",
+        "zh": "实验室技术员在进行实验前仔细校准了设备。"
+      },
+      {
+        "en": "In academic reading, \"technician\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“technician”帮助作者在科研和教育语境中表达“掌握某门技艺的人”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"technician\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“technician”帮助作者在公共政策语境中表达“技术员、技师”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"technician\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“technician”帮助作者在商业管理语境中表达“掌握某门技艺的人”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:9",
+    "word": "technique",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "具体的操作方法或技巧",
+          "技术"
+        ]
+      }
+    ],
+    "etymology": "源自希腊语 techne（技艺），经法语 technique 进入英语，意为\"做某事的方法或方式\"。",
+    "formation_semantic": "techn-（技艺）+ -ique（法语后缀，相当于英语 -ic）。同根词包括 technical、technology。-ique 形式保留法语拼写。 与 technical 同根但词性不同——technique 是名词，指\"具体的操作方法或技巧\"，而不是抽象的\"技术\"概念本身。艺术家、运动员、工匠都有自己的 technique。",
+    "examples": [
+      {
+        "en": "The surgeon's innovative technique significantly reduced recovery time for patients.",
+        "zh": "外科医生的创新技术显著缩短了患者的康复时间。"
+      },
+      {
+        "en": "In academic reading, \"technique\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“technique”帮助作者在科研和教育语境中表达“具体的操作方法或技巧”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"technique\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“technique”帮助作者在公共政策语境中表达“技术”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"technique\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“technique”帮助作者在商业管理语境中表达“具体的操作方法或技巧”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:10",
+    "word": "technology/tech",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "关于技艺的学问",
+          "对实用技艺的系统研究",
+          "技术、科技"
+        ]
+      }
+    ],
+    "etymology": "源自希腊语 techne（技艺）+ -logia（学科、论述）。英语直接借入，tech 为其缩略形式。",
+    "formation_semantic": "techn-（技艺）+ -o-（连接音）+ -logy（学科后缀，表示\"...学\"）。同根词包括 technical、technique；同后缀词包括 biology、psychology。 字面义为\"关于技艺的学问\"——从\"对实用技艺的系统研究\"发展为现代意义的\"技术、科技\"。20世纪后期 tech 作为缩略形式广泛用于计算机和互联网领域。",
+    "examples": [
+      {
+        "en": "Advances in technology have transformed the way we communicate, work, and access information.",
+        "zh": "技术的进步已经改变了我们沟通、工作和获取信息的方式。"
+      },
+      {
+        "en": "In academic reading, \"technology/tech\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“technology/tech”帮助作者在科研和教育语境中表达“关于技艺的学问”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"technology/tech\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“technology/tech”帮助作者在公共政策语境中表达“对实用技艺的系统研究”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"technology/tech\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“technology/tech”帮助作者在商业管理语境中表达“技术、科技”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"technology/tech\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“technology/tech”帮助作者在社会变化语境中表达“关于技艺的学问”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:11",
+    "word": "teenager",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "年龄在13到19岁之间的人"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 tiene（十），由 -teen（表示\"十\"的后缀）和 age（年龄）组合，-er 表示\"人\"。",
+    "formation_semantic": "thirteen 至 nineteen 中的 -teen-（十）+ age（年龄）+ -er（表示\"人\"）。teen 本身为缩略形式。 指\"年龄在13到19岁之间的人\"——英语数字 thirteen 到 nineteen 都含有 -teen 后缀。这个概念在20世纪才成为独立的词汇，反映了现代社会对青春期作为一个独立人生阶段的认知。",
+    "examples": [
+      {
+        "en": "The study examines how social media usage affects the mental health of teenagers.",
+        "zh": "这项研究探讨了社交媒体使用如何影响青少年的心理健康。"
+      },
+      {
+        "en": "In academic reading, \"teenager\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“teenager”帮助作者在科研和教育语境中表达“年龄在13到19岁之间的人”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"teenager\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“teenager”帮助作者在公共政策语境中表达“年龄在13到19岁之间的人”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:12",
+    "word": "temper",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "将不同物质按适当比例混合",
+          "调节情绪使其适中",
+          "脾气、性情"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 temperare（调节、混合、使适中），经古法语 temper 进入英语。",
+    "formation_semantic": "直接来自拉丁语 temperare 的词干 temper-（混合、调节）。同根词包括 temperature（温度）、temperate（温和的）、temporal（时间的）。 原指\"将不同物质按适当比例混合\"（如金属冶炼中的调质），引申为\"调节情绪使其适中\"——即\"脾气、性情\"。好的 temper 是情绪适中，坏的 temper 是失去平衡。",
+    "examples": [
+      {
+        "en": "The manager must learn to temper his criticism with encouragement to maintain team morale.",
+        "zh": "经理必须学会在批评中融入鼓励，以保持团队士气。"
+      },
+      {
+        "en": "In academic reading, \"temper\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“temper”帮助作者在科研和教育语境中表达“将不同物质按适当比例混合”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temper\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“temper”帮助作者在公共政策语境中表达“调节情绪使其适中”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temper\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“temper”帮助作者在商业管理语境中表达“脾气、性情”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temper\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“temper”帮助作者在社会变化语境中表达“将不同物质按适当比例混合”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:13",
+    "word": "temperature",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "适当的混合状态",
+          "温度",
+          "冷热的度量"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 temperatura（适当的混合、调节），来自动词 temperare（混合、调节）。与 temper 同源。",
+    "formation_semantic": "temper-（混合、调节）+ -ature（名词后缀，表示\"状态或结果\"）。同根词包括 temper、temperate。 拉丁语原义为\"适当的混合状态\"——古人认为体温由体内四种体液（血液、黏液、黄胆汁、黑胆汁）的混合比例决定。17世纪后专指\"温度\"这一物理概念，即\"冷热的度量\"。",
+    "examples": [
+      {
+        "en": "Global temperatures have risen by approximately 1.2 degrees Celsius since the Industrial Revolution.",
+        "zh": "自工业革命以来，全球气温已上升约1.2摄氏度。"
+      },
+      {
+        "en": "In academic reading, \"temperature\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“temperature”帮助作者在科研和教育语境中表达“适当的混合状态”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temperature\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“temperature”帮助作者在公共政策语境中表达“温度”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temperature\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“temperature”帮助作者在商业管理语境中表达“冷热的度量”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temperature\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“temperature”帮助作者在社会变化语境中表达“适当的混合状态”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:14",
+    "word": "temporal",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "与时间有关的",
+          "现世的、世俗的",
+          "永恒的",
+          "颞部的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 tempus（时间），经 temporalis（时间的）进入英语。与 temporary 同源。",
+    "formation_semantic": "tempor-（时间）+ -al（形容词后缀，表示\"与...有关的\"）。同根词包括 temporary、tempo（节奏/速度）、contemporary（当代的）。 核心义为\"与时间有关的\"。引申出两个重要方向：一是\"现世的、世俗的\"（与\"永恒的\"相对）；二是解剖学中的\"颞部的\"（颞骨位于太阳穴，即时间的标记处）。",
+    "examples": [
+      {
+        "en": "The philosopher argued that temporal pleasures should not be prioritized over spiritual fulfillment.",
+        "zh": "这位哲学家论证说，世俗的享乐不应优先于精神的满足。"
+      },
+      {
+        "en": "In academic reading, \"temporal\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“temporal”帮助作者在科研和教育语境中表达“与时间有关的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temporal\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“temporal”帮助作者在公共政策语境中表达“现世的、世俗的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temporal\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“temporal”帮助作者在商业管理语境中表达“永恒的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temporal\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“temporal”帮助作者在社会变化语境中表达“颞部的”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:15",
+    "word": "temporary",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "只在一定时间内的",
+          "暂时的、临时的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 temporarius（暂时的），来自 tempus（时间）。与 temporal 同源。",
+    "formation_semantic": "tempor-（时间）+ -ary（形容词后缀，表示\"与...有关的、具有...性质的\"）。同根词包括 temporal、contemporary。 字面义为\"只在一定时间内的\"，即\"暂时的、临时的\"——暗示某事物不会长久持续，与 permanent（永久的）相对。",
+    "examples": [
+      {
+        "en": "The company hired temporary staff to handle the increased workload during the holiday season.",
+        "zh": "公司雇佣了临时员工来处理假期的增长工作量。"
+      },
+      {
+        "en": "In academic reading, \"temporary\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“temporary”帮助作者在科研和教育语境中表达“只在一定时间内的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temporary\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“temporary”帮助作者在公共政策语境中表达“暂时的、临时的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temporary\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“temporary”帮助作者在商业管理语境中表达“只在一定时间内的”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:16",
+    "word": "tempt",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "测试某人的意志力",
+          "尝试、试探",
+          "引诱某人做错事",
+          "测试人性弱点"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 temptare（测试、试探），是 tentare（尝试、处理）的变体。经古法语 tenter 进入英语。",
+    "formation_semantic": "直接来自拉丁语 temptare 的词干 tempt-（试探、测试）。同根词包括 temptation、attempt（尝试）、tentative（试探性的）。 核心义为\"测试某人的意志力\"——中性含义是\"尝试、试探\"，但在英语中逐渐偏向负面，特指\"引诱某人做错事\"。\"测试人性弱点\"就是\"诱惑\"。",
+    "examples": [
+      {
+        "en": "The advertisement tempts consumers to buy products they do not actually need.",
+        "zh": "这则广告引诱消费者购买他们实际上并不需要的产品。"
+      },
+      {
+        "en": "In academic reading, \"tempt\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“tempt”帮助作者在科研和教育语境中表达“测试某人的意志力”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tempt\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“tempt”帮助作者在公共政策语境中表达“尝试、试探”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tempt\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“tempt”帮助作者在商业管理语境中表达“引诱某人做错事”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tempt\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“tempt”帮助作者在社会变化语境中表达“测试人性弱点”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:17",
+    "word": "temptation",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "被测试的状态",
+          "诱惑"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 temptatio（试探、诱惑），来自 temptare（测试、试探）。与 tempt 同源。",
+    "formation_semantic": "tempt-（试探）+ -ation（名词后缀，表示\"行为或状态\"）。同根词包括 tempt、attempt、tentative。 从\"被测试的状态\"引申为\"诱惑\"——即某种事物对人产生强烈吸引力，使人想要去做明知不该做的事。",
+    "examples": [
+      {
+        "en": "The temptation to check social media notifications can significantly reduce workplace productivity.",
+        "zh": "查看社交媒体通知的诱惑会显著降低工作效率。"
+      },
+      {
+        "en": "In academic reading, \"temptation\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“temptation”帮助作者在科研和教育语境中表达“被测试的状态”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temptation\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“temptation”帮助作者在公共政策语境中表达“诱惑”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"temptation\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“temptation”帮助作者在商业管理语境中表达“被测试的状态”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:18",
+    "word": "tend",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "朝某个方向伸展",
+          "伸展",
+          "倾向于、易于",
+          "朝某个方向发展"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 tendere（伸展、延伸、朝向）。经古法语 tendre 进入英语。",
+    "formation_semantic": "来自拉丁语 tendere 的词干 tend-（伸展）。同根词极其丰富：extend（向外伸展）、intend（朝着目标伸展→意图）、attend（朝...伸展注意力→参加/照顾）、contend（一起伸展→竞争）、tendency（趋势）。 核心义为\"朝某个方向伸展\"——从\"伸展\"引申为\"倾向于、易于\"，即\"朝某个方向发展\"。另一个独立含义\"照顾\"来自 attend 的缩略。",
+    "examples": [
+      {
+        "en": "People tend to overestimate their ability to complete tasks within a given timeframe.",
+        "zh": "人们往往高估自己在给定时间内完成任务的能力。"
+      },
+      {
+        "en": "In academic reading, \"tend\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“tend”帮助作者在科研和教育语境中表达“朝某个方向伸展”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tend\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“tend”帮助作者在公共政策语境中表达“伸展”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tend\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“tend”帮助作者在商业管理语境中表达“倾向于、易于”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tend\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“tend”帮助作者在社会变化语境中表达“朝某个方向发展”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:19",
+    "word": "tendency",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "向某个方向伸展",
+          "发展趋势或倾向"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 tendere（伸展），经晚期拉丁语 tendentia（倾向于）进入英语。与 tend 同源。",
+    "formation_semantic": "tend-（伸展、朝向）+ -ency（名词后缀，表示\"状态或性质\"）。同根词包括 tend、extend、attend。 从\"向某个方向伸展\"抽象化为\"发展趋势或倾向\"——指事物自然发展的方向或人的行为习惯。",
+    "examples": [
+      {
+        "en": "There is a growing tendency among young people to prioritize mental health over career advancement.",
+        "zh": "年轻人中越来越倾向于把心理健康置于职业发展之上。"
+      },
+      {
+        "en": "In academic reading, \"tendency\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“tendency”帮助作者在科研和教育语境中表达“向某个方向伸展”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tendency\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“tendency”帮助作者在公共政策语境中表达“发展趋势或倾向”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tendency\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“tendency”帮助作者在商业管理语境中表达“向某个方向伸展”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:20",
+    "word": "tentative",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "尝试性的",
+          "不确定的、暂定的",
+          "诱惑",
+          "测试、尝试"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 tentare（尝试、测试），是 temptare 的变体。经英语直接借用。",
+    "formation_semantic": "tent-（尝试、测试）+ -ative（形容词后缀，表示\"有...性质的\"）。同根词包括 tempt、attempt、temptation。 核心义为\"尝试性的\"——因为只是尝试，所以\"不确定的、暂定的\"。与 tentative 同意的一组词中，tempt 偏向\"诱惑\"，而 tentative 保留了\"测试、尝试\"的中性含义。",
+    "examples": [
+      {
+        "en": "The researchers reached a tentative conclusion based on the preliminary data collected from the experiment.",
+        "zh": "研究人员基于实验收集的初步数据得出了一个暂定结论。"
+      },
+      {
+        "en": "In academic reading, \"tentative\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“tentative”帮助作者在科研和教育语境中表达“尝试性的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tentative\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“tentative”帮助作者在公共政策语境中表达“不确定的、暂定的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tentative\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“tentative”帮助作者在商业管理语境中表达“诱惑”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tentative\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“tentative”帮助作者在社会变化语境中表达“测试、尝试”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:21",
+    "word": "term",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "界限",
+          "期限、学期",
+          "边界、终点",
+          "术语"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 terminus（边界、界限、终点）。经古法语 terme 进入英语。",
+    "formation_semantic": "来自拉丁语 terminus 的词干 term-（边界）。同根词包括 terminal、terminate、determine（确定边界→决定）。 核心义为\"界限\"——引申出多个方向：时间上的\"期限、学期\"（时间界限）；空间或概念上的\"边界、终点\"（地铁站术语）；学术上的\"术语\"（概念的界限）；法律合约中的\"条款\"（约定的边界）。",
+    "examples": [
+      {
+        "en": "In economic terms, the policy has both short-term benefits and long-term risks.",
+        "zh": "从经济角度来看，这项政策既有短期利益也有长期风险。"
+      },
+      {
+        "en": "In academic reading, \"term\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“term”帮助作者在科研和教育语境中表达“界限”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"term\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“term”帮助作者在公共政策语境中表达“期限、学期”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"term\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“term”帮助作者在商业管理语境中表达“边界、终点”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"term\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“term”帮助作者在社会变化语境中表达“术语”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:22",
+    "word": "terminal",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "终点的、末期的",
+          "绝症"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "航站楼、终端"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 terminalis（终点的、边界的），来自 terminus（边界、终点）。与 term 同源。",
+    "formation_semantic": "termin-（边界、终点）+ -al（形容词/名词后缀）。同根词包括 term、terminate、determine。 形容词义\"终点的、末期的\"——指事物的尽头或最后阶段；医学上 terminal illness 指\"绝症\"。名词义\"航站楼、终端\"——指交通或信息系统的终点或连接点。",
+    "examples": [
+      {
+        "en": "The patient was diagnosed with a terminal illness and given six months to live.",
+        "zh": "这名患者被诊断出患有绝症，预计还有六个月的生命。"
+      },
+      {
+        "en": "In academic reading, \"terminal\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“terminal”帮助作者在科研和教育语境中表达“终点的、末期的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"terminal\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“terminal”帮助作者在公共政策语境中表达“绝症”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"terminal\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“terminal”帮助作者在商业管理语境中表达“航站楼、终端”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"terminal\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“terminal”帮助作者在社会变化语境中表达“终点的、末期的”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:23",
+    "word": "terminate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "使到达边界",
+          "终止、结束"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 terminare（设定边界、结束），来自 terminus（边界、终点）。与 term、terminal 同源。",
+    "formation_semantic": "termin-（边界、终点）+ -ate（动词后缀，表示\"使...\"）。同根词包括 term、terminal、determine。 核心义为\"使到达边界\"即\"终止、结束\"——比 end 更正式，常用于法律、合同、雇佣关系的正式终止。",
+    "examples": [
+      {
+        "en": "The company decided to terminate the contract after the supplier failed to meet the deadlines.",
+        "zh": "在供应商未能按时交付后，公司决定终止合同。"
+      },
+      {
+        "en": "In academic reading, \"terminate\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“terminate”帮助作者在科研和教育语境中表达“使到达边界”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"terminate\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“terminate”帮助作者在公共政策语境中表达“终止、结束”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"terminate\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“terminate”帮助作者在商业管理语境中表达“使到达边界”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:24",
+    "word": "testify",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "作为证人陈述",
+          "作证",
+          "证明、表明",
+          "证明"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 testificari（作证、证明），来自 testis（证人、见证者）。testis 可能与 tres（三）相关，原指\"第三方见证人\"。",
+    "formation_semantic": "test-（证人）+ -ify（动词后缀，表示\"使成为、做\"）。同根词包括 testament（遗嘱/圣约——即\"见证\"文件）、protest（公开作证→抗议）、test（测试——原指\"检验、证明\"）。 \"作为证人陈述\"即\"作证\"——法律语境中指在法庭上宣誓后提供证词。广义引申为\"证明、表明\"，如某成就\"证明\"了某人的能力。",
+    "examples": [
+      {
+        "en": "Several witnesses were called to testify before the congressional committee about the incident.",
+        "zh": "多名证人被传唤到国会委员会面前就这一事件作证。"
+      },
+      {
+        "en": "In academic reading, \"testify\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“testify”帮助作者在科研和教育语境中表达“作为证人陈述”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"testify\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“testify”帮助作者在公共政策语境中表达“作证”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"testify\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“testify”帮助作者在商业管理语境中表达“证明、表明”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"testify\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“testify”帮助作者在社会变化语境中表达“证明”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:25",
+    "word": "trace",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "追踪（沿痕迹寻找）"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "被拖曳后留下的痕迹",
+          "踪迹、痕迹",
+          "描绘（沿轮廓描绘）",
+          "极少量"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 tractus（拖曳、痕迹），是 trahere（拉、拖）的过去分词。经古法语 trace（踪迹）进入英语。",
+    "formation_semantic": "来自拉丁语 tract-（拉、拖）。同根词非常丰富：track（轨迹）、tractor（拖拉机）、abstract（抽象——\"拉出\"）、attract（吸引——\"拉向\"）、contract（合同——\"拉到一起\"）。 核心义为\"被拖曳后留下的痕迹\"，即\"踪迹、痕迹\"。动词义包括\"追踪（沿痕迹寻找）\"和\"描绘（沿轮廓描绘）\"。微量义（a trace of）来自\"极少量\"。",
+    "examples": [
+      {
+        "en": "Scientists can trace the origins of the virus through genetic sequencing and data analysis.",
+        "zh": "科学家通过基因测序和数据分析可以追溯病毒的起源。"
+      },
+      {
+        "en": "The expression \"a trace of\" often appears in passages about research and education.",
+        "zh": "表达“a trace of”常出现在关于科研和教育的文章中，表示“相关含义”。"
+      },
+      {
+        "en": "In academic reading, \"trace\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“trace”帮助作者在科研和教育语境中表达“追踪（沿痕迹寻找）”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"trace\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“trace”帮助作者在公共政策语境中表达“被拖曳后留下的痕迹”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"trace\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“trace”帮助作者在商业管理语境中表达“踪迹、痕迹”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:26",
+    "word": "track",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "追踪"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "更明显的轨迹或路径",
+          "跟踪进度或状态"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 tractus（拖曳、痕迹），经古法语 trac（踪迹）进入英语。与 trace 同源，是变体形式。",
+    "formation_semantic": "与 trace 同源，但 track 保留了法语 trac 的形式。同根词包括 trace、tractor 等来自 trahere（拉）的词汇。 与 trace（踪迹）含义相近但使用场景不同：track 指\"更明显的轨迹或路径\"，如跑道、铁轨、车辙。动词\"追踪\"也更强调持续跟随。现代用语中 track 还指\"跟踪进度或状态\"。",
+    "examples": [
+      {
+        "en": "The project manager uses specialized software to track the progress of each team member.",
+        "zh": "项目经理使用专业软件来追踪每位团队成员的进展。"
+      },
+      {
+        "en": "In academic reading, \"track\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“track”帮助作者在科研和教育语境中表达“追踪”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"track\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“track”帮助作者在公共政策语境中表达“更明显的轨迹或路径”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"track\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“track”帮助作者在商业管理语境中表达“跟踪进度或状态”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"track\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“track”帮助作者在社会变化语境中表达“追踪”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:27",
+    "word": "tradition",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "一代一代传下去的东西",
+          "传授",
+          "传统、习俗",
+          "跨越时间传递"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 traditio（交付、传授、传承），来自 tradere（交出、传给），由 trans-（越过）和 dare（给）构成。",
+    "formation_semantic": "trans-（穿过、越过）+ dit-（给）+ -ion（名词后缀）。同根词包括 betray（背叛——\"交给敌人\"）、traitor（叛徒）。trans- 在 tradere 中缩写为 tra-。 字面义为\"一代一代传下去的东西\"——从\"传授\"这个动作变为被传授的\"传统、习俗\"。核心概念是\"跨越时间传递\"。",
+    "examples": [
+      {
+        "en": "The university has a long tradition of academic excellence dating back over a century.",
+        "zh": "这所大学有着一个多世纪以来学术卓越的悠久传统。"
+      },
+      {
+        "en": "In academic reading, \"tradition\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“tradition”帮助作者在科研和教育语境中表达“一代一代传下去的东西”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tradition\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“tradition”帮助作者在公共政策语境中表达“传授”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tradition\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“tradition”帮助作者在商业管理语境中表达“传统、习俗”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"tradition\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“tradition”帮助作者在社会变化语境中表达“跨越时间传递”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:28",
+    "word": "ultimate",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "最远的、最后的",
+          "最终的、终极的",
+          "最终结果",
+          "极致的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 ultimus（最远的、最后的），是 ulter（更远的）的最高级形式。经晚期拉丁语 ultimatus 进入英语。",
+    "formation_semantic": "ultim-（最远的）+ -ate（形容词后缀）。同源词包括 ulterior（更远的、隐秘的）——ulterior motive（隐秘动机）。 核心义为\"最远的、最后的\"——引申为\"最终的、终极的\"。可以表示\"最终结果\"（ultimate goal），也可表示\"极致的\"（ultimate experience）。",
+    "examples": [
+      {
+        "en": "The ultimate goal of the research is to find a cure for the disease within the next decade.",
+        "zh": "这项研究的最终目标是在未来十年内找到这种疾病的治疗方法。"
+      },
+      {
+        "en": "The expression \"ultimate goal\" often appears in passages about research and education.",
+        "zh": "表达“ultimate goal”常出现在关于科研和教育的文章中，表示“相关含义”。"
+      },
+      {
+        "en": "The expression \"ultimate experience\" often appears in passages about public policy.",
+        "zh": "表达“ultimate experience”常出现在关于公共政策的文章中，表示“相关含义”。"
+      },
+      {
+        "en": "In academic reading, \"ultimate\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“ultimate”帮助作者在科研和教育语境中表达“最远的、最后的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"ultimate\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“ultimate”帮助作者在公共政策语境中表达“最终的、终极的”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:29",
+    "word": "underestimate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "估计得过低"
+        ]
+      }
+    ],
+    "etymology": "由英语前缀 under-（在...之下、不足）和拉丁语源动词 estimate（估计、评价）构成。estimate 源自拉丁语 aestimare（估价、评估）。",
+    "formation_semantic": "under-（不足、低于）+ estimate（估计）。estimate 来自 aestimat-（估价）。同根词包括 esteem（尊重——\"高度估价\"）。 \"估计得过低\"——即低估某事物的价值、数量、难度、能力等。与 overestimate（高估）相对。",
+    "examples": [
+      {
+        "en": "Many investors underestimated the impact of the new regulations on the technology sector.",
+        "zh": "许多投资者低估了新法规对科技行业的影响。"
+      },
+      {
+        "en": "In academic reading, \"underestimate\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“underestimate”帮助作者在科研和教育语境中表达“估计得过低”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"underestimate\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“underestimate”帮助作者在公共政策语境中表达“估计得过低”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:30",
+    "word": "undergo",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "在下面走",
+          "经历某事（尤指不愉快的事情）",
+          "承受某种重压并从中穿过"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 undergān（走到...下面、承受），由前缀 under-（在...之下）和古英语 gān（走、去）构成。",
+    "formation_semantic": "under-（在...之下）+ go（走）。字面义为\"在...之下走\"，即\"经受、承受\"。 从\"在下面走\"隐喻为\"经历某事（尤指不愉快的事情）\"——如同\"承受某种重压并从中穿过\"。常指经历变化、手术、测试等。",
+    "examples": [
+      {
+        "en": "The company will undergo a major restructuring to adapt to the changing market conditions.",
+        "zh": "公司将进行一次重大重组，以适应不断变化的市场环境。"
+      },
+      {
+        "en": "In academic reading, \"undergo\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“undergo”帮助作者在科研和教育语境中表达“在下面走”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"undergo\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“undergo”帮助作者在公共政策语境中表达“经历某事（尤指不愉快的事情）”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"undergo\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“undergo”帮助作者在商业管理语境中表达“承受某种重压并从中穿过”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"undergo\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“undergo”帮助作者在社会变化语境中表达“在下面走”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:31",
+    "word": "underlie",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "躺在下面",
+          "成为...的基础或原因",
+          "支撑",
+          "是"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 underlicgan（躺在...下面），由 under-（在...之下）和 licgan（躺）构成。与德语 unterliegen 同源。",
+    "formation_semantic": "under-（在...之下）+ lie（躺）。字面义为\"躺在下面\"，引申为\"构成...的基础\"。 从物理上的\"躺在下面\"发展为抽象的\"成为...的基础或原因\"——如原则\"支撑\"着政策，理论\"是\"现象的基础。",
+    "examples": [
+      {
+        "en": "Several economic principles underlie the government's new fiscal policy.",
+        "zh": "政府新财政政策的背后是几项经济原则。"
+      },
+      {
+        "en": "In academic reading, \"underlie\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“underlie”帮助作者在科研和教育语境中表达“躺在下面”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"underlie\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“underlie”帮助作者在公共政策语境中表达“成为...的基础或原因”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"underlie\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“underlie”帮助作者在商业管理语境中表达“支撑”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"underlie\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“underlie”帮助作者在社会变化语境中表达“是”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:32",
+    "word": "underlying",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "躺在下面的",
+          "潜在的、根本的、隐含的"
+        ]
+      }
+    ],
+    "etymology": "由 underlie 的现在分词形式转为形容词。underlie 源自古英语 underlicgan。",
+    "formation_semantic": "under-（在...之下）+ ly-（躺）+ -ing（形容词后缀，表示\"正在...的\"）。由动词 underlie 的现在分词形式固化而来。 字面义\"躺在下面的\"——引申为\"潜在的、根本的、隐含的\"，指那些不直接可见但构成基础的事物，如 underlying cause（根本原因）。",
+    "examples": [
+      {
+        "en": "The doctor identified the underlying cause of the patient's chronic fatigue through a series of tests.",
+        "zh": "医生通过一系列检查找到了患者慢性疲劳的根本原因。"
+      },
+      {
+        "en": "In academic reading, \"underlying\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“underlying”帮助作者在科研和教育语境中表达“躺在下面的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"underlying\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“underlying”帮助作者在公共政策语境中表达“潜在的、根本的、隐含的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"underlying\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“underlying”帮助作者在商业管理语境中表达“躺在下面的”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:33",
+    "word": "underline",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "强调、突出",
+          "强调"
+        ]
+      }
+    ],
+    "etymology": "由英语 under-（在...之下）和 line（线）组合而成。按英语自身构词规则产生，不源自拉丁语。",
+    "formation_semantic": "under-（在...之下）+ line（线、画线）。字面义为\"在下面画线\"。 字面义（在文字下方画线以示强调）引申为比喻义\"强调、突出\"——正如在纸上画线使文字醒目一样，在讨论中\"强调\"某一点使之突出。",
+    "examples": [
+      {
+        "en": "The report underlines the urgent need for action to address climate change.",
+        "zh": "这份报告强调了采取行动应对气候变化的紧迫性。"
+      },
+      {
+        "en": "In academic reading, \"underline\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“underline”帮助作者在科研和教育语境中表达“强调、突出”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"underline\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“underline”帮助作者在公共政策语境中表达“强调”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"underline\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“underline”帮助作者在商业管理语境中表达“强调、突出”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:34",
+    "word": "understand",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "站在事物中间",
+          "理解",
+          "站",
+          "前"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 understandan（站在...中间、理解），由 under-（在...之间、在...之中）和 standan（站）构成。原义为\"站在某物的中间\"即\"置身其中从而理解\"。",
+    "formation_semantic": "under-（在...之中）+ stand（站）。注意这里的 under- 不是\"在...下面\"，而是古义\"在...之间\"。 \"站在事物中间\"从而看清其全貌——这就是\"理解\"。这个构词法也存在于德语 verstehen（理解，由\"站\"和\"前\"构成）和古希腊语 epistasthai（理解，字面义\"站在上面\"）中，说明多种语言用\"站立在某位置\"来比喻\"理解\"。",
+    "examples": [
+      {
+        "en": "It is important to understand the cultural context when analyzing historical events.",
+        "zh": "在分析历史事件时，理解文化背景非常重要。"
+      },
+      {
+        "en": "In academic reading, \"understand\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“understand”帮助作者在科研和教育语境中表达“站在事物中间”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"understand\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“understand”帮助作者在公共政策语境中表达“理解”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"understand\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“understand”帮助作者在商业管理语境中表达“站”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"understand\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“understand”帮助作者在社会变化语境中表达“前”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:35",
+    "word": "understanding",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "理解的状态或能力",
+          "理解力的运用",
+          "达成的共识"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "体谅的、善解人意的"
+        ]
+      }
+    ],
+    "etymology": "由古英语 understandan（理解）加 -ing 后缀构成。与 understand 同源。",
+    "formation_semantic": "under-（在...之中）+ stand（站）+ -ing（名词/形容词后缀，表示\"状态或行为\"）。 作为动词 understand 的动名词形式，表示\"理解的状态或能力\"。作名词时强调\"理解力的运用\"或\"达成的共识\"。作形容词时意为\"体谅的、善解人意的\"。",
+    "examples": [
+      {
+        "en": "A mutual understanding between the two countries is essential for maintaining peace.",
+        "zh": "两国之间的相互理解对于维护和平至关重要。"
+      },
+      {
+        "en": "In academic reading, \"understanding\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“understanding”帮助作者在科研和教育语境中表达“理解的状态或能力”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"understanding\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“understanding”帮助作者在公共政策语境中表达“理解力的运用”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"understanding\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“understanding”帮助作者在商业管理语境中表达“达成的共识”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"understanding\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“understanding”帮助作者在社会变化语境中表达“体谅的、善解人意的”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:36",
+    "word": "undertake",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "从下面拿住",
+          "承担（任务；责任）、着手做（某事）",
+          "接受并执行某项重大任务"
+        ]
+      }
+    ],
+    "etymology": "由古英语 undertacan（接受、承担）发展而来，由 under-（在...之下）和 tacan（拿、取）构成。",
+    "formation_semantic": "under-（在...之下）+ take（拿、取）。字面义为\"从下面拿住\"，即\"承担、承揽\"。 \"从下面拿住\"某物以支撑它——引申为\"承担（任务/责任）、着手做（某事）\"。现代英语中常指\"接受并执行某项重大任务\"。",
+    "examples": [
+      {
+        "en": "The research team will undertake a comprehensive study of the effects of urban pollution.",
+        "zh": "研究团队将承担一项关于城市污染影响的综合研究。"
+      },
+      {
+        "en": "In academic reading, \"undertake\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“undertake”帮助作者在科研和教育语境中表达“从下面拿住”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"undertake\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“undertake”帮助作者在公共政策语境中表达“承担（任务；责任）、着手做（某事）”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"undertake\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“undertake”帮助作者在商业管理语境中表达“接受并执行某项重大任务”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"undertake\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“undertake”帮助作者在社会变化语境中表达“从下面拿住”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:37",
+    "word": "uneasy",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "不安的、不自在的",
+          "局面uneasy",
+          "不稳定的、令人紧张的"
+        ]
+      }
+    ],
+    "etymology": "由英语 un-（不）和 easy（舒适的、安心的）组合而成。easy 源自古法语 aisie（舒适的），来自拉丁语 adjacens（邻近的）。",
+    "formation_semantic": "un-（否定前缀，表示\"不\"）+ easy（舒适的）。字面义为\"不舒适的、不安的\"。 核心义为心理上的\"不安的、不自在的\"——不是身体上的不舒服，而是一种隐约的焦虑或担忧。\"局面 uneasy\"意为\"不稳定的、令人紧张的\"。",
+    "examples": [
+      {
+        "en": "Many employees feel uneasy about the potential job losses due to the company's restructuring.",
+        "zh": "许多员工对因公司重组可能导致的工作岗位流失感到不安。"
+      },
+      {
+        "en": "In academic reading, \"uneasy\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“uneasy”帮助作者在科研和教育语境中表达“不安的、不自在的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"uneasy\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“uneasy”帮助作者在公共政策语境中表达“局面uneasy”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"uneasy\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“uneasy”帮助作者在商业管理语境中表达“不稳定的、令人紧张的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"uneasy\" helps writers express a precise idea in social change.",
+        "zh": "在学术阅读中，“uneasy”帮助作者在社会变化语境中表达“不安的、不自在的”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:38",
+    "word": "unemployment",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "不被雇佣的状态",
+          "失业"
+        ]
+      }
+    ],
+    "etymology": "由英语 un-（不、无）和 employment（就业）构成。employ 源自拉丁语 implicare（卷入、包含），经古法语 employer（使用）进入英语。",
+    "formation_semantic": "un-（否定）+ employ（雇佣）+ -ment（名词后缀）。employ 来自 im-（在里面）+ plic-（折叠），原义\"卷进去\"即\"使参与\"。 \"不被雇佣的状态\"即\"失业\"。经济学术语中指有劳动能力且愿意工作的人找不到工作的状况。unemployment rate（失业率）是衡量经济健康度的核心指标。",
+    "examples": [
+      {
+        "en": "The government implemented new policies to reduce unemployment among young graduates.",
+        "zh": "政府实施了新政策以减少年轻毕业生中的失业率。"
+      },
+      {
+        "en": "In academic reading, \"unemployment\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“unemployment”帮助作者在科研和教育语境中表达“不被雇佣的状态”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"unemployment\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“unemployment”帮助作者在公共政策语境中表达“失业”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"unemployment\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“unemployment”帮助作者在商业管理语境中表达“不被雇佣的状态”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:39",
+    "word": "unexpected",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "没有预料到的",
+          "意外的、突然的"
+        ]
+      }
+    ],
+    "etymology": "由英语 un-（不、未）和 expect（预期）的过去分词 expected 构成。expect 源自拉丁语 expectare（向外看、期待），由 ex-（向外）和 spectare（看）构成。",
+    "formation_semantic": "un-（否定）+ expect（期待）+ -ed（过去分词形容词后缀）。expect 来自 ex-（向外）+ spect-（看）——\"向外看\"即\"期待\"。 \"没有预料到的\"即\"意外的、突然的\"——指某事物的发生超出了人们的预期或准备。",
+    "examples": [
+      {
+        "en": "The unexpected rise in inflation forced the central bank to adjust its interest rate policy.",
+        "zh": "意外的通胀上升迫使中央银行调整其利率政策。"
+      },
+      {
+        "en": "In academic reading, \"unexpected\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“unexpected”帮助作者在科研和教育语境中表达“没有预料到的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"unexpected\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“unexpected”帮助作者在公共政策语境中表达“意外的、突然的”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"unexpected\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“unexpected”帮助作者在商业管理语境中表达“没有预料到的”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:40",
+    "word": "unify",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "使成为一体",
+          "统一、联合"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 unificare（使统一），来自 unus（一）和 facere（做）。经后期拉丁语进入英语。",
+    "formation_semantic": "uni-（一）+ -fy（动词后缀，表示\"使成为...\"）。同根词包括 union（联合）、unique（独特的——\"唯一的\"）、universe（宇宙——\"一体\"）、unity（统一）。 \"使成为一体\"即\"统一、联合\"——将分散的部分合并为一个整体，常用于政治（国家统一）、技术（统一标准）及组织管理。",
+    "examples": [
+      {
+        "en": "The new software platform aims to unify all communication channels into a single system.",
+        "zh": "这个新软件平台旨在将所有沟通渠道统一到一个系统中。"
+      },
+      {
+        "en": "In academic reading, \"unify\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“unify”帮助作者在科研和教育语境中表达“使成为一体”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"unify\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“unify”帮助作者在公共政策语境中表达“统一、联合”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"unify\" helps writers express a precise idea in business management.",
+        "zh": "在学术阅读中，“unify”帮助作者在商业管理语境中表达“使成为一体”这一含义。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_07:41",
+    "word": "union",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "合而为一的状态",
+          "将多个部分合为一体"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 unio（一、联合、合一），来自 unus（一）。经古法语 union 进入英语。",
+    "formation_semantic": "un-（一）+ -ion（名词后缀，表示\"状态或结果\"）。同根词包括 unify、unique、universe、unity。 \"合而为一的状态\"——可指国家间的联合（如 EU——欧洲联盟）、工人组织（工会）、婚姻的联合。核心概念始终是\"将多个部分合为一体\"。",
+    "examples": [
+      {
+        "en": "The trade union negotiated with the management for better working conditions and higher wages.",
+        "zh": "工会与管理层就更好的工作条件和更高的工资进行了谈判。"
+      },
+      {
+        "en": "The expression \"如 EU——欧洲联盟\" often appears in passages about research and education.",
+        "zh": "表达“如 EU——欧洲联盟”常出现在关于科研和教育的文章中，表示“相关含义”。"
+      },
+      {
+        "en": "In academic reading, \"union\" helps writers express a precise idea in research and education.",
+        "zh": "在学术阅读中，“union”帮助作者在科研和教育语境中表达“合而为一的状态”这一含义。"
+      },
+      {
+        "en": "In academic reading, \"union\" helps writers express a precise idea in public policy.",
+        "zh": "在学术阅读中，“union”帮助作者在公共政策语境中表达“将多个部分合为一体”这一含义。"
+      }
+    ]
+  }
+]

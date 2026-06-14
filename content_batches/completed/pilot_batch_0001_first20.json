@@ -1,0 +1,669 @@
+[
+  {
+    "id": "bikaoci_unit_01:1",
+    "word": "radiate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "发出，放射",
+          "辐射",
+          "流露，散发",
+          "从中心向四周伸展"
+        ]
+      }
+    ],
+    "etymology": "radiate 源自拉丁语 radiare，意为“发出光线、照射”，其核心来自 radius，原义是“光线、辐射线”，后来也表示“半径”。英语借入后保留了“像光线一样向外发出”的中心意象。",
+    "formation_semantic": "构词上，radi- 表示“光线、射线”，-ate 是常见动词后缀，表示“使……成为某种状态”或“进行某种动作”。语义发展从“发光”扩展到物理意义上的“辐射热量、能量”，再进一步用于抽象语境，表示情绪、影响、信息等“向外散发”。在考研阅读中常见搭配有 radiate heat/light/energy，也可说 confidence radiates from someone。",
+    "examples": [
+      {
+        "en": "The stones absorbed sunlight during the day and radiated heat after sunset.",
+        "zh": "这些石头白天吸收阳光，日落后又散发热量。"
+      },
+      {
+        "en": "Wireless devices radiate signals that can be detected by nearby receivers.",
+        "zh": "无线设备会辐射出可被附近接收器探测到的信号。"
+      },
+      {
+        "en": "Even under pressure, the speaker radiated calm confidence.",
+        "zh": "即使在压力之下，演讲者仍流露出从容的自信。"
+      },
+      {
+        "en": "Several narrow streets radiate from the old town square.",
+        "zh": "几条狭窄的街道从老城广场向四周延伸。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:2",
+    "word": "radiant",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "容光焕发的，喜气洋洋的",
+          "明亮的，光芒四射的",
+          "辐射的"
+        ]
+      }
+    ],
+    "etymology": "radiant 与 radiate 同源，来自拉丁语 radians，意为“发光的、照耀的”，是 radiare“发光、放射”的现在分词形式。它的词源核心仍是 radius“光线、射线”。",
+    "formation_semantic": "radi- 表示“光线”，-ant 是形容词后缀，表示“具有……性质的”。radiant 最直接的意义是“正在发光的、光芒四射的”；用于人时，光从外在转向精神状态，表示“容光焕发、充满喜悦”。在科技或物理语境中，它也可表示“辐射的”，如 radiant energy“辐射能”。",
+    "examples": [
+      {
+        "en": "She looked radiant as she walked across the stage to receive the prize.",
+        "zh": "她走上舞台领奖时显得容光焕发。"
+      },
+      {
+        "en": "The room was filled with radiant afternoon light.",
+        "zh": "房间里充满了明亮的午后阳光。"
+      },
+      {
+        "en": "Radiant energy from the sun drives many processes on Earth.",
+        "zh": "来自太阳的辐射能驱动着地球上的许多过程。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:3",
+    "word": "radical",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "根本的，彻底的",
+          "激进的，极端的",
+          "根部的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "激进分子",
+          "根号，根式",
+          "词根"
+        ]
+      }
+    ],
+    "etymology": "radical 源自拉丁语 radix，意为“根”，经由晚期拉丁语 radicalis“根部的、与根有关的”进入英语。它与“光线”义的 radiate 形近但词源重点不同，radical 的核心是“根”。",
+    "formation_semantic": "radic- 表示“根”，-al 表示“与……有关的”。从“根部的”自然引申出“触及根本的、彻底的”；政治和社会语境中，“从根上改变现状”进一步发展为“激进的”。数学中的 radical 指“根号、根式”，语言学中也可指“词根”，都保留了“root”的基本概念。",
+    "examples": [
+      {
+        "en": "The report calls for a radical change in the way cities manage public transport.",
+        "zh": "这份报告呼吁彻底改变城市管理公共交通的方式。"
+      },
+      {
+        "en": "His radical views made it difficult for him to gain support from moderate voters.",
+        "zh": "他的激进观点使他难以获得温和选民的支持。"
+      },
+      {
+        "en": "Some radicals believed that gradual reform could never solve the crisis.",
+        "zh": "一些激进分子认为渐进式改革永远无法解决这场危机。"
+      },
+      {
+        "en": "Students often confuse the radical sign with other mathematical symbols.",
+        "zh": "学生常常把根号与其他数学符号混淆。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:4",
+    "word": "object",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "物体，物品",
+          "对象，客体",
+          "目标，目的",
+          "宾语"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "反对，不赞成",
+          "提出异议"
+        ]
+      }
+    ],
+    "etymology": "object 源自拉丁语 objectum，字面意思是“被投到面前的东西”。它由 ob- “朝向、对着”和 iacere “投掷”构成，经古法语进入中古英语。",
+    "formation_semantic": "ob- 表示“对着、在前面”，ject- 表示“投掷”。名词 object 最初是“被放置或投在眼前的东西”，因此发展出“物体、对象、客体”；当这个“对象”成为行动所指向的终点时，就有“目标、目的”义。动词 object 则可理解为“把反对意见投向对方”，因此表示“反对、提出异议”。语法中的 object 指动作所指向的“宾语”。",
+    "examples": [
+      {
+        "en": "The museum asked visitors not to touch any object on display.",
+        "zh": "博物馆要求参观者不要触摸任何展品。"
+      },
+      {
+        "en": "Children learn by treating the natural world as an object of curiosity.",
+        "zh": "儿童通过把自然世界当作好奇的对象来学习。"
+      },
+      {
+        "en": "The main object of the policy is to reduce regional inequality.",
+        "zh": "这项政策的主要目标是减少地区不平等。"
+      },
+      {
+        "en": "Several residents objected to the construction of a new highway near their homes.",
+        "zh": "几位居民反对在他们家附近修建新高速公路。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:5",
+    "word": "objective",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "客观的，不带偏见的",
+          "基于事实的",
+          "宾格的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "目标，目的"
+        ]
+      }
+    ],
+    "etymology": "objective 源自中世纪拉丁语 objectivus，由 objectum“物体、对象”加形容词后缀构成。它最早带有哲学色彩，指与“对象、客体”有关的事物。",
+    "formation_semantic": "object 表示“对象、客体”，-ive 表示“具有……性质的”。作为形容词，objective 强调事物依据外在事实而非个人感受，因此是“客观的”，与 subjective“主观的”相对。作为名词，它表示行动所指向的“对象”，即“目标、目的”。考研阅读中常见 objective evidence、objective criteria、achieve an objective 等搭配。",
+    "examples": [
+      {
+        "en": "Researchers must remain objective when they interpret experimental results.",
+        "zh": "研究者在解释实验结果时必须保持客观。"
+      },
+      {
+        "en": "The committee needs objective evidence before making a final decision.",
+        "zh": "委员会在作出最终决定前需要基于事实的客观证据。"
+      },
+      {
+        "en": "The objective of the campaign is to raise public awareness of mental health.",
+        "zh": "这场活动的目标是提高公众对心理健康的认识。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:6",
+    "word": "objection",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "反对，异议",
+          "反对的理由",
+          "抗议"
+        ]
+      }
+    ],
+    "etymology": "objection 源自拉丁语 obiectio，意为“反对、反驳”，经古法语 objection 进入英语。它与动词 object“反对”同根，仍保留 ob- 加 ject- 的“投向对面”意象。",
+    "formation_semantic": "ob- 表示“朝向、对着”，ject- 表示“投掷”，-ion 构成表示行为、状态或结果的名词。objection 就是“向对方投出的反对意见”，可指反对这一行为，也可指具体的“反对理由”。在法律语境中，objection 常译为“抗议、异议”，表示对证据、问题或程序提出正式反对。",
+    "examples": [
+      {
+        "en": "The proposal was approved despite strong objection from local communities.",
+        "zh": "尽管当地社区强烈反对，该提案仍获批准。"
+      },
+      {
+        "en": "Her main objection was that the plan ignored the needs of low-income families.",
+        "zh": "她主要的反对理由是该计划忽视了低收入家庭的需求。"
+      },
+      {
+        "en": "The judge overruled the lawyer's objection and allowed the witness to answer.",
+        "zh": "法官驳回了律师的抗议，并允许证人回答。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:7",
+    "word": "obligation",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "义务，责任",
+          "债务，欠款",
+          "恩惠责任"
+        ]
+      }
+    ],
+    "etymology": "obligation 源自拉丁语 obligatio，意为“约束、责任、义务”，来自动词 obligare“捆住、束缚”。obligare 由 ob- 和 ligare“捆绑”构成。",
+    "formation_semantic": "ob- 在这里有加强或“朝向”的意味，lig- 表示“捆绑”，-ation 构成名词。词义从“把人捆住”转为法律、道德或社会关系中的“被责任约束”。因此 obligation 不只是普通任务，而是带有必须履行的责任感；在金融和法律文本中也可指“债务、负债”。",
+    "examples": [
+      {
+        "en": "Parents have a legal obligation to provide basic care for their children.",
+        "zh": "父母有法律义务为子女提供基本照顾。"
+      },
+      {
+        "en": "The company must meet its financial obligations before investing in new projects.",
+        "zh": "公司必须先履行其财务债务，再投资新项目。"
+      },
+      {
+        "en": "I felt a deep obligation to help the teacher who had encouraged me for years.",
+        "zh": "那位老师多年鼓励我，我深感有责任帮助他。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:8",
+    "word": "oblige",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "迫使，使有义务",
+          "帮忙，施恩于",
+          "使感激"
+        ]
+      }
+    ],
+    "etymology": "oblige 源自拉丁语 obligare“捆住、约束”，与 obligation 同源。它经古法语 obliger 进入中古英语，词源上强调“被某种责任绑住”。",
+    "formation_semantic": "ob- 表示加强，lig- 表示“捆绑”，-e 是英语中的动词形式标记。核心语义是“用责任或规则把人约束住”，所以 oblige sb. to do sth. 表示“迫使某人做某事”。在礼貌语境中，oblige 也可表示“帮忙、满足请求”，因为接受帮助的人会产生感谢或人情上的责任；be obliged to do 常表示“不得不”，be obliged to sb. 则表示“感激某人”。",
+    "examples": [
+      {
+        "en": "New safety rules oblige employers to provide better protection for workers.",
+        "zh": "新的安全规定迫使用人单位为工人提供更好的保护。"
+      },
+      {
+        "en": "Could you oblige me by checking the figures one more time?",
+        "zh": "你能帮我再核对一遍这些数字吗？"
+      },
+      {
+        "en": "We are deeply obliged to the volunteers who kept the project alive.",
+        "zh": "我们非常感谢那些让项目持续下去的志愿者。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:9",
+    "word": "obscure",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "模糊的，难懂的",
+          "不出名的，鲜为人知的",
+          "昏暗的"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "遮掩，使模糊",
+          "使难理解"
+        ]
+      }
+    ],
+    "etymology": "obscure 源自拉丁语 obscurus，意为“黑暗的、隐蔽的、模糊的”。传统解释认为它包含 ob- 的加强意味，并与“覆盖、遮蔽”的古老词根有关。",
+    "formation_semantic": "ob- 可理解为加强或“在……之上”，scur- 带有“遮盖、暗”的意象。语义从“被遮住而没有光”发展为“看不清、难理解”；再由“被名声遮住、不被看见”引申为“不出名的、默默无闻的”。作动词时，obscure 表示“遮住、掩盖”，也可指把观点、事实或关系“弄得不清楚”。",
+    "examples": [
+      {
+        "en": "The author's argument is weakened by obscure language and unnecessary details.",
+        "zh": "作者晦涩的语言和不必要的细节削弱了论证力度。"
+      },
+      {
+        "en": "The article introduced an obscure scientist whose work changed modern medicine.",
+        "zh": "这篇文章介绍了一位鲜为人知却改变了现代医学的科学家。"
+      },
+      {
+        "en": "Thick clouds obscured the moon for most of the night.",
+        "zh": "厚厚的云层在夜晚大部分时间遮住了月亮。"
+      },
+      {
+        "en": "Technical terms can obscure a simple idea if they are used carelessly.",
+        "zh": "如果使用不当，技术术语会把一个简单想法弄得难以理解。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:10",
+    "word": "observation",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "观察，观测",
+          "观察所得，评论",
+          "遵守，奉行"
+        ]
+      }
+    ],
+    "etymology": "observation 源自拉丁语 observatio“观察、注意、遵守”，来自动词 observare。observare 由 ob- “朝向”和 servare “看守、保持”构成。",
+    "formation_semantic": "ob- 表示“朝向”，serv- 表示“看守、留意、保存”，-ation 构成名词。最初的画面是“朝某物看守、持续留意”，因此产生“观察、观测”义；观察之后形成的看法就是“评论、观察所得”。另一路语义是“守住规则”，所以 observation 也可表示对法律、习俗、仪式的“遵守、奉行”。",
+    "examples": [
+      {
+        "en": "Careful observation is essential in scientific research.",
+        "zh": "细致观察在科学研究中至关重要。"
+      },
+      {
+        "en": "Her observations about urban loneliness impressed many readers.",
+        "zh": "她关于城市孤独的评论给许多读者留下了深刻印象。"
+      },
+      {
+        "en": "The observation of local customs helps visitors avoid cultural misunderstandings.",
+        "zh": "遵守当地习俗有助于游客避免文化误解。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:11",
+    "word": "observe",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "观察，观测",
+          "注意到，看到",
+          "遵守，奉行",
+          "评论，说"
+        ]
+      }
+    ],
+    "etymology": "observe 源自拉丁语 observare，意为“观察、留意、遵守”，由 ob- “朝向”和 servare “看守、保持”组成，经古法语进入英语。",
+    "formation_semantic": "ob- 表示“朝向”，servare 表示“守住、留意”。observe 的基本画面是“把注意力守在某个对象上”，所以可表示“观察、注意到”。当对象是法律、规则或传统时，含义转为“遵守、奉行”。在正式写作中，observe 还可表示“评论、指出”，即观察之后说出看法。",
+    "examples": [
+      {
+        "en": "Biologists observed the animals for several months before drawing conclusions.",
+        "zh": "生物学家观察这些动物数月后才得出结论。"
+      },
+      {
+        "en": "Researchers observed a sharp increase in anxiety among young adults.",
+        "zh": "研究人员注意到年轻成年人中的焦虑水平大幅上升。"
+      },
+      {
+        "en": "All citizens are expected to observe the law, regardless of their social status.",
+        "zh": "所有公民都应遵守法律，无论其社会地位如何。"
+      },
+      {
+        "en": "The economist observed that higher wages alone would not solve the problem.",
+        "zh": "这位经济学家评论说，仅靠提高工资无法解决这个问题。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:12",
+    "word": "obsession",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "痴迷，着迷",
+          "挥之不去的念头，执念"
+        ]
+      }
+    ],
+    "etymology": "obsession 源自拉丁语 obsessio，原意是“围困、占据”，来自动词 obsidere“坐在对面、围困”。其中 ob- 表示“对着、在……上”，sidere 表示“坐”。",
+    "formation_semantic": "ob- 加 sess- 构成“坐住不走”的画面，-ion 构成名词。古代语义中，一个军队“坐在城外不走”就是“围困”；现代心理语义中，一个念头“坐在脑中不走”就是“执念、痴迷”。obsession 可用于中性或负面语境，常强调过度、反复、难以摆脱。",
+    "examples": [
+      {
+        "en": "His obsession with perfection made him revise the paper again and again.",
+        "zh": "他对完美的执念使他一遍又一遍地修改论文。"
+      },
+      {
+        "en": "Social media can turn comparison into an unhealthy obsession.",
+        "zh": "社交媒体可能把攀比变成一种不健康的痴迷。"
+      },
+      {
+        "en": "For some researchers, curiosity is productive; obsession can be destructive.",
+        "zh": "对一些研究者而言，好奇心是有益的，而执念可能具有破坏性。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:13",
+    "word": "obsolete",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "过时的，淘汰的",
+          "废弃的，不再使用的"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "使过时，使淘汰"
+        ]
+      }
+    ],
+    "etymology": "obsolete 源自拉丁语 obsoletus，意为“废弃的、陈旧的”，是 obsolescere“逐渐废弃、不再通用”的过去分词。该词与 solere“习惯于、惯常”有关。",
+    "formation_semantic": "ob- 在这里可理解为“离开、反向”，solet- 与“习惯使用”有关。obsolete 的核心是“已经离开日常使用习惯”，因此表示“过时的、被淘汰的”。它通常强调某物因技术、制度或社会变化而不再有效，不只是 old“旧”。作动词时较正式，表示“使……过时”。",
+    "examples": [
+      {
+        "en": "Many devices become obsolete soon after a new generation of technology appears.",
+        "zh": "新一代技术出现后，许多设备很快就会过时。"
+      },
+      {
+        "en": "The company still relies on obsolete software that no longer receives security updates.",
+        "zh": "这家公司仍依赖不再获得安全更新的废旧软件。"
+      },
+      {
+        "en": "Artificial intelligence may obsolete some routine jobs while creating new forms of work.",
+        "zh": "人工智能可能淘汰一些常规工作，同时创造新的工作形式。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:14",
+    "word": "obtain",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "获得，取得",
+          "存在，通行，流行"
+        ]
+      }
+    ],
+    "etymology": "obtain 源自拉丁语 obtinere，意为“抓住、取得、保持”，由 ob- 的加强意味和 tenere“握住、持有”构成，经古法语 obtenir 进入英语。",
+    "formation_semantic": "ob- 加强动作，tain- 来自 tenere，表示“持有、握住”。obtain 的基本义是“牢牢拿到手”，因此多指通过努力、程序或资格取得某物，如 obtain data、obtain permission、obtain a degree。较正式的旧义为“存在、通行”，常见于 academic English 中的 conditions that obtain“存在的条件”。",
+    "examples": [
+      {
+        "en": "Students must obtain permission before using the laboratory after hours.",
+        "zh": "学生在课后使用实验室前必须获得许可。"
+      },
+      {
+        "en": "The researchers obtained reliable data from a large national survey.",
+        "zh": "研究人员从一项大型全国调查中获得了可靠数据。"
+      },
+      {
+        "en": "Different social conditions obtain in rural and urban communities.",
+        "zh": "农村和城市社区存在不同的社会条件。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:15",
+    "word": "obvious",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "明显的，显而易见的",
+          "易理解的，一目了然的"
+        ]
+      }
+    ],
+    "etymology": "obvious 源自拉丁语 obvius，意为“迎面而来的、在路上的”，由 ob- “朝向、在……前”和 via“道路”构成。字面上就是“在路上直接碰到的”。",
+    "formation_semantic": "ob- 表示“朝向、在前面”，vi- 来自 via“路”，-ous 构成形容词。原义“迎面而来”发展为“摆在眼前、无需费力就能看出”，因此表示“明显的、显而易见的”。它常修饰 fact、reason、difference、advantage 等，也可用于 it is obvious that... 句型。",
+    "examples": [
+      {
+        "en": "It is obvious that clean water is essential to public health.",
+        "zh": "显而易见，清洁饮用水对公共健康至关重要。"
+      },
+      {
+        "en": "The most obvious difference between the two studies is their sample size.",
+        "zh": "这两项研究最明显的区别是样本规模。"
+      },
+      {
+        "en": "Her explanation made the solution obvious to everyone in the room.",
+        "zh": "她的解释让房间里的每个人都一下子看懂了解决办法。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:16",
+    "word": "ideal",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "理想的，完美的",
+          "最合适的",
+          "观念上的，想象中的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "理想",
+          "典范，完美标准"
+        ]
+      }
+    ],
+    "etymology": "ideal 源自晚期拉丁语 idealis“理念的”，来自拉丁语 idea“理念、形式”。idea 又源自古希腊语 idea，表示“形式、外观、概念”，与“看见”的词根有关。",
+    "formation_semantic": "idea 表示“理念、观念”，-al 表示“与……有关的”。在哲学传统中，idea 可指超越现实的完美形式，因此 ideal 先表示“理念中的、完美的”，后来发展为日常意义的“理想的、最合适的”。作名词时，ideal 表示人追求的价值目标或完美标准。",
+    "examples": [
+      {
+        "en": "Small classes create an ideal environment for discussion and individual feedback.",
+        "zh": "小班教学为讨论和个性化反馈创造了理想环境。"
+      },
+      {
+        "en": "This quiet library is ideal for students preparing for exams.",
+        "zh": "这座安静的图书馆非常适合备考学生。"
+      },
+      {
+        "en": "The model describes an ideal society rather than the messy reality of politics.",
+        "zh": "这一模型描述的是观念中的理想社会，而不是复杂混乱的政治现实。"
+      },
+      {
+        "en": "Freedom and equality remain powerful ideals in modern political thought.",
+        "zh": "自由和平等仍是现代政治思想中强有力的理想。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:17",
+    "word": "ideology",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "意识形态",
+          "思想体系，观念体系"
+        ]
+      }
+    ],
+    "etymology": "ideology 源自法语 ideologie，由 ideo-“理念、观念”和 -logie“学说、理论”构成。18 世纪法国思想家 Destutt de Tracy 创造此词时，本意是“关于观念的科学”。",
+    "formation_semantic": "ideo- 来自 idea“理念、观念”，-logy 表示“学科、理论体系”。ideology 从“研究观念的学问”发展为“一套系统化的社会、政治或文化信念”。在考研阅读中，它常用于分析政治制度、教育政策、媒体话语和社会价值观，强调观念如何组织人们对世界的理解。",
+    "examples": [
+      {
+        "en": "A nation's ideology can influence how it defines justice and social responsibility.",
+        "zh": "一个国家的意识形态会影响它如何界定正义和社会责任。"
+      },
+      {
+        "en": "The textbook reflects the dominant ideology of the period in which it was written.",
+        "zh": "这本教材反映了其成书时期的主流思想体系。"
+      },
+      {
+        "en": "Economic decisions are rarely free from ideology, even when they appear technical.",
+        "zh": "经济决策即使看似技术性，也很少能摆脱意识形态的影响。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:18",
+    "word": "identical",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "完全相同的",
+          "同一的"
+        ]
+      }
+    ],
+    "etymology": "identical 与 identity、identify 同源，其源头可追溯到拉丁语 idem“同一个、相同的”。经中世纪拉丁语和法语形式进入英语后，核心一直是“同一性”。",
+    "formation_semantic": "identi- 表示“同一、身份”，-ical 是形容词后缀。identical 强调两个或多个事物在关键方面甚至所有方面都一致，比 similar“相似”更强。它可用于 identical results、identical twins、identical copies 等搭配，也可用于 be identical to/with 表示“与……完全相同”。",
+    "examples": [
+      {
+        "en": "The two experiments produced almost identical results.",
+        "zh": "这两次实验得出了几乎完全相同的结果。"
+      },
+      {
+        "en": "Identical twins may still develop very different personalities.",
+        "zh": "同卵双胞胎仍可能形成非常不同的性格。"
+      },
+      {
+        "en": "The copied file is identical to the original in size and content.",
+        "zh": "复制文件在大小和内容上与原文件完全相同。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:19",
+    "word": "identification",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "识别，鉴定",
+          "身份证明",
+          "认同，同感"
+        ]
+      }
+    ],
+    "etymology": "identification 源自中世纪拉丁语 identificatio，来自动词 identificare“辨认、证明为同一”。其更深层来源是 idem“同一个”和 facere“做、使”。",
+    "formation_semantic": "identi- 表示“同一、身份”，-fication 来自 facere，表示“使成为……的行为或过程”。identification 的核心是“把某人或某物确认成某个身份或类别”。因此它可表示“识别、鉴定”，也可指护照、身份证等“身份证明”。在心理和社会语境中，它还表示“认同”，即把自己与某个人、群体或价值联系为一体。",
+    "examples": [
+      {
+        "en": "Early identification of the disease greatly improves the chance of successful treatment.",
+        "zh": "早期识别这种疾病会大大提高成功治疗的机会。"
+      },
+      {
+        "en": "Passengers must show valid identification before boarding the plane.",
+        "zh": "乘客登机前必须出示有效身份证明。"
+      },
+      {
+        "en": "The novel encourages readers' identification with characters from different backgrounds.",
+        "zh": "这部小说鼓励读者对不同背景的人物产生认同。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_01:20",
+    "word": "identify",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "识别，辨认",
+          "确认，找出",
+          "认同，与……产生共鸣",
+          "把……等同于"
+        ]
+      }
+    ],
+    "etymology": "identify 源自中世纪拉丁语 identificare，意为“辨认、证明为同一”，由 idem“同一个”和 facere“做、使”构成。它与 identity、identical、identification 属同一词族。",
+    "formation_semantic": "identi- 表示“同一、身份”，-fy 来自拉丁语 facere，表示“使成为、使……化”。identify 的原始逻辑是“把某物确定为同一个对象或身份”，因此表示“识别、辨认、确认”。在社会心理语境中，identify with sb./sth. 表示“认同、产生共鸣”；identify A with B 则表示“把 A 与 B 等同起来”。",
+    "examples": [
+      {
+        "en": "The witness was unable to identify the driver of the car.",
+        "zh": "目击者无法辨认那辆车的司机。"
+      },
+      {
+        "en": "The study aims to identify the factors that shape children's reading habits.",
+        "zh": "这项研究旨在找出影响儿童阅读习惯的因素。"
+      },
+      {
+        "en": "Many young people identify with stories about social mobility and personal struggle.",
+        "zh": "许多年轻人会对关于社会流动和个人奋斗的故事产生共鸣。"
+      },
+      {
+        "en": "Some critics wrongly identify economic growth with social progress.",
+        "zh": "一些批评者错误地把经济增长等同于社会进步。"
+      }
+    ]
+  }
+]

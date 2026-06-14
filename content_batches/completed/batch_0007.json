@@ -1,0 +1,1241 @@
+[
+  {
+    "id": "bikaoci_unit_04:25",
+    "word": "decide",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "决定；选定",
+          "裁决；判定"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 decidere（裁定、决定），由 de-（离开、去除）+ caedere（砍、切）构成，字面义为\"切掉、砍掉\"，即\"终止（犹豫）\"。",
+    "formation_semantic": "de-（离开、去除）+ cide（砍、切，来自 caedere）；字面义为\"砍掉其他选项\"即\"做出决定\"。 从\"砍掉（其他可能性）\"引申为\"决定、裁决\"，强调做出选择从而终止犹豫不决的状态。",
+    "examples": [
+      {
+        "en": "After months of deliberation, the committee decided to allocate additional funding to scientific research programs.",
+        "zh": "经过数月的审议，委员会决定向科学研究项目分配额外资金。"
+      },
+      {
+        "en": "Students must decide which courses best support their long-term goals.",
+        "zh": "学生必须决定哪些课程最能支持自己的长期目标。"
+      },
+      {
+        "en": "The evidence helped the court decide the case fairly.",
+        "zh": "证据帮助法院公正地裁决此案。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:26",
+    "word": "decision",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "决定；决策",
+          "判决；裁定"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 decisio（决定、裁决），是 decidere（决定）的名词形式，由 de-（离开）+ caedere（砍）构成。",
+    "formation_semantic": "de-（去除）+ cis（砍，来自 caedere）+ -ion（名词后缀）；字面义为\"砍掉（犹豫）的结果\"。 与 decide 同根，作为名词表示\"决定、决策\"，以及法律术语中的\"判决\"。",
+    "examples": [
+      {
+        "en": "The court's decision to uphold the environmental regulations was welcomed by conservation groups worldwide.",
+        "zh": "法院维持环境法规的决定受到了全球环保组织的欢迎。"
+      },
+      {
+        "en": "A major policy decision should be based on reliable evidence.",
+        "zh": "重大的政策决策应以可靠证据为基础。"
+      },
+      {
+        "en": "The decision changed how universities handle student data.",
+        "zh": "这一决定改变了大学处理学生数据的方式。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:27",
+    "word": "decisive",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "决定性的；关键的",
+          "果断的；明确的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 decisivus（决定的），由 decis-（决定）+ -ivus（形容词后缀）构成，17世纪进入英语。",
+    "formation_semantic": "de-（去除）+ cis（砍）+ -ive（形容词后缀）；字面义为\"能够做出决定的\"。 从\"有决定作用的\"引申为\"果断的（人）\"、\"关键性的（因素）\"、\"明确的（胜利）\"。",
+    "examples": [
+      {
+        "en": "The decisive factor in the election was the candidates' stance on healthcare reform and economic policy.",
+        "zh": "选举中的决定性因素是候选人在医疗改革和经济政策上的立场。"
+      },
+      {
+        "en": "Clear evidence played a decisive role in shaping public opinion.",
+        "zh": "清楚的证据在塑造公众意见中发挥了决定性作用。"
+      },
+      {
+        "en": "A decisive leader can act quickly during a public health emergency.",
+        "zh": "果断的领导者能在公共卫生紧急事件中迅速行动。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:28",
+    "word": "decorate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "装饰；布置",
+          "授予勋章；表彰"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 decoratus，是 decorare（装饰）的过去分词，源自 decus（装饰、光彩、荣誉），与 decent（得体的）同源。",
+    "formation_semantic": "decor（优雅、装饰）+ -ate（动词后缀）；字面义为\"使... 变得美观/得体\"。 从\"装饰、装潢\"（居住空间）引申为\"授予（勋章/荣誉称号）\"（be decorated for bravery 因勇敢被授勋）。",
+    "examples": [
+      {
+        "en": "The hall was decorated with students' artwork to celebrate the annual cultural festival of the university.",
+        "zh": "大厅里装饰着学生的艺术作品，以庆祝一年一度的大学文化节。"
+      },
+      {
+        "en": "Students decorated the hall with posters about environmental protection.",
+        "zh": "学生们用环保主题海报装饰大厅。"
+      },
+      {
+        "en": "The scientist was decorated for her contribution to medical research.",
+        "zh": "这位科学家因对医学研究的贡献而受到表彰。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:29",
+    "word": "economic",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "经济的；经济学的",
+          "有利可图的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 oeconomicus（经济的），源自希腊语 oikonomikos（家政管理的），由 oikos（家）+ nomos（管理、法则）构成。",
+    "formation_semantic": "eco（家，来自 oikos）+ nom（管理，来自 nomos）+ -ic（的）；字面义为\"与家政管理相关的\"。 从\"家政管理的\"引申为国家层面的\"经济的、经济学的\"，与 economy（经济）同源。",
+    "examples": [
+      {
+        "en": "The government's economic policies have successfully stimulated growth and reduced unemployment rates.",
+        "zh": "政府的经济政策成功刺激了增长并降低了失业率。"
+      },
+      {
+        "en": "Economic growth alone cannot solve every social problem.",
+        "zh": "单靠经济增长无法解决所有社会问题。"
+      },
+      {
+        "en": "The report examines the economic effects of population aging.",
+        "zh": "该报告考察人口老龄化的经济影响。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:30",
+    "word": "economical",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "节约的；经济实惠的",
+          "节省的"
+        ]
+      }
+    ],
+    "etymology": "由 economic（经济的）+ -al（形容词后缀）构成，18世纪出现，但含义发生了专门化。",
+    "formation_semantic": "econom（经济）+ -ical（复合形容词后缀）；字面义为\"经济方面的\"，但专门化为\"节约的、省钱的\"。 与 economic（经济学的）不同，economical 特指\"节约的、实惠的、高效的（不浪费的）\"。",
+    "examples": [
+      {
+        "en": "Electric cars are more economical to run than traditional petrol vehicles, especially over long distances.",
+        "zh": "电动汽车比传统汽油车运行起来更经济，尤其是在长途行驶时。"
+      },
+      {
+        "en": "Public transport is often more economical than driving in large cities.",
+        "zh": "在大城市，公共交通通常比开车更经济。"
+      },
+      {
+        "en": "The new heating system is economical because it uses less energy.",
+        "zh": "新的供暖系统耗能更少，因此很经济。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:31",
+    "word": "economics",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "经济学",
+          "经济情况；经济因素"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 oeconomia（家政管理），源自希腊语 oikonomia，由 oikos（家）+ nomos（管理）构成，加 -ics（学科后缀）。",
+    "formation_semantic": "eco（家）+ nom（管理）+ -ics（学科后缀）；字面义为\"研究家政管理的学问\"。 从\"家政管理\"扩大到整个社会的\"经济学\"学科，研究资源配置、生产、消费等。",
+    "examples": [
+      {
+        "en": "Understanding basic economics is essential for making informed decisions about personal finance and investment.",
+        "zh": "了解基础经济学对于就个人理财和投资做出明智决策至关重要。"
+      },
+      {
+        "en": "Economics helps students understand how markets and governments interact.",
+        "zh": "经济学帮助学生理解市场与政府如何互动。"
+      },
+      {
+        "en": "The economics of clean energy has changed rapidly in recent years.",
+        "zh": "清洁能源的经济因素近年来变化迅速。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:32",
+    "word": "economy",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "经济；经济体",
+          "节约；节省"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 oeconomia，源自希腊语 oikonomia（家政管理），由 oikos（家）+ nem-ein（管理）构成。",
+    "formation_semantic": "eco（家）+ nomy（管理，来自 nemein）；字面义为\"管理家庭的制度\"。 从\"家政管理\"引申为\"（国家的）经济制度、经济体\"，以及\"节约、节省\"。",
+    "examples": [
+      {
+        "en": "The global economy is gradually recovering from the recession, with many countries reporting positive growth rates.",
+        "zh": "全球经济正逐渐从衰退中复苏，许多国家报告了积极的增长率。"
+      },
+      {
+        "en": "A strong economy depends on education, technology, and stable institutions.",
+        "zh": "强劲的经济依赖教育、技术和稳定的制度。"
+      },
+      {
+        "en": "The design achieves economy by using fewer materials.",
+        "zh": "这种设计通过减少材料使用实现了节约。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:33",
+    "word": "educate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "教育；培养",
+          "使了解；教导"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 educatus，是 educare（培养、教育）的过去分词，由 ex-（向外）+ ducere（引导）构成，字面义为\"引出来、引导... 发展\"。",
+    "formation_semantic": "e-（向外，变体 of ex-）+ duc（引导）+ -ate（动词后缀）；字面义为\"把（潜能）引导出来\"。 从\"引导（潜能）\"的古典教育理念出发，引申为\"教育、培养、训练\"。",
+    "examples": [
+      {
+        "en": "The primary function of schools is to educate young people and prepare them for responsible citizenship.",
+        "zh": "学校的主要功能是教育年轻人，为他们成为负责任的公民做好准备。"
+      },
+      {
+        "en": "Schools should educate students to think independently and responsibly.",
+        "zh": "学校应教育学生独立并负责任地思考。"
+      },
+      {
+        "en": "The campaign aims to educate the public about food safety.",
+        "zh": "这项活动旨在让公众了解食品安全。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:34",
+    "word": "education",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "教育；培养",
+          "教育学；受教育经历"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 educatio（教育、培养），是 educare（教育）的名词形式。",
+    "formation_semantic": "e-（向外）+ duc（引导）+ -ation（行为/状态的名词后缀）；字面义为\"引导（潜能）出来的过程\"。 从\"教育\"的本义出发，在现代英语中涵盖所有\"教育体系、教育事业\"。",
+    "examples": [
+      {
+        "en": "Investing in education is widely recognized as one of the most effective strategies for reducing poverty and inequality.",
+        "zh": "投资教育被广泛认为是减少贫困和不平等的最有效策略之一。"
+      },
+      {
+        "en": "Quality education can reduce inequality across generations.",
+        "zh": "高质量教育可以减少代际不平等。"
+      },
+      {
+        "en": "Her education in biology prepared her for medical research.",
+        "zh": "她的生物学教育为医学研究做了准备。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:35",
+    "word": "effect",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "影响；效果",
+          "结果；作用"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "实现；使发生"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 effectus（产生、结果），是 efficere（完成、产生效果）的过去分词，由 ex-（向外）+ facere（做）构成。",
+    "formation_semantic": "ef-（向外，变体 of ex-）+ feet（做，来自 facere）；字面义为\"做出来的结果\"。 从\"效果、影响\"（cause and effect 因果）引申为\"（法律/法规）生效\"（take effect）、\"（电影）特效\"（special effects）。",
+    "examples": [
+      {
+        "en": "The new environmental regulations will take effect next year, requiring factories to reduce carbon emissions significantly.",
+        "zh": "新的环境法规将于明年生效，要求工厂大幅减少碳排放。"
+      },
+      {
+        "en": "The effect of the new rule was visible within a year.",
+        "zh": "新规则的效果在一年内就显现出来。"
+      },
+      {
+        "en": "The organization hopes to effect real change in rural education.",
+        "zh": "该组织希望在农村教育中实现真正的变化。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:36",
+    "word": "effective",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "有效的；起作用的",
+          "实际的；生效的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 effectivus（产生效果的），由 effect（效果）+ -ive（形容词后缀）构成。",
+    "formation_semantic": "effect（效果）+ -ive（有... 性质的）；字面义为\"能产生效果的\"。 从\"有效果的\"引申为\"有效的、起作用的\"、\"（法律）生效的\"、\"实际的\"（effective control 实际控制）。",
+    "examples": [
+      {
+        "en": "The study found that project-based learning is more effective than traditional lectures for developing problem-solving skills.",
+        "zh": "该研究发现，基于项目的学习在培养解决问题能力方面比传统讲座更有效。"
+      },
+      {
+        "en": "Effective communication is essential in medical treatment.",
+        "zh": "有效沟通在医疗治疗中至关重要。"
+      },
+      {
+        "en": "The new standards will become effective next semester.",
+        "zh": "新标准将于下学期生效。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:37",
+    "word": "efficient",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "高效的；效率高的",
+          "能胜任的"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 efficientem（产生效果的、有效的），是 efficere（完成）的现在分词，由 ex-（向外）+ facere（做）构成。",
+    "formation_semantic": "ef-（向外）+ fic（做）+ -ient（形容词后缀）；字面义为\"能高效完成的\"。 从\"产生效果\"引申为\"高效率的\"，强调以最少的浪费/时间投入完成任务，与 effective（有效果的）略有不同。",
+    "examples": [
+      {
+        "en": "The new manufacturing process is more efficient, reducing production time by thirty percent while maintaining quality.",
+        "zh": "新的制造工艺效率更高，在保持质量的同时将生产时间减少了百分之三十。"
+      },
+      {
+        "en": "An efficient transport system saves both time and energy.",
+        "zh": "高效的交通系统既节省时间又节省能源。"
+      },
+      {
+        "en": "Efficient teachers use classroom time with clear purpose.",
+        "zh": "高效的教师会有明确目的地利用课堂时间。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:38",
+    "word": "efficiency",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "效率；效能",
+          "功效"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 efficientia（效果、效率），由 efficient（高效的）+ -cy（名词后缀）构成。",
+    "formation_semantic": "ef-（向外）+ fic（做）+ -iency（名词后缀，表状态）；字面义为\"高效的状态或程度\"。 从\"效率\"的核心义出发，广泛用于工程（energy efficiency 能效）、经济（market efficiency 市场效率）等各个领域。",
+    "examples": [
+      {
+        "en": "Improving energy efficiency in buildings is one of the most cost-effective ways to reduce carbon emissions.",
+        "zh": "提高建筑能效是减少碳排放最具成本效益的方式之一。"
+      },
+      {
+        "en": "Digital records can improve the efficiency of hospital services.",
+        "zh": "数字记录可以提高医院服务效率。"
+      },
+      {
+        "en": "Energy efficiency has become a central goal in building design.",
+        "zh": "能源效率已成为建筑设计的核心目标。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:39",
+    "word": "effort",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "努力；尽力",
+          "艰难尝试"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 esforz（努力、奋力），源自拉丁语 ex-（向外）+ fortis（强壮的），字面义为\"使出力量\"。",
+    "formation_semantic": "ef-（向外，变体 of ex-）+ fort（力量）；字面义为\"把力量使出来\"。 从\"用力、努力\"引申为\"尝试\"（make an effort 做尝试）和\"（有组织的）行动/工作\"（research effort 研究计划）。",
+    "examples": [
+      {
+        "en": "The collaborative effort of scientists from different countries led to the rapid development of an effective vaccine.",
+        "zh": "来自不同国家的科学家的共同努力促成了有效疫苗的快速开发。"
+      },
+      {
+        "en": "Sustained effort is necessary for mastering academic writing.",
+        "zh": "掌握学术写作需要持续努力。"
+      },
+      {
+        "en": "The rescue effort depended on cooperation among several agencies.",
+        "zh": "救援行动依赖多个机构之间的合作。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:40",
+    "word": "fabric",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "织物；布料",
+          "结构；组织"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 fabrica（工场、精巧的结构、制品），源自 faber（工匠、手艺人）。",
+    "formation_semantic": "fabr（工匠）+ -ic（名词后缀）；字面义为\"工匠制作出来的东西\"。 从\"精工制作的东西\"引申为\"织物、布料\"（工匠制作的纺织品），以及\"（社会/组织的）结构/基础\"（the fabric of society 社会结构）。",
+    "examples": [
+      {
+        "en": "The social fabric of many communities has been weakened by economic inequality and lack of access to education.",
+        "zh": "许多社区的社会结构因经济不平等和缺乏教育机会而被削弱。"
+      },
+      {
+        "en": "The factory produces fabric for medical masks and protective clothing.",
+        "zh": "这家工厂生产医用口罩和防护服的布料。"
+      },
+      {
+        "en": "Trust is part of the social fabric of a healthy community.",
+        "zh": "信任是健康社区社会结构的一部分。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:41",
+    "word": "fabricate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "编造；捏造",
+          "制造；装配"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 fabricatus，是 fabricari（制作、建造）的过去分词，源自 faber（工匠）。",
+    "formation_semantic": "fabric（制作、结构）+ -ate（动词后缀）；字面义为\"制作、建造\"。 从\"制作\"（fabricate a tool 制造工具）引申为贬义的\"编造、伪造\"（fabricate evidence 伪造证据）。",
+    "examples": [
+      {
+        "en": "The journalist was fired for fabricating sources and inventing quotes in her news articles.",
+        "zh": "这位记者因在新闻文章中编造来源和虚构引语而被解雇。"
+      },
+      {
+        "en": "A researcher must never fabricate data to support a theory.",
+        "zh": "研究人员绝不能编造数据来支持理论。"
+      },
+      {
+        "en": "The company can fabricate small parts for laboratory equipment.",
+        "zh": "这家公司能制造实验室设备的小部件。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:42",
+    "word": "face",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "脸；面孔",
+          "表面；方面"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "面对；面临",
+          "朝向"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 facies（外貌、面容、形态），与 facere（做、制作）可能同源，字面义为\"制作出来的样子\"。",
+    "formation_semantic": "单一词根，直接借自拉丁语 facies，经古法语进入中古英语。 从\"脸、面容\"（面部）引申为\"表面\"（the face of the earth 地球表面）、\"面对\"（face the challenge 面对挑战）。",
+    "examples": [
+      {
+        "en": "Developing countries face significant challenges in balancing economic growth with environmental protection.",
+        "zh": "发展中国家在平衡经济增长与环境保护方面面临重大挑战。"
+      },
+      {
+        "en": "Many graduates face pressure when they enter the job market.",
+        "zh": "许多毕业生进入就业市场时面临压力。"
+      },
+      {
+        "en": "The building faces a quiet public square.",
+        "zh": "这座建筑朝向一个安静的公共广场。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:43",
+    "word": "facet",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "方面；侧面",
+          "小平面"
+        ]
+      }
+    ],
+    "etymology": "来自法语 facette（小面），是 face（面）+ -ette（小后缀）的指小形式，最初为宝石切割术语。",
+    "formation_semantic": "face（面）+ -et（小，法语指小后缀）；字面义为\"小面\"。 从\"（宝石的）刻面\"引申为\"（问题/事物的）方面、侧面\"。",
+    "examples": [
+      {
+        "en": "The research explores various facets of the relationship between social media usage and adolescent mental health.",
+        "zh": "该研究探讨了社交媒体使用与青少年心理健康之间关系的各个方面。"
+      },
+      {
+        "en": "One facet of the problem is the lack of reliable information.",
+        "zh": "这个问题的一个方面是缺乏可靠信息。"
+      },
+      {
+        "en": "The study examines every facet of online learning behavior.",
+        "zh": "该研究考察在线学习行为的各个方面。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:44",
+    "word": "factor",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "因素；要素",
+          "因子；系数"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 factor（制作者、因素），是 factus（做，facere 的过去分词）的派生词，字面义为\"起作用的东西\"。",
+    "formation_semantic": "fact（做）+ -or（表人或物）；字面义为\"起作用的事物\"。 从\"起作用的事物\"引申为\"因素、要素\"，在数学中指\"因子、因数\"，在商业中也可指\"代理商\"。",
+    "examples": [
+      {
+        "en": "Economic factors such as inflation and interest rates significantly influence consumer spending and investment decisions.",
+        "zh": "通货膨胀和利率等经济因素显著影响消费者的支出和投资决策。"
+      },
+      {
+        "en": "Family income is one factor that affects access to higher education.",
+        "zh": "家庭收入是影响高等教育机会的一个因素。"
+      },
+      {
+        "en": "Researchers treated age as an important factor in the analysis.",
+        "zh": "研究人员在分析中把年龄视为重要因素。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:45",
+    "word": "fade",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "褪色；逐渐消失",
+          "变弱；衰退"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 fader（褪色、枯萎），源自 fade（黯淡的、褪色的），与拉丁语 vapidus（无味的、衰败的）可能同源。",
+    "formation_semantic": "单一词根，经由古法语进入中古英语。 从\"（颜色）逐渐消失\"（faded jeans 褪色牛仔裤）引申为\"（声音/记忆/兴趣）逐渐消失/衰退\"。",
+    "examples": [
+      {
+        "en": "Public interest in the issue began to fade after the media turned its attention to other news stories.",
+        "zh": "在媒体将注意力转向其他新闻事件后，公众对这个问题的兴趣开始消退。"
+      },
+      {
+        "en": "Public interest in the issue began to fade after several months.",
+        "zh": "几个月后，公众对该问题的兴趣开始减弱。"
+      },
+      {
+        "en": "Old photographs may fade if they are exposed to strong sunlight.",
+        "zh": "旧照片如果暴露在强光下可能会褪色。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:46",
+    "word": "fail",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "失败；未能做到",
+          "不及格",
+          "衰退；失灵"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 faillir（失败、不足），源自拉丁语 fallere（使失望、欺骗、未达到）。",
+    "formation_semantic": "单一词根，经由古法语进入中古英语。 从\"未达到目标、失败\"的基本义引申为\"（健康等）衰退\"（failing health）、\"未能（做某事）\"（fail to do）、考试\"不及格\"。",
+    "examples": [
+      {
+        "en": "Without adequate investment in education, many developing countries may fail to achieve sustainable economic growth.",
+        "zh": "没有对教育的充分投资，许多发展中国家可能无法实现可持续的经济增长。"
+      },
+      {
+        "en": "Policies fail when they ignore the needs of local communities.",
+        "zh": "政策若忽视当地社区需求就会失败。"
+      },
+      {
+        "en": "The old system failed during the period of highest demand.",
+        "zh": "旧系统在需求最高时失灵了。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:47",
+    "word": "failure",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "失败；不成功",
+          "故障；衰竭",
+          "未履行"
+        ]
+      }
+    ],
+    "etymology": "由 fail（失败）+ -ure（名词后缀）构成，17世纪进入英语，取代了古法语形式。",
+    "formation_semantic": "fail（失败）+ -ure（名词后缀，表行为/结果）；字面义为\"失败的行为或结果\"。 从\"失败、不成功\"（考试不及格）引申为\"（机器/系统）故障\"（engine failure 发动机故障）、\"未能（做到）\"（failure to comply 未能遵守）。",
+    "examples": [
+      {
+        "en": "The failure of the peace talks led to an escalation of the conflict and a worsening humanitarian crisis.",
+        "zh": "和平谈判的失败导致了冲突升级和人道主义危机加剧。"
+      },
+      {
+        "en": "The failure of the project taught the team a valuable lesson.",
+        "zh": "项目失败给团队上了宝贵一课。"
+      },
+      {
+        "en": "Heart failure remains a serious challenge for modern medicine.",
+        "zh": "心力衰竭仍是现代医学面临的严峻挑战。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:48",
+    "word": "fair",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "公平的；公正的",
+          "相当好的；尚可的",
+          "浅色的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "集市；展览会"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 fæger（美丽的、令人愉快的），源自原始日耳曼语 *fagraz（适合的、美丽的），与古高地德语 fagar（美丽的）同源。",
+    "formation_semantic": "单一词根，古英语延续至今。注意与\"集市\"含义的 fair（来自拉丁语 feriae 假日）是不同词源的同形词。 \"公平的\"（fair play 公平竞争）、\"（肤色/头发）浅色的\"（fair skin 白皙皮肤）、\"（天气）晴朗的\"。另一个词源的 fair 表示\"展览会、集市\"。",
+    "examples": [
+      {
+        "en": "The legal system must ensure that everyone receives a fair trial, regardless of their social status or background.",
+        "zh": "法律制度必须确保每个人都能获得公平的审判，无论其社会地位或背景如何。"
+      },
+      {
+        "en": "A fair evaluation system should use clear and consistent standards.",
+        "zh": "公平的评价体系应使用清晰一致的标准。"
+      },
+      {
+        "en": "The university held a job fair for graduating students.",
+        "zh": "大学为毕业生举办了一场招聘会。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:49",
+    "word": "fairly",
+    "pos_defs": [
+      {
+        "pos": "adv.",
+        "defs": [
+          "相当地；还算",
+          "公平地；公正地"
+        ]
+      }
+    ],
+    "etymology": "由 fair（公平的）+ -ly（副词后缀）构成，14世纪进入英语。",
+    "formation_semantic": "fair（公平的、相当的）+ -ly（副词后缀）；字面义为\"以公平的方式\"或\"相当地\"。 从\"公平地\"（treat fairly 公平对待）引申为\"相当地、适度地\"（fairly good 相当好），注意这里的 fairly 不是强调\"公平\"，而是程度副词。",
+    "examples": [
+      {
+        "en": "The research findings suggest that the new teaching method is fairly effective in improving students' reading comprehension.",
+        "zh": "研究结果表明，新教学方法在提高学生阅读理解方面相当有效。"
+      },
+      {
+        "en": "The results were fairly consistent across different age groups.",
+        "zh": "不同年龄组的结果相当一致。"
+      },
+      {
+        "en": "All applicants should be treated fairly during the interview process.",
+        "zh": "所有申请者在面试过程中都应受到公平对待。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:50",
+    "word": "fall",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "落下；下降",
+          "跌倒；陷入",
+          "发生；属于"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "下降；跌落",
+          "秋天"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 feallan（落下），源自原始日耳曼语 *fallan（落下），与古高地德语 fallan（落下）同源。",
+    "formation_semantic": "单一词根，古英语延续至今。 从\"（物理上）落下\"（fall off the table）引申为\"（数值）下降\"（prices fall 价格下跌）、\"（季节）秋天\"（leaf fall 落叶）、\"（国家/城市）沦陷\"。",
+    "examples": [
+      {
+        "en": "The unemployment rate fell significantly after the government implemented its economic stimulus package.",
+        "zh": "在政府实施经济刺激计划之后，失业率显著下降。"
+      },
+      {
+        "en": "The number of visitors began to fall after the new fee was introduced.",
+        "zh": "新收费实施后，游客数量开始下降。"
+      },
+      {
+        "en": "Many important reforms fall into the area of public health.",
+        "zh": "许多重要改革属于公共卫生领域。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:51",
+    "word": "fan",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "迷；爱好者",
+          "风扇"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "扇动；激起"
+        ]
+      }
+    ],
+    "etymology": "作为\"扇子\"来自拉丁语 vannus（扬谷扇）；作为\"粉丝\"是 fanatic（狂热者）的缩略形式，源自拉丁语 fanaticus（神庙的、狂热的）。",
+    "formation_semantic": "同形异义词：(1)扇子来自 vannus；(2)粉丝是 fanatic 的缩写。 (1)\"扇子、风扇\"（electric fan 电扇）；(2)\"（运动/名人的）狂热爱好者、粉丝\"（football fan 球迷）。",
+    "examples": [
+      {
+        "en": "The football fans celebrated their team's victory with great enthusiasm, filling the streets with cheers.",
+        "zh": "足球迷们满怀热情地庆祝他们球队的胜利，街道上充满了欢呼声。"
+      },
+      {
+        "en": "Many young fans follow scientific programs through online videos.",
+        "zh": "许多年轻爱好者通过在线视频关注科学节目。"
+      },
+      {
+        "en": "False reports can fan anxiety during a crisis.",
+        "zh": "虚假报道可能在危机中煽动焦虑。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:52",
+    "word": "fancy",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "想要；喜欢",
+          "想象；认为"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "精致的；花哨的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "想象；爱好"
+        ]
+      }
+    ],
+    "etymology": "是 fantasy（幻想）的缩略形式，源自拉丁语 phantasia（幻想、想象），借自希腊语 phantasia（想象、视觉）。",
+    "formation_semantic": "来自 fantasy 的缩写形式，经由中古英语 fantasie 演变而来。 从\"幻想、想象力\"（名词）引申为\"想要/喜欢\"（I fancy that 我喜欢那个）、\"花哨的/昂贵的\"（fancy restaurant 高档餐厅）。",
+    "examples": [
+      {
+        "en": "The hotel's fancy architecture and luxurious amenities attract wealthy tourists from around the world.",
+        "zh": "酒店华丽的建筑和豪华的设施吸引了来自世界各地的富裕游客。"
+      },
+      {
+        "en": "Some consumers fancy simple products rather than fashionable designs.",
+        "zh": "一些消费者喜欢简单产品，而不是时髦设计。"
+      },
+      {
+        "en": "The restaurant looked fancy, but the food was quite ordinary.",
+        "zh": "这家餐厅看起来很精致，但食物很普通。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:53",
+    "word": "fascinate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "使着迷；深深吸引"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 fascinatus，是 fascinare（施魔法、迷住）的过去分词，源自 fascinum（符咒、魔法）。",
+    "formation_semantic": "fascin（符咒、魔法）+ -ate（动词后缀）；字面义为\"对... 施魔法\"。 从\"施魔法\"引申为\"迷住、使... 着迷\"，强调强烈的吸引力使人无法移开注意力。",
+    "examples": [
+      {
+        "en": "The professor's lecture on quantum physics fascinated the students, sparking their interest in advanced scientific research.",
+        "zh": "教授关于量子物理的讲座让学生们着迷，激发了他们对前沿科学研究的兴趣。"
+      },
+      {
+        "en": "Ancient cultures continue to fascinate students of history.",
+        "zh": "古代文化仍然深深吸引历史专业学生。"
+      },
+      {
+        "en": "The experiment fascinated the audience because the result was unexpected.",
+        "zh": "这个实验因结果出人意料而吸引了观众。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:54",
+    "word": "gain",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "获得；赢得",
+          "增加；增长"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "收获；好处",
+          "增加；收益"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 gainier（赢得、获得、收获），源自原始日耳曼语 *waidanjan（打猎、寻找食物），与古高地德语 weidenen（打猎）同源。",
+    "formation_semantic": "单一词根，经由古法语进入中古英语。 从\"获得、赢得\"（gain experience 获得经验）引申为\"（重量/速度等）增加\"（gain weight 体重增加）、\"（钟表）走得快\"（gain time）。",
+    "examples": [
+      {
+        "en": "The company gained a competitive advantage by investing in innovative technologies and skilled talent.",
+        "zh": "该公司通过投资创新技术和引进优秀人才获得了竞争优势。"
+      },
+      {
+        "en": "Students gain confidence when they receive useful feedback.",
+        "zh": "学生得到有用反馈时会获得信心。"
+      },
+      {
+        "en": "The policy produced clear gains in public health.",
+        "zh": "这项政策在公共健康方面带来了明显收益。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:55",
+    "word": "gamble",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "赌博；冒险"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "赌博；冒险行为"
+        ]
+      }
+    ],
+    "etymology": "词源不确定。可能来自古英语 gamenian（玩耍、游戏），与 game（游戏）同源，-le 表示反复动作。",
+    "formation_semantic": "gamb（游戏，来自 game）+ -le（反复体后缀）；字面义为\"反复玩游戏\"。 从\"玩游戏\"引申为\"赌博\"（用钱下注的赌博游戏），进一步引申为\"冒险、碰运气\"（gamble on the outcome）。",
+    "examples": [
+      {
+        "en": "Investing in start-up companies is always a gamble, as many of them fail within the first few years.",
+        "zh": "投资初创公司总是一场赌博，因为很多公司会在最初的几年内失败。"
+      },
+      {
+        "en": "Investing without information is a gamble rather than a strategy.",
+        "zh": "没有信息就投资是一种冒险，而不是策略。"
+      },
+      {
+        "en": "The company gambled on a new technology that had not been tested.",
+        "zh": "公司冒险采用了一项尚未经过测试的新技术。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:56",
+    "word": "gap",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "缺口；间隙",
+          "差距；分歧"
+        ]
+      }
+    ],
+    "etymology": "来自古挪威语 gap（空隙、缺口、深渊），与古英语 geap（宽阔的、空旷的）同源。",
+    "formation_semantic": "单一词根，来自古挪威语，经中古英语进入。 从\"（物理的）缺口/缝隙\"（gap in the fence 篱笆缺口）引申为\"（时间上的）间隔\"（generation gap 代沟）、\"差距\"（income gap 收入差距）。",
+    "examples": [
+      {
+        "en": "The widening income gap between the rich and the poor has become a major concern for policymakers worldwide.",
+        "zh": "贫富之间不断扩大的收入差距已成为全球政策制定者关注的主要问题。"
+      },
+      {
+        "en": "The income gap between regions remains a serious policy concern.",
+        "zh": "地区间收入差距仍是严重的政策关切。"
+      },
+      {
+        "en": "The study identified a gap in current research on rural schools.",
+        "zh": "该研究发现了当前农村学校研究中的空白。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:57",
+    "word": "gene",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "基因"
+        ]
+      }
+    ],
+    "etymology": "来自德语 Gen，由丹麦植物学家约翰森于1909年创造，源自希腊语 genea（出生、种族）、genos（起源、种族），与 generate（产生）同根。",
+    "formation_semantic": "直接借自德语 Gen，是希腊语\"产生/起源\"的缩写。 作为遗传学核心术语表示\"基因\"，是遗传信息的基本单位。现代英语中派生出大量复合词（genetic 基因的，genome 基因组）。",
+    "examples": [
+      {
+        "en": "Scientists have identified the specific gene that is responsible for the inherited form of the disease.",
+        "zh": "科学家已经确定了导致该疾病遗传形式的具体基因。"
+      },
+      {
+        "en": "A single gene may influence how the body responds to medicine.",
+        "zh": "单个基因可能影响身体对药物的反应。"
+      },
+      {
+        "en": "Gene research has raised new ethical questions for society.",
+        "zh": "基因研究给社会提出了新的伦理问题。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:58",
+    "word": "general",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "一般的；普遍的",
+          "总体的；大致的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "将军"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 generalis（普通的、一般的），源自 genus（种类、种族、起源），与 gene（基因）、generate（产生）同根。",
+    "formation_semantic": "gener（种类、出生）+ -al（形容词后缀）；字面义为\"与整个种类相关的\"。 从\"一般的、普遍的\"（general public 公众）引申为\"大致的、笼统的\"（general idea 大致概念），以及军事头衔\"将军\"（general officer）。",
+    "examples": [
+      {
+        "en": "In general, students who engage in regular physical activity tend to perform better academically.",
+        "zh": "总体而言，经常参加体育活动的学生往往在学业上表现更好。"
+      },
+      {
+        "en": "The article gives a general introduction to climate policy.",
+        "zh": "这篇文章对气候政策作了一般性介绍。"
+      },
+      {
+        "en": "There is general agreement that early education matters.",
+        "zh": "人们普遍同意早期教育很重要。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:59",
+    "word": "generalize",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "概括；归纳",
+          "推广；普及"
+        ]
+      }
+    ],
+    "etymology": "由 general（一般的）+ -ize（动词后缀）构成，18世纪进入英语。",
+    "formation_semantic": "general（一般的）+ -ize（使成为）；字面义为\"使成为一般性的\"。 从\"（从具体事例中）概括出一般规律、归纳\"（generalize from data 从数据中归纳），引申为\"泛化\"（过度概括）。",
+    "examples": [
+      {
+        "en": "It is dangerous to generalize about human behavior based on a single study with a small sample size.",
+        "zh": "基于样本量小的单一研究来概括人类行为是危险的。"
+      },
+      {
+        "en": "It is risky to generalize from a very small sample.",
+        "zh": "从很小的样本进行概括是有风险的。"
+      },
+      {
+        "en": "The method can be generalized to other areas of social research.",
+        "zh": "这种方法可以推广到社会研究的其他领域。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:60",
+    "word": "habit",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "习惯；习性"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 habitus（状态、外表、穿着），源自 habere（拥有、保持），字面义为\"保持的状态\"。",
+    "formation_semantic": "直接借自拉丁语 habitus，\"拥有/保持的状态\"。 从\"（身体/精神）状态\"引申为\"习惯\"（长期保持的做某事的方式），以及\"（修道士的）服装\"（habit 源自\"外表\"）。",
+    "examples": [
+      {
+        "en": "Developing good study habits early in one's academic career is essential for long-term educational success.",
+        "zh": "在学术生涯早期养成良好的学习习惯对于长期的教育成功至关重要。"
+      },
+      {
+        "en": "Regular reading is a habit that supports lifelong learning.",
+        "zh": "经常阅读是一种支持终身学习的习惯。"
+      },
+      {
+        "en": "Changing a harmful habit often requires social support.",
+        "zh": "改变有害习惯往往需要社会支持。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:61",
+    "word": "habitat",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "栖息地；生境"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 habitat（它居住），是 habitare（居住、栖息）的第三人称单数现在时形式，habitare 是 habere（拥有）的反复体。",
+    "formation_semantic": "habit（居住，来自 habere）+ -at（拉丁语第三人称单数词尾）；字面义为\"它在某处居住\"。 从\"居住的地方\"引申为生物学中的\"（动植物的）栖息地、生长地\"。",
+    "examples": [
+      {
+        "en": "Deforestation has destroyed the natural habitat of countless species, pushing many of them toward extinction.",
+        "zh": "森林砍伐已经摧毁了无数物种的自然栖息地，将其中许多物种推向灭绝。"
+      },
+      {
+        "en": "Wetlands provide an important habitat for many bird species.",
+        "zh": "湿地为许多鸟类提供重要栖息地。"
+      },
+      {
+        "en": "Urban development has destroyed much of the animal habitat nearby.",
+        "zh": "城市开发破坏了附近大量动物栖息地。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:62",
+    "word": "hamper",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "妨碍；阻碍"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "大篮子；食物篮"
+        ]
+      }
+    ],
+    "etymology": "词源不确定。可能来自中古英语 hamperen（围住、束缚），与古英语 hamm（封闭的土地、围场）有关。",
+    "formation_semantic": "单一词根，中古英语时期使用。 \"阻碍、妨碍\"（hamper progress 阻碍进步）。作为名词指\"（装食物的）有盖大篮子\"（picnic hamper 野餐篮），名词来源不同。",
+    "examples": [
+      {
+        "en": "The lack of funding has hampered scientific research in many developing countries for decades.",
+        "zh": "资金匮乏数十年来一直阻碍着许多发展中国家的科学研究。"
+      },
+      {
+        "en": "A lack of funding can hamper scientific research for years.",
+        "zh": "资金不足可能多年阻碍科学研究。"
+      },
+      {
+        "en": "Poor transport links hamper the growth of rural businesses.",
+        "zh": "交通联系不畅阻碍农村企业发展。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:63",
+    "word": "handicap",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "障碍；不利条件",
+          "残疾"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "妨碍；使不利"
+        ]
+      }
+    ],
+    "etymology": "来自短语\"hand in cap\"（手放在帽子里），源自一种以物易物或赌博的游戏，后引申为\"不利条件\"。",
+    "formation_semantic": "hand（手）+ i（in的缩写）+ cap（帽子）；字面义为\"手放帽子里\"的游戏方式。 从\"（赌博中）给劣势方加权的做法\"引申为\"障碍、不利条件\"（physical handicap 身体残疾）。现代英语中更倾向用 disability。",
+    "examples": [
+      {
+        "en": "Lack of access to quality early childhood education can be a significant handicap for children from low-income families.",
+        "zh": "无法获得优质的早期儿童教育可能成为低收入家庭儿童的重大不利条件。"
+      },
+      {
+        "en": "Limited access to the internet is a serious handicap for remote students.",
+        "zh": "互联网接入有限是偏远地区学生的严重不利条件。"
+      },
+      {
+        "en": "The team was handicapped by a shortage of experienced staff.",
+        "zh": "团队因缺少有经验的员工而处于不利地位。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_04:64",
+    "word": "shield",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "盾；防护物",
+          "保护者"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "保护；遮挡"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 scild sceld（盾牌），源自原始日耳曼语 *skelduz（盾牌），与古高地德语 scilt（盾牌）同源。",
+    "formation_semantic": "单一词根，古英语延续至今。 从\"（战士的）盾牌\"引申为\"保护物/屏障\"（protective shield 保护盾），动词\"保护、遮挡\"（shield one's eyes 遮住眼睛）。",
+    "examples": [
+      {
+        "en": "The new law is designed to shield consumers from fraudulent financial practices and unfair business tactics.",
+        "zh": "新法律旨在保护消费者免受欺诈性金融行为和不公平商业手段的侵害。"
+      },
+      {
+        "en": "Strict privacy rules can shield citizens from misuse of personal data.",
+        "zh": "严格的隐私规则可以保护公民免受个人数据滥用。"
+      },
+      {
+        "en": "The trees acted as a shield against strong winds.",
+        "zh": "这些树起到了抵挡强风的屏障作用。"
+      }
+    ]
+  }
+]

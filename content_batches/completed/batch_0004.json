@@ -1,0 +1,1257 @@
+[
+  {
+    "id": "bikaoci_unit_02:53",
+    "word": "deduct",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "扣除；减去"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 deductus（引出的、扣除的），是 deducere（引导向下）的过去分词。deducere 由 de-（向下、离开）+ ducere（引导）构成。",
+    "formation_semantic": "de-（离开、除去）+ duct-（引导），字面义为\"引导离开、扣除\"。 与 deduce 同源，deduct 的语义发展为财务方向——从总金额中\"引导离开\"一部分，即\"扣除、减去\"。名词 deduction 既指逻辑\"演绎\"（与 deduce 对应）又指财务\"扣除额\"（与 deduct 对应）。",
+    "examples": [
+      {
+        "en": "Employers are required to deduct income tax and social security contributions from their employees' salaries.",
+        "zh": "雇主必须从雇员工资中扣除所得税和社会保障缴款。"
+      },
+      {
+        "en": "The passage uses \"deduct\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“deduct”，可结合证据和语法理解为“扣除；减去”。"
+      },
+      {
+        "en": "In exam reading, \"deduct\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“deduct”也可能表达相关义项，如“扣除；减去”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_02:54",
+    "word": "fashion",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "时尚；流行式样",
+          "方式；样式"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "制作；塑造"
+        ]
+      }
+    ],
+    "etymology": "源自中古法语 facon（形状、样式、方式），来自拉丁语 factio（制作、制造方式），是 facere（做、制造）的名词形式。factio 经由中古法语进入英语，拼写受 fashon 影响而改变。",
+    "formation_semantic": "fac-（做、造）+ -tion（名词后缀），字面义为\"制作的行为或方式\"。 核心义从\"制作方式\"→\"样式、形态\"→\"行为方式\"（如 in a timely fashion 以及时的方式）。16世纪后逐渐固定为\"时尚、流行样式\"——某个时期大众\"制作和穿着\"衣物的特定方式。",
+    "examples": [
+      {
+        "en": "The fashion industry has come under increasing scrutiny for its environmental impact and labor practices.",
+        "zh": "时尚产业因其对环境的影响和劳动实践而受到越来越多的审视。"
+      },
+      {
+        "en": "The passage uses \"fashion\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“fashion”，可结合证据和语法理解为“时尚；流行式样”。"
+      },
+      {
+        "en": "In exam reading, \"fashion\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“fashion”也可能表达相关义项，如“方式；样式”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_02:55",
+    "word": "fashionable",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "时髦的；流行的",
+          "时兴的"
+        ]
+      }
+    ],
+    "etymology": "在中古英语晚期由 fashion（时尚）加 -able（能……的、与……有关的）后缀构成。",
+    "formation_semantic": "fashion（时尚）+ -able（形容词后缀），字面义为\"与时尚有关的\"。 核心义为\"时尚的、流行的\"。16-17世纪指\"符合当时行为方式的\"，后固定为\"符合当下时尚潮流的\"。可用于修饰衣物、观念、行为方式等，带有\"合时宜的\"意味。",
+    "examples": [
+      {
+        "en": "Sustainable living has become increasingly fashionable among young professionals in urban areas.",
+        "zh": "可持续生活在城市青年专业人士中变得越来越时尚。"
+      },
+      {
+        "en": "The passage uses \"fashionable\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“fashionable”，可结合证据和语法理解为“时髦的；流行的”。"
+      },
+      {
+        "en": "In exam reading, \"fashionable\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“fashionable”也可能表达相关义项，如“时兴的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_02:56",
+    "word": "favo(u)r",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "支持；赞同",
+          "恩惠；帮忙",
+          "偏爱"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "支持；偏爱",
+          "有利于"
+        ]
+      }
+    ],
+    "etymology": "源自中古法语 faveur（喜爱、恩惠、支持），来自拉丁语 favorem（好感、支持），是 favēre（表示好感、支持）的名词形式。favēre 的词源不确定，可能与原始印欧语 *ghow-（尊敬、敬畏）有关。",
+    "formation_semantic": "直接借入英语，不可再分。 核心义为\"喜爱、赞同、恩惠\"。名词引申义\"偏袒、偏爱\"（不公正的偏向）。动词义\"支持、偏爱、有利于\"。短语 in favor of（支持），do someone a favor（帮某人一个忙）。",
+    "examples": [
+      {
+        "en": "The Supreme Court ruled in favor of the defendant, citing insufficient evidence to support the allegations.",
+        "zh": "最高法院裁定被告胜诉，理由是支持指控的证据不足。"
+      },
+      {
+        "en": "The passage uses \"favo(u)r\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“favo(u)r”，可结合证据和语法理解为“支持；赞同”。"
+      },
+      {
+        "en": "In exam reading, \"favo(u)r\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“favo(u)r”也可能表达相关义项，如“恩惠；帮忙”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_02:57",
+    "word": "favo(u)rable",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "有利的；顺利的",
+          "赞许的；肯定的"
+        ]
+      }
+    ],
+    "etymology": "源自中古法语 favorable（有利的、好意的），来自拉丁语 favorabilis（受欢迎的、有利的），是 favorem（好感）的派生形容词。",
+    "formation_semantic": "favor（好感、赞同）+ -able（能够……的、具有……性质的），字面义为\"能够获得好感的\"。 核心义为\"有利的、赞同的\"。favorable conditions（有利条件）→对结果产生积极影响的环境。favorable impression（好印象）→获得好评。与副词 favorably 搭配：speak favorably of（对……好评）。",
+    "examples": [
+      {
+        "en": "The company reported favorable earnings for the third quarter, exceeding analysts' expectations by a wide margin.",
+        "zh": "该公司公布了第三季度的良好盈利，大幅超出了分析师的预期。"
+      },
+      {
+        "en": "The passage uses \"favo(u)rable\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“favo(u)rable”，可结合证据和语法理解为“有利的；顺利的”。"
+      },
+      {
+        "en": "In exam reading, \"favo(u)rable\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“favo(u)rable”也可能表达相关义项，如“赞许的；肯定的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_02:58",
+    "word": "favo(u)rite",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "最喜欢的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "最喜欢的人或物",
+          "热门人选"
+        ]
+      }
+    ],
+    "etymology": "源自中古法语 favorit（受宠者），来自意大利语 favorito（受偏爱的），是 favorire（偏爱）的过去分词。意大利语 favorire 源自拉丁语 favorem（好感）。",
+    "formation_semantic": "favor（好感、偏爱）+ -ite（形容词/名词后缀，表\"被……的\"），意为\"被偏爱的\"。 核心义为\"最喜欢的、最喜爱的\"。作名词指\"最喜爱的人或物\"或\"（比赛中的）热门选手\"。在法语影响下进入英语，拼写来自意大利语。",
+    "examples": [
+      {
+        "en": "Among all the literary genres she has studied, historical fiction remains her absolute favorite.",
+        "zh": "在她研究过的所有文学体裁中，历史小说仍然是她的绝对最爱。"
+      },
+      {
+        "en": "The passage uses \"favo(u)rite\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“favo(u)rite”，可结合证据和语法理解为“最喜欢的”。"
+      },
+      {
+        "en": "In exam reading, \"favo(u)rite\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“favo(u)rite”也可能表达相关义项，如“最喜欢的人或物”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_02:59",
+    "word": "sit",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "坐；就座",
+          "位于；坐落",
+          "任职；参加考试"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 sittan（坐、就座），与古斯堪的纳维亚语 sitja、哥特语 sitan、拉丁语 sedēre、希腊语 hesthai 同源，源自原始印欧语 *sed-（坐）。这是印欧语系中最古老的动词之一。",
+    "formation_semantic": "单音节词，直接继承自古英语，属于核心日耳曼词汇。 核心义为\"坐\"——最接近人类日常身体动作的动词之一。引申方向：坐下→\"就座\"→\"开会\"（the court sits 法庭开庭）→\"位于、坐落于\"（the house sits on a hill）→\"担任职务\"（sit on the committee）。",
+    "examples": [
+      {
+        "en": "The committee will sit for three days to review the evidence and hear testimony from expert witnesses.",
+        "zh": "委员会将开会三天以审查证据并听取专家证人的证词。"
+      },
+      {
+        "en": "The passage uses \"sit\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“sit”，可结合证据和语法理解为“坐；就座”。"
+      },
+      {
+        "en": "In exam reading, \"sit\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“sit”也可能表达相关义项，如“位于；坐落”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_02:60",
+    "word": "site",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "地点；场所",
+          "工地",
+          "网站；遗址"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 situs（位置、地点、安放），是 sinere（放置、放下）的过去分词形式。拉丁语 sinere 与sit 的PIE词根 *sed-（坐）有关联。经中古法语进入英语。",
+    "formation_semantic": "sit-（来自拉丁语 situs \"放置\"）+ -e，字面义为\"被放置的地方\"。 核心义为\"地点、位置、场所\"。建筑语境中指\"工地\"（construction site）。考古/历史中指\"遗址\"（historical site）。计算机中指\"网站\"（website）——网络空间中的\"位置\"。",
+    "examples": [
+      {
+        "en": "The archaeological site yielded artifacts that provided new insights into early urban civilization.",
+        "zh": "该考古遗址出土的文物为早期城市文明提供了新的见解。"
+      },
+      {
+        "en": "The passage uses \"site\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“site”，可结合证据和语法理解为“地点；场所”。"
+      },
+      {
+        "en": "In exam reading, \"site\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“site”也可能表达相关义项，如“工地”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_02:61",
+    "word": "situate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "使位于；使处于",
+          "把……置于背景中"
+        ]
+      }
+    ],
+    "etymology": "源自晚期拉丁语 situatus（被放置的、被安置的），是 situare（放置）的过去分词，而situare又来自拉丁语 situs（位置、地点）。",
+    "formation_semantic": "sit-（放置、位置）+ -u- + -ate（动词后缀），意为\"使处于某位置\"。 核心义为\"使位于、使处于\"。物理层面指将某物安置在特定地点（通常用被动形式 be situated）。抽象层面指将某事置于特定背景/语境中考察（situate in context）。",
+    "examples": [
+      {
+        "en": "The researchers sought to situate their findings within the broader theoretical framework of cognitive psychology.",
+        "zh": "研究人员试图将他们的发现置于认知心理学更广泛的理论框架之中。"
+      },
+      {
+        "en": "The passage uses \"situate\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“situate”，可结合证据和语法理解为“使位于；使处于”。"
+      },
+      {
+        "en": "In exam reading, \"situate\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“situate”也可能表达相关义项，如“把……置于背景中”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_02:62",
+    "word": "situation",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "情况；形势；局面",
+          "位置；处境"
+        ]
+      }
+    ],
+    "etymology": "源自中古法语 situation（位置、状况），来自晚期拉丁语 situatio（位置、局势），是 situare（放置）的名词形式。",
+    "formation_semantic": "situ-（放置、位置）+ -ation（名词后缀），意为\"某物所处的状态或位置\"。 从\"地理位置\"（如 the situation of the city 城市的位置）引申为\"状况、局面、形势\"——事物在特定时间所处的综合状态。再引申为\"职位、工作\"（英式英语，situations vacant 招聘广告）。",
+    "examples": [
+      {
+        "en": "The economic situation in the region has deteriorated significantly following the collapse of the export market.",
+        "zh": "该地区的经济形势在出口市场崩溃之后显著恶化。"
+      },
+      {
+        "en": "The passage uses \"situation\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“situation”，可结合证据和语法理解为“情况；形势；局面”。"
+      },
+      {
+        "en": "In exam reading, \"situation\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“situation”也可能表达相关义项，如“位置；处境”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_02:63",
+    "word": "skeleton",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "骨骼；骨架",
+          "框架；梗概"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "最基本的；骨干的"
+        ]
+      }
+    ],
+    "etymology": "源自希腊语 skeleton（干枯的身体、木乃伊），是skellō（使干燥、使干瘪）的中性形式。希腊语skellō 与sklēros（硬的、干燥的）同源。该词经拉丁语进入英语。",
+    "formation_semantic": "直接借入英语，不可再分。 最初指\"干枯的尸体、木乃伊\"，后专指\"骨骼\"——身体干燥后剩下的坚硬结构。引申义：最简框架（skeleton staff 骨干员工，skeleton key 万能钥匙——只有最基本的\"骨骼\"结构）。",
+    "examples": [
+      {
+        "en": "The skeleton of the ancient building was still visible after the fire had destroyed its wooden interior.",
+        "zh": "大火摧毁了木质内部之后，这座古老建筑的骨架仍然可见。"
+      },
+      {
+        "en": "The passage uses \"skeleton\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“skeleton”，可结合证据和语法理解为“骨骼；骨架”。"
+      },
+      {
+        "en": "In exam reading, \"skeleton\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“skeleton”也可能表达相关义项，如“框架；梗概”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_02:64",
+    "word": "skeptical",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "怀疑的；持怀疑态度的"
+        ]
+      }
+    ],
+    "etymology": "源自希腊语 skeptikos（思考的、考察的、怀疑的），来自skeptesthai（思考、考察、审视）。希腊哲学中的\"怀疑论者\"（Skeptikoi）即由此得名。经拉丁语和法语进入英语。",
+    "formation_semantic": "skept-（考察、审视）+ -ical（形容词后缀），意为\"习惯于审视和质疑的\"。 核心义为\"怀疑的、持怀疑态度的\"。源于希腊哲学传统——Skepticism（怀疑论）主张对所有未经充分验证的命题保持悬置判断。现代用法中skeptical 强调对某事物不轻易相信。",
+    "examples": [
+      {
+        "en": "Many scientists remain skeptical about the claim that the new drug can reverse the aging process.",
+        "zh": "许多科学家对那种新药能逆转衰老过程的说法仍持怀疑态度。"
+      },
+      {
+        "en": "The passage uses \"skeptical\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“skeptical”，可结合证据和语法理解为“怀疑的；持怀疑态度的”。"
+      },
+      {
+        "en": "In exam reading, \"skeptical\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“skeptical”也可能表达相关义项，如“怀疑的；持怀疑态度的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_02:65",
+    "word": "sketch",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "素描；草图",
+          "概述；小品"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "画素描；概述"
+        ]
+      }
+    ],
+    "etymology": "源自荷兰语 schets（速写、草图），来自意大利语 schizzo（草图、泼溅），而意大利语又来源于拉丁语 schedium（即兴之作），是希腊语 skhedios（即兴的、随手做的）的派生词。",
+    "formation_semantic": "经荷兰语借入英语，不可再分析。 核心义为\"速写、素描、草图\"——快速勾勒的绘画。引申义\"概略、简短描述\"（sketch out a plan 草拟计划）。艺术语境中指\"小品、短剧\"（comedy sketch 喜剧小品）。",
+    "examples": [
+      {
+        "en": "The architect presented a rough sketch of the building design to illustrate the basic spatial arrangement.",
+        "zh": "建筑师展示了建筑设计的粗略草图，以说明基本的空间布局。"
+      },
+      {
+        "en": "The passage uses \"sketch\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“sketch”，可结合证据和语法理解为“素描；草图”。"
+      },
+      {
+        "en": "In exam reading, \"sketch\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“sketch”也可能表达相关义项，如“概述；小品”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:1",
+    "word": "embrace",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "拥抱",
+          "欣然接受；采纳",
+          "包含；涵盖"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "拥抱"
+        ]
+      }
+    ],
+    "etymology": "来自古法语 embracer，源自拉丁语 in-（进入）+ bracchium（手臂），字面义为\"纳入臂中\"。",
+    "formation_semantic": "em-（进入，变体 of en-）+ brace（手臂）+ -（动词后缀）；字面义为\"用手臂环抱\"。 由\"拥抱\"的具体动作引申为\"欣然接受（思想、观点等）\"，进一步引申为\"包含、涵盖\"。",
+    "examples": [
+      {
+        "en": "The new educational reform aims to embrace a wider range of learning methodologies to cater to diverse student needs.",
+        "zh": "新的教育改革旨在涵盖更广泛的学习方法，以满足学生多样化的需求。"
+      },
+      {
+        "en": "The passage uses \"embrace\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“embrace”，可结合证据和语法理解为“拥抱”。"
+      },
+      {
+        "en": "In exam reading, \"embrace\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“embrace”也可能表达相关义项，如“欣然接受；采纳”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:2",
+    "word": "embed",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "嵌入；插入",
+          "使深植于"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 embeddian，由 em-（在... 中）+ bed（床）构成，原义为\"置于床中\"。",
+    "formation_semantic": "em-（使进入）+ bed（床，底层）；字面义为\"把... 放入底层\"或\"嵌入\"。 由\"把东西放在床褥里\"的具体行为引申为\"把某物牢牢嵌入/插入某个位置\"，进而用于抽象意义如\"深深植入（观念、记忆等）\"。",
+    "examples": [
+      {
+        "en": "Cultural values are often deeply embedded in the language patterns of a society and influence how people communicate.",
+        "zh": "文化价值观往往深深植根于社会的语言模式中，并影响人们的交流方式。"
+      },
+      {
+        "en": "The passage uses \"embed\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“embed”，可结合证据和语法理解为“嵌入；插入”。"
+      },
+      {
+        "en": "In exam reading, \"embed\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“embed”也可能表达相关义项，如“使深植于”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:3",
+    "word": "embody",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "体现；代表",
+          "包含；收录"
+        ]
+      }
+    ],
+    "etymology": "来自 em-（使成为）+ body（身体），16世纪进入英语，最初含义为\"赋予... 以形体\"。",
+    "formation_semantic": "em-（使... 成为）+ body（身体、形体）；字面义为\"使... 具有形体\"。 从\"赋予形体\"引申为\"（抽象概念）以具体形式呈现\"，即\"体现、代表\"，再引申为\"包含、收录\"。",
+    "examples": [
+      {
+        "en": "The new policy embodies the government's commitment to environmental protection and sustainable economic growth.",
+        "zh": "新政策体现了政府对环境保护和可持续经济增长的承诺。"
+      },
+      {
+        "en": "The passage uses \"embody\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“embody”，可结合证据和语法理解为“体现；代表”。"
+      },
+      {
+        "en": "In exam reading, \"embody\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“embody”也可能表达相关义项，如“包含；收录”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:4",
+    "word": "embryo",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "胚胎",
+          "萌芽；初期"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 embryo，源自希腊语 embryon，由 en-（在... 内）+ bryein（生长、膨胀）构成，字面义为\"体内生长的东西\"。",
+    "formation_semantic": "em-（在... 内，变体 of en-）+ bryo（生长、发芽）；字面义为\"在体内生长的生命\"。 由\"胚胎\"的本义引申为\"萌芽阶段、初期形态\"，常用于比喻事物的初级阶段。",
+    "examples": [
+      {
+        "en": "The research project is still in its embryonic stage, but initial findings suggest significant potential for renewable energy storage.",
+        "zh": "该研究项目仍处于萌芽阶段，但初步发现表明其在可再生能源存储方面具有重大潜力。"
+      },
+      {
+        "en": "The passage uses \"embryo\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“embryo”，可结合证据和语法理解为“胚胎”。"
+      },
+      {
+        "en": "In exam reading, \"embryo\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“embryo”也可能表达相关义项，如“萌芽；初期”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:5",
+    "word": "elicit",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "引出；诱出",
+          "引起；激起"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 elicitus，是 elicere（引出）的过去分词，由 ex-（向外）+ lacere（诱使、吸引）构成。",
+    "formation_semantic": "e-（向外，变体 of ex-）+ licit（诱使、吸引，来自 lacere）；字面义为\"诱使... 出来\"。 从\"诱使说出/引出\"的基本义引申为\"引发（某种反应）、激起（某种情感）\"。",
+    "examples": [
+      {
+        "en": "The professor's provocative questions were designed to elicit critical thinking and active discussion among the students.",
+        "zh": "教授提出的挑衅性问题旨在引发学生的批判性思维和积极讨论。"
+      },
+      {
+        "en": "The passage uses \"elicit\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“elicit”，可结合证据和语法理解为“引出；诱出”。"
+      },
+      {
+        "en": "In exam reading, \"elicit\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“elicit”也可能表达相关义项，如“引起；激起”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:6",
+    "word": "elite",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "精英；上层人士"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "精英的；优秀的"
+        ]
+      }
+    ],
+    "etymology": "来自法语 élite（精选的人、精华），源自拉丁语 eligere（选出），由 ex-（向外）+ legere（选择、收集）构成。",
+    "formation_semantic": "e-（向外）+ lite（选择，来自 legere）；字面义为\"被挑选出来的人\"。 由\"被选出的人\"引申为\"精英、上层人士\"，在当代语境中常指社会中最有权力、才能或影响力的群体。",
+    "examples": [
+      {
+        "en": "The academic elite from top universities around the world gathered to discuss the future of artificial intelligence research.",
+        "zh": "来自世界各地顶尖大学的学术精英齐聚一堂，讨论人工智能研究的未来。"
+      },
+      {
+        "en": "The passage uses \"elite\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“elite”，可结合证据和语法理解为“精英；上层人士”。"
+      },
+      {
+        "en": "In exam reading, \"elite\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“elite”也可能表达相关义项，如“精英的；优秀的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:7",
+    "word": "elsewhere",
+    "pos_defs": [
+      {
+        "pos": "adv.",
+        "defs": [
+          "在别处；到别处"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 elles hwær，由 elles（其他）+ hwær（何处）组合而成。",
+    "formation_semantic": "else（其他）+ where（地方）；字面义为\"在别的地方\"。 保持源义不变，始终表示\"在别处、到别处\"，是一个基本的方位副词。",
+    "examples": [
+      {
+        "en": "As housing prices in the city center continue to soar, many young professionals are seeking affordable accommodation elsewhere.",
+        "zh": "随着市中心房价持续飙升，许多年轻专业人士正在别处寻找价格合理的住所。"
+      },
+      {
+        "en": "The passage uses \"elsewhere\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“elsewhere”，可结合证据和语法理解为“在别处；到别处”。"
+      },
+      {
+        "en": "In exam reading, \"elsewhere\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“elsewhere”也可能表达相关义项，如“在别处；到别处”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:8",
+    "word": "thirst",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "口渴",
+          "渴望；渴求"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "渴望"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 thurst，源自原始日耳曼语 *thurstuz，与古高地德语 durst（口渴）同源，最终可追溯至原始印欧语 *ters-（干、干燥）。",
+    "formation_semantic": "单一词根，无复杂派生结构；名词和动词同形。 由生理上的\"口渴\"引申为抽象的\"渴望、渴求\"，如 thirst for knowledge（对知识的渴望）。",
+    "examples": [
+      {
+        "en": "The scientist's unquenchable thirst for knowledge drove her to spend decades researching the mysteries of the ocean depths.",
+        "zh": "这位科学家对知识无法抑制的渴求驱使她花了数十年时间研究海洋深处的奥秘。"
+      },
+      {
+        "en": "The passage uses \"thirst\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“thirst”，可结合证据和语法理解为“口渴”。"
+      },
+      {
+        "en": "In exam reading, \"thirst\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“thirst”也可能表达相关义项，如“渴望；渴求”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:9",
+    "word": "thorough",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "彻底的；全面的",
+          "细致的"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 thurh（通过、贯穿），与 through 同源，是 through 的古旧拼写变体。中世纪时发展为形容词含义\"彻底的、全面的\"。",
+    "formation_semantic": "源自 through 的拼写变体，形容词化后形成独立含义。 从\"贯穿\"的空间概念转变为\"从头到尾、不遗漏\"的质量概念，即\"彻底的、全面的\"。",
+    "examples": [
+      {
+        "en": "The committee conducted a thorough investigation into the financial irregularities before publishing its final report.",
+        "zh": "委员会在发布最终报告之前对财务违规行为进行了彻底的调查。"
+      },
+      {
+        "en": "The passage uses \"thorough\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“thorough”，可结合证据和语法理解为“彻底的；全面的”。"
+      },
+      {
+        "en": "In exam reading, \"thorough\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“thorough”也可能表达相关义项，如“细致的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:10",
+    "word": "though",
+    "pos_defs": [
+      {
+        "pos": "conj.",
+        "defs": [
+          "虽然；尽管"
+        ]
+      },
+      {
+        "pos": "adv.",
+        "defs": [
+          "不过；可是"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 theah，源自原始日耳曼语 *thaukh，与古高地德语 doh（虽然）同源。",
+    "formation_semantic": "单一词，古英语延续至今，拼写经过中古英语 thogh 演变而来。 作为连词表示\"虽然、尽管\"，引入让步状语从句；作为副词表示\"不过、然而\"。",
+    "examples": [
+      {
+        "en": "Though the initial investment was substantial, the company's innovative technology eventually yielded significant returns.",
+        "zh": "尽管初始投资巨大，但该公司的创新技术最终带来了可观的回报。"
+      },
+      {
+        "en": "The passage uses \"though\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“though”，可结合证据和语法理解为“虽然；尽管”。"
+      },
+      {
+        "en": "In exam reading, \"though\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“though”也可能表达相关义项，如“不过；可是”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:11",
+    "word": "thought",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "思想；想法",
+          "思考；考虑",
+          "关心；体贴"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 thoht，源自原始日耳曼语 *thanht-，是 think 的过去分词形式的名词化，与古高地德语 gidacht（思想）同源。",
+    "formation_semantic": "由 think 的过去分词形式转化而来，作为独立名词使用。 由\"思考的行为\"引申为\"思想、想法、念头\"，进一步引申为\"关心、关怀\"（如 thoughtful 中的含义）。",
+    "examples": [
+      {
+        "en": "The philosopher's profound thoughts on human nature have influenced generations of scholars across various disciplines.",
+        "zh": "这位哲学家关于人性的深刻思想影响了几代来自不同学科的学者。"
+      },
+      {
+        "en": "The passage uses \"thought\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“thought”，可结合证据和语法理解为“思想；想法”。"
+      },
+      {
+        "en": "In exam reading, \"thought\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“thought”也可能表达相关义项，如“思考；考虑”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:12",
+    "word": "thoughtful",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "深思熟虑的",
+          "体贴的；关切的"
+        ]
+      }
+    ],
+    "etymology": "由 thought（思想）+ -ful（充满... 的）构成，14世纪进入英语。",
+    "formation_semantic": "thought（思想、思考）+ -ful（充满的）；字面义为\"充满思考的\"。 从\"深思熟虑的\"（认真思考的）引申为\"体贴的、关切的\"（为他人着想的）。",
+    "examples": [
+      {
+        "en": "It was thoughtful of the professor to provide additional reading materials for students who struggled with the core concepts.",
+        "zh": "教授很体贴，为基础概念掌握有困难的学生提供了额外的阅读材料。"
+      },
+      {
+        "en": "The passage uses \"thoughtful\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“thoughtful”，可结合证据和语法理解为“深思熟虑的”。"
+      },
+      {
+        "en": "In exam reading, \"thoughtful\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“thoughtful”也可能表达相关义项，如“体贴的；关切的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:13",
+    "word": "threat",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "威胁；恐吓",
+          "可能造成危害的人或事"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 threat（压迫、痛苦、威胁），源自原始日耳曼语 *thraut-（压迫、推挤），与古高地德语 driozan（烦恼）同源。",
+    "formation_semantic": "单一词根，古英语延续至今，拼写逐渐稳定。 由\"压迫、痛苦\"的源义具体化为\"威胁、恐吓\"，在现代英语中常用于安全语境（如 security threat）。",
+    "examples": [
+      {
+        "en": "Climate change poses a serious threat to global food security, particularly affecting developing nations with limited resources.",
+        "zh": "气候变化对全球粮食安全构成了严重威胁，尤其影响到资源有限的发展中国家。"
+      },
+      {
+        "en": "The passage uses \"threat\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“threat”，可结合证据和语法理解为“威胁；恐吓”。"
+      },
+      {
+        "en": "In exam reading, \"threat\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“threat”也可能表达相关义项，如“可能造成危害的人或事”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:14",
+    "word": "threaten",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "威胁；恐吓",
+          "危及；预示危险"
+        ]
+      }
+    ],
+    "etymology": "由 threat（威胁）+ -en（动词后缀）派生而来，源自中古英语 threatenen。",
+    "formation_semantic": "threat（威胁）+ -en（使... 成为，动词后缀）；字面义为\"发出威胁\"。 从\"以... 威胁\"的具体行为引申为\"预示... 的危险\"（如 threaten to rain 预示要下雨）。",
+    "examples": [
+      {
+        "en": "Rising sea levels threaten to displace millions of people living in coastal communities around the world.",
+        "zh": "海平面上升威胁着全球沿海社区数百万人的生存，可能导致他们流离失所。"
+      },
+      {
+        "en": "The passage uses \"threaten\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“threaten”，可结合证据和语法理解为“威胁；恐吓”。"
+      },
+      {
+        "en": "In exam reading, \"threaten\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“threaten”也可能表达相关义项，如“危及；预示危险”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:15",
+    "word": "update",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "更新；使现代化",
+          "提供最新信息"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "更新；最新消息"
+        ]
+      }
+    ],
+    "etymology": "由 up（向上）+ date（日期）组合而成，19世纪中期出现，最初为动词短语\"to update\"。",
+    "formation_semantic": "up（向上、使新）+ date（日期）；字面义为\"使达到最新日期\"。 由\"更新日期\"引申为\"提供最新信息、更新内容\"，在计算机时代成为常用词，指软件版本更新。",
+    "examples": [
+      {
+        "en": "The research team regularly updates its database to ensure that all statistical information reflects the most current data available.",
+        "zh": "研究团队定期更新其数据库，以确保所有统计信息反映最新的可用数据。"
+      },
+      {
+        "en": "The passage uses \"update\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“update”，可结合证据和语法理解为“更新；使现代化”。"
+      },
+      {
+        "en": "In exam reading, \"update\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“update”也可能表达相关义项，如“提供最新信息”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:16",
+    "word": "upgrade",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "升级；提升；改良"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "升级；改进"
+        ]
+      }
+    ],
+    "etymology": "由 up（向上）+ grade（等级）组合而成，16世纪起指\"从低处向上走\"，19世纪后主要表示\"提升等级\"。",
+    "formation_semantic": "up（向上）+ grade（等级、级别）；字面义为\"使等级上升\"。 由\"向上走\"的具体动作引申为\"提升等级/质量/性能\"。",
+    "examples": [
+      {
+        "en": "Many companies are investing in upgrading their manufacturing facilities to meet stricter environmental standards.",
+        "zh": "许多公司正在投资升级制造设备，以满足更严格的环境标准。"
+      },
+      {
+        "en": "The passage uses \"upgrade\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“upgrade”，可结合证据和语法理解为“升级；提升；改良”。"
+      },
+      {
+        "en": "In exam reading, \"upgrade\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“upgrade”也可能表达相关义项，如“升级；改进”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:17",
+    "word": "uphold",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "支持；维护",
+          "维持；确认"
+        ]
+      }
+    ],
+    "etymology": "由 up（向上）+ hold（保持）组合而成，12世纪进入英语，最初含义为\"举起、抬起\"。",
+    "formation_semantic": "up（向上）+ hold（握住、保持）；字面义为\"向上举着、保持住\"。 从物理上的\"举起\"引申为抽象层面的\"支持、维护（原则、决定等）\"，如 uphold the law（维护法律）。",
+    "examples": [
+      {
+        "en": "The Supreme Court decision upheld the principle of free speech, reinforcing its importance in a democratic society.",
+        "zh": "最高法院的裁决维护了言论自由的原则，强化了其在民主社会中的重要性。"
+      },
+      {
+        "en": "The passage uses \"uphold\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“uphold”，可结合证据和语法理解为“支持；维护”。"
+      },
+      {
+        "en": "In exam reading, \"uphold\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“uphold”也可能表达相关义项，如“维持；确认”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:18",
+    "word": "upset",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "使心烦意乱",
+          "打乱；扰乱",
+          "打翻"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "难过的；不安的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "爆冷；意外结果"
+        ]
+      }
+    ],
+    "etymology": "由 up（向上）+ set（放置）组合而成，14世纪进入英语，最初为\"向上放置\"或\"推翻\"。",
+    "formation_semantic": "up（向上）+ set（放置）；原义为\"把底部翻到上面来\"。 从物理上的\"打翻、颠覆\"引申为情绪上的\"使心烦意乱\"，也用于体育竞技中的\"爆冷门\"（击败强手）。",
+    "examples": [
+      {
+        "en": "The unexpected cancellation of the research funding upset the scientists' plans and delayed their important experiments.",
+        "zh": "研究经费的意外取消打乱了科学家们的计划，并推迟了他们重要的实验。"
+      },
+      {
+        "en": "The passage uses \"upset\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“upset”，可结合证据和语法理解为“使心烦意乱”。"
+      },
+      {
+        "en": "In exam reading, \"upset\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“upset”也可能表达相关义项，如“打乱；扰乱”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:19",
+    "word": "up-to-date",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "最新的；现代的；不过时的"
+        ]
+      }
+    ],
+    "etymology": "由 up（到达）+ to + date（日期）构成的短语复合形容词，19世纪晚期出现，最初用于商务语境。",
+    "formation_semantic": "up-to-date（连字符连接），字面义为\"到达当前日期的\"。 从\"日期最新的\"引申为\"包含最新信息的、现代的、新式的\"。",
+    "examples": [
+      {
+        "en": "To remain competitive, technology companies must ensure their software remains up-to-date with the latest security protocols.",
+        "zh": "为了保持竞争力，科技公司必须确保其软件与最新的安全协议保持同步更新。"
+      },
+      {
+        "en": "The passage uses \"up-to-date\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“up-to-date”，可结合证据和语法理解为“最新的；现代的；不过时的”。"
+      },
+      {
+        "en": "In exam reading, \"up-to-date\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“up-to-date”也可能表达相关义项，如“最新的；现代的；不过时的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:20",
+    "word": "ventilate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "使通风；通气",
+          "公开讨论；发表"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 ventilatus，是 ventilare（扇风、通风）的过去分词，源自 ventus（风）。",
+    "formation_semantic": "vent（风，来自拉丁语 ventus）+ -il-（中缀）+ -ate（动词后缀）；字面义为\"使风进入\"。 由\"通风、使空气流通\"的本义引申为\"公开讨论（问题、意见）\"，把想法像空气一样流通起来。",
+    "examples": [
+      {
+        "en": "The meeting provided a platform for employees to ventilate their concerns about workplace safety and working conditions.",
+        "zh": "会议为员工提供了一个平台，让他们表达对工作场所安全和工作条件的担忧。"
+      },
+      {
+        "en": "The passage uses \"ventilate\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“ventilate”，可结合证据和语法理解为“使通风；通气”。"
+      },
+      {
+        "en": "In exam reading, \"ventilate\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“ventilate”也可能表达相关义项，如“公开讨论；发表”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:21",
+    "word": "venture",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "冒险事业；商业项目"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "敢于；冒险做",
+          "冒险前往"
+        ]
+      }
+    ],
+    "etymology": "来自中古英语 venturen，是 adventure（冒险）的逆构词，源自拉丁语 adventurus（即将到来的），由 ad-（向）+ venire（来）构成。",
+    "formation_semantic": "vent（来，来自拉丁语 venire）+ -ure（名词后缀）；与 adventure 同根，强调\"风险\"和\"机遇\"。 从\"冒险\"的核心义出发，衍生出\"冒险事业、商业 venture\"和\"敢于做某事\"的动词用法。",
+    "examples": [
+      {
+        "en": "The joint venture between the two technology companies aims to develop affordable renewable energy solutions for developing markets.",
+        "zh": "两家科技公司之间的合资企业旨在为发展中市场开发价格合理的可再生能源解决方案。"
+      },
+      {
+        "en": "The passage uses \"venture\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“venture”，可结合证据和语法理解为“冒险事业；商业项目”。"
+      },
+      {
+        "en": "In exam reading, \"venture\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“venture”也可能表达相关义项，如“敢于；冒险做”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:22",
+    "word": "widespread",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "广泛的；普遍的"
+        ]
+      }
+    ],
+    "etymology": "由 wide（宽的）+ spread（散布）组合而成，17世纪进入英语。",
+    "formation_semantic": "wide（广泛的）+ spread（散布、展开）；字面义为\"广泛散开的\"。 从物理上的\"大面积散布\"引申为\"（现象、观念等）广泛传播的、普遍的\"。",
+    "examples": [
+      {
+        "en": "The widespread use of smartphones has fundamentally changed the way people access information and communicate with each other.",
+        "zh": "智能手机的广泛使用从根本上改变了人们获取信息和相互交流的方式。"
+      },
+      {
+        "en": "The passage uses \"widespread\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“widespread”，可结合证据和语法理解为“广泛的；普遍的”。"
+      },
+      {
+        "en": "In exam reading, \"widespread\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“widespread”也可能表达相关义项，如“广泛的；普遍的”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:23",
+    "word": "win",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "赢得；获胜",
+          "争取到；获得"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "胜利"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 winnan（奋斗、战斗、获胜），源自原始日耳曼语 *winnan（努力、争取），与古高地德语 winnan（奋斗）同源。",
+    "formation_semantic": "单一词根，古英语延续至今。 由\"奋斗\"的过程义引申为\"获胜\"的结果义，进一步引申为\"赢得（支持、好感等）\"。",
+    "examples": [
+      {
+        "en": "The candidate's innovative education policies helped her win widespread support among young voters across the country.",
+        "zh": "这位候选人创新的教育政策帮助她赢得了全国年轻选民的广泛支持。"
+      },
+      {
+        "en": "The passage uses \"win\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“win”，可结合证据和语法理解为“赢得；获胜”。"
+      },
+      {
+        "en": "In exam reading, \"win\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“win”也可能表达相关义项，如“争取到；获得”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:24",
+    "word": "wit",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "机智；风趣",
+          "智力；理解力"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 wit（智力、知识、理解力），源自原始日耳曼语 *wit-（知道），与古高地德语 wizzi（智慧）同源。与 wise（智慧的）同根。",
+    "formation_semantic": "单一词根；与 wise、witness 等同源。 从\"智力、理解力\"引申为\"机智、风趣\"，强调言语中的巧妙和幽默，也保留在 out of one's wits（失去理智）等短语中。",
+    "examples": [
+      {
+        "en": "The speaker's sharp wit and engaging storytelling captivated the audience throughout the two-hour lecture on cultural history.",
+        "zh": "演讲者敏锐的机智和引人入胜的叙述技巧在两个多小时的文化史讲座中始终吸引着观众。"
+      },
+      {
+        "en": "The passage uses \"wit\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“wit”，可结合证据和语法理解为“机智；风趣”。"
+      },
+      {
+        "en": "In exam reading, \"wit\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“wit”也可能表达相关义项，如“智力；理解力”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:25",
+    "word": "withdraw",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "撤回；收回",
+          "退出",
+          "提取"
+        ]
+      }
+    ],
+    "etymology": "来自中古英语 withdrawen，由 with-（向后、离开）+ draw（拉）组合而成。",
+    "formation_semantic": "with-（向后、背离）+ draw（拉）；字面义为\"向后拉、拉回\"。 从物理上的\"拉回、撤回\"引申为抽象的\"退出（活动/组织）、提取（存款）、撤回（声明/指控）\"。",
+    "examples": [
+      {
+        "en": "Due to financial constraints, the company decided to withdraw from the international market and focus on domestic operations.",
+        "zh": "由于财务限制，该公司决定退出国际市场，专注于国内业务。"
+      },
+      {
+        "en": "The passage uses \"withdraw\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“withdraw”，可结合证据和语法理解为“撤回；收回”。"
+      },
+      {
+        "en": "In exam reading, \"withdraw\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“withdraw”也可能表达相关义项，如“退出”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:26",
+    "word": "witness",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "目击者；证人"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "目击；见证"
+        ]
+      }
+    ],
+    "etymology": "来自古英语 witnes（知识、证词、见证人），由 wit（知道）+ -ness（名词后缀）构成，字面义为\"知道的人\"。",
+    "formation_semantic": "wit（知道、了解）+ -ness（表状态或人）；字面义为\"了解情况的人\"。 从\"知道情况的人\"引申为法律意义上的\"目击者、证人\"，作为动词义为\"目击、见证\"。",
+    "examples": [
+      {
+        "en": "The rapid development of artificial intelligence in recent years has witnessed significant breakthroughs in natural language processing.",
+        "zh": "近年来人工智能的快速发展见证了自然语言处理领域的重大突破。"
+      },
+      {
+        "en": "The passage uses \"witness\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“witness”，可结合证据和语法理解为“目击者；证人”。"
+      },
+      {
+        "en": "In exam reading, \"witness\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“witness”也可能表达相关义项，如“目击；见证”，因此要看上下文。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_03:27",
+    "word": "inaugurate",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "为……举行就职典礼",
+          "开创；启动"
+        ]
+      }
+    ],
+    "etymology": "来自拉丁语 inauguratus，是 inaugurare（占卜、正式就职）的过去分词，由 in-（进入）+ augurare（占卜、预示）构成。古罗马人在举行就职典礼前会先观察鸟的飞行来占卜吉凶。",
+    "formation_semantic": "in-（使进入）+ augur（占卜官、预言者）+ -ate（动词后缀）；字面义为\"通过占卜来开始\"。 从古罗马的占卜就职仪式引申为\"（正式）就职、开幕、开创（新时代）\"。",
+    "examples": [
+      {
+        "en": "The new research center was inaugurated last month, marking a significant milestone in the field of genetic medicine.",
+        "zh": "新研究中心上个月正式启用，标志着基因医学领域的一个重要里程碑。"
+      },
+      {
+        "en": "The passage uses \"inaugurate\" in a formal context that requires attention to evidence and grammar.",
+        "zh": "这篇文章在正式语境中使用“inaugurate”，可结合证据和语法理解为“为……举行就职典礼”。"
+      },
+      {
+        "en": "In exam reading, \"inaugurate\" may appear with a related meaning, so the surrounding sentence matters.",
+        "zh": "在考试阅读中，“inaugurate”也可能表达相关义项，如“开创；启动”，因此要看上下文。"
+      }
+    ]
+  }
+]

@@ -1,0 +1,1294 @@
+[
+  {
+    "id": "bikaoci_unit_10:65",
+    "word": "outcome",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "结果；后果；结局"
+        ]
+      }
+    ],
+    "etymology": "由中古英语 out（出）和 come（来）组成，字面义\"出来的东西\"→\"结果\"。",
+    "formation_semantic": "out-（出）+ come（来）。与 income（收入——\"进来的东西\"）结构相同。 \"出来的东西\"→\"结果、后果、结局\"——某过程或事件的最终结果。与 result 同义，但更强调\"自然产生的结果\"。",
+    "examples": [
+      {
+        "en": "The outcome of the experiment confirmed the researchers' initial hypothesis.",
+        "zh": "实验的结果证实了研究人员的初步假设。"
+      },
+      {
+        "en": "Students often meet the word \"outcome\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 outcome 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"outcome\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 outcome 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:66",
+    "word": "sign",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "迹象；征兆",
+          "符号；标志",
+          "标牌；手势"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "签名；签署",
+          "示意；打手势"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 signum（记号、标记、信号）。经古法语 signe 进入英语。",
+    "formation_semantic": "来自拉丁语 signum（记号）。同根词极多：signal（信号）、signature（签名）、significant（重要的——\"有记号的\"）、signify（表示——\"做记号\"）、assign（分配——\"做记号分派\"）、design（设计——\"做记号\"）。 \"记号、标记\"——可指符号（数学符号）、迹象（sign of recovery 复苏迹象）、招牌（店招）、手势（sign language 手语）。动词\"签名\"——在文件上做\"记号\"。",
+    "examples": [
+      {
+        "en": "The decline in unemployment is a positive sign of economic recovery.",
+        "zh": "失业率下降是经济复苏的积极信号。"
+      },
+      {
+        "en": "Students often meet the word \"sign\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 sign 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"sign\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 sign 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:67",
+    "word": "signature",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "签名；署名",
+          "鲜明特征；特色"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "标志性的；招牌的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 signatura（签章、标记），来自 signare（做记号），而 signare 来自 signum（记号）。",
+    "formation_semantic": "sign-（记号）+ -ature（名词后缀，表示\"与...相关的事物\"）。同根词包括 sign（记号）、signify（表示）、signal（信号）。 \"个人的标记\"→\"签名\"——个人手写的姓名，用于确认身份或表示同意。引申义\"特征、特色\"（signature dish 招牌菜）。",
+    "examples": [
+      {
+        "en": "The contract requires the signatures of both parties before it becomes legally binding.",
+        "zh": "合同需要双方的签名才能具有法律约束力。"
+      },
+      {
+        "en": "Students often meet the word \"signature\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 signature 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"signature\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 signature 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:68",
+    "word": "signal",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "信号；暗号",
+          "迹象；标志"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "发信号；示意",
+          "表明；预示"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "显著的；重大的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 signalis（用作记号的），来自 signum（记号）。",
+    "formation_semantic": "sign-（记号）+ -al（形容词/名词后缀）。同根词包括 sign、signature、signify。 \"传递信息的记号\"→\"信号\"——用于传递信息或发出指令的标记、声音或动作。名词\"信号/标志\"；动词\"发信号/标志着\"。",
+    "examples": [
+      {
+        "en": "The increase in consumer spending is a clear signal that the economy is recovering.",
+        "zh": "消费者支出的增加是经济正在复苏的明确信号。"
+      },
+      {
+        "en": "Students often meet the word \"signal\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 signal 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"signal\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 signal 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:69",
+    "word": "significance",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "意义；含义",
+          "重要性；重大意义"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 significantia（意义、重要性），来自 significare（表示、意味着），由 signum（记号）和 facere（做）构成。",
+    "formation_semantic": "sign-（记号）+ -ific-（做）+ -ance（名词后缀）。signify（表示/意味）的名词形式。同根词包括 signify、significant。 \"某事物所表示的意义\"→\"意义、重要性\"——强调某事物在整体中的重要程度。statistical significance（统计显著性）——科研中重要的评判标准。",
+    "examples": [
+      {
+        "en": "The discovery of the new element has great significance for the field of chemistry.",
+        "zh": "新元素的发现对化学领域具有重大意义。"
+      },
+      {
+        "en": "Students often meet the word \"significance\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 significance 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"significance\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 significance 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:70",
+    "word": "significant",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "重要的；重大的",
+          "显著的；有意义的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 significans（有意义的、重要的），是 significare（表示）的现在分词。与 signify、significance 同源。",
+    "formation_semantic": "sign-（记号）+ -ific-（做）+ -ant（形容词后缀）。同根词包括 signify（动词）、significance（名词）。 \"值得做上记号的\"→\"重要的、显著的、有意义的\"——指大到足够引起注意或产生重要影响。统计学中 significant 指\"显著的、有意义的\"（非随机导致的差异）。",
+    "examples": [
+      {
+        "en": "There has been a significant increase in renewable energy investment worldwide in recent years.",
+        "zh": "近年来，全球范围内的可再生能源投资有了显著增长。"
+      },
+      {
+        "en": "Students often meet the word \"significant\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 significant 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"significant\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 significant 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:71",
+    "word": "signify",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "表示；意味着",
+          "具有重要性"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 significare（做记号、表示），由 signum（记号）和 facere（做）构成。",
+    "formation_semantic": "sign-（记号）+ -ify（动词后缀，表示\"做、使成为\"）。字面义\"做上记号\"→\"表示、意味着\"。同根词包括 sign、significant、significance。 \"用记号表示\"→\"意味着、表示\"——某事物作为符号或标志传达特定的含义。比 mean 更正式。",
+    "examples": [
+      {
+        "en": "The change in government policy signifies a new approach to addressing climate change.",
+        "zh": "政府政策的改变标志着应对气候变化的新方法。"
+      },
+      {
+        "en": "Students often meet the word \"signify\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 signify 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"signify\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 signify 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:72",
+    "word": "similar",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "相似的；类似的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 similis（相似的、类似的）。经古法语 similaire 进入英语。",
+    "formation_semantic": "simil-（相似）+ -ar（形容词后缀）。同根词包括 simile（明喻——\"比喻\"）、assemble（集合——\"使相似的东西在一起\"）、resemble（相似——re-加强 + sembl-相似）、simultaneous（同时的）。 \"相似的、类似的\"——两者之间有共同特征但不是完全相同。be similar to（与...相似）。",
+    "examples": [
+      {
+        "en": "The educational systems in the two countries are similar in structure but differ in implementation.",
+        "zh": "这两个国家的教育体系在结构上相似，但在实施上不同。"
+      },
+      {
+        "en": "Students often meet the word \"similar\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 similar 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"similar\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 similar 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:73",
+    "word": "simple",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "简单的；易懂的",
+          "朴素的；简朴的",
+          "单纯的；纯粹的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 simplus（单一的、简单的），由 sem-（一）和 plus（倍）构成。经古法语 semple 进入英语。",
+    "formation_semantic": "sim-（一）+ ple（倍）。字面义\"单一倍的\"→\"简单的、朴素的\"。同根词包括 single（单一的——sim- + -gle后缀）、simplicity（简单）、simplify（简化——simpl-简单 + -ify使）。 \"由单一成分构成的\"→\"简单的、朴素的\"——不复杂、易于理解或操作。与 complex（复杂的）相对。",
+    "examples": [
+      {
+        "en": "The solution to the problem is surprisingly simple once you understand the underlying principles.",
+        "zh": "一旦你理解了基本原理，这个问题的解决方案就出奇地简单。"
+      },
+      {
+        "en": "Students often meet the word \"simple\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 simple 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"simple\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 simple 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:74",
+    "word": "simplicity",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "简单；简明",
+          "朴素；简朴"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 simplicitas（简单、朴素），来自 simplex（单一的、简单的）。与 simple 同源。",
+    "formation_semantic": "simpl-（简单）+ -icity（名词后缀，表示\"状态或性质\"）。simple 的名词形式。 \"简单的状态\"→\"简单、朴素\"——指没有不必要的复杂装饰或细节。《Simplicity is the ultimate sophistication》（简约是终极的精致）。",
+    "examples": [
+      {
+        "en": "The beauty of the design lies in its simplicity and functional elegance.",
+        "zh": "这个设计的美在于其简单和功能性的优雅。"
+      },
+      {
+        "en": "Students often meet the word \"simplicity\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 simplicity 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"simplicity\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 simplicity 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:75",
+    "word": "simplify",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "简化；使简明"
+        ]
+      }
+    ],
+    "etymology": "由法语 simplifier（简化）进入英语，来自拉丁语 simplificare（使简单），由 simplex（简单的）和 facere（做）构成。",
+    "formation_semantic": "simpl-（简单）+ -ify（动词后缀，表示\"使成为\"）。simple 的动词形式——\"使变得简单\"。 \"使简单化\"——去掉复杂部分使更易于理解或操作。",
+    "examples": [
+      {
+        "en": "The new software simplifies the process of data analysis for researchers.",
+        "zh": "新软件简化了研究人员的数据分析过程。"
+      },
+      {
+        "en": "Students often meet the word \"simplify\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 simplify 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"simplify\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 simplify 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:76",
+    "word": "simply",
+    "pos_defs": [
+      {
+        "pos": "adv.",
+        "defs": [
+          "仅仅；只不过",
+          "简单地；朴素地",
+          "确实；简直"
+        ]
+      }
+    ],
+    "etymology": "由英语 simple（简单的）+ -ly（副词后缀）构成。",
+    "formation_semantic": "simpl-（简单）+ -ly（副词后缀）。simple 的副词形式。 三个核心用法：(1)\"简单地\"（explain simply 简单地解释）；(2)\"仅仅、只是\"（simply a matter of time 只是时间问题）；(3)\"简直、完全\"（simply amazing 简直太棒了）。",
+    "examples": [
+      {
+        "en": "The success of the project depends simply on the cooperation of all team members.",
+        "zh": "项目的成功仅仅取决于所有团队成员的配合。"
+      },
+      {
+        "en": "Students often meet the word \"simply\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 simply 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"simply\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 simply 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_10:77",
+    "word": "slack",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "松弛的；不紧的",
+          "懈怠的；萧条的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "松弛部分",
+          "淡季；萧条期"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "放松；懈怠"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 slæc（松弛的、懒散的），源自原始日耳曼语 *slakaz（松弛的）。与德语 schlaff（松弛的）同源。",
+    "formation_semantic": "单音节日耳曼基本形容词/名词/动词。形容词\"松弛的\"；名词\"（绳索的）松弛部分/富余\"；动词\"放松/松懈\"。 核心义\"不紧的、松弛的\"——绳子没有拉紧的状态。引申为\"懈怠的、不努力的\"。经济学中 slack 指\"富余产能/闲置资源\"。cut someone some slack（给某人一些余地/宽容）。",
+    "examples": [
+      {
+        "en": "There is considerable slack in the labor market, with many skilled workers unemployed.",
+        "zh": "劳动力市场存在大量富余，许多技能工人处于失业状态。"
+      },
+      {
+        "en": "Students often meet the word \"slack\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 slack 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"slack\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 slack 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:1",
+    "word": "addict",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "成瘾者；入迷的人"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "使成瘾；使沉迷"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 addicere（\"to adjudge, assign\"），由前缀 ad-（\"to, towards\"）和 dicere（\"to say, declare\"，即\"说、宣判\"）组合而成。原指罗马法中将某人判给另一方，后引申为\"因习惯而献身于某事\"。",
+    "formation_semantic": "ad-（朝向）+ dict（说、宣判） 罗马法中的\"判归某人\" → \"对某事宣判式的投入\" → \"沉迷、上瘾\"。",
+    "examples": [
+      {
+        "en": "Many young people find themselves addicted to social media, unable to resist checking their phones.",
+        "zh": "许多年轻人发现自己沉迷于社交媒体，无法抗拒查看手机的冲动。"
+      },
+      {
+        "en": "Students often meet the word \"addict\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 addict 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"addict\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 addict 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:2",
+    "word": "add",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "增加；添加",
+          "补充说",
+          "相加；合计"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 addere（\"to add, join\"），由前缀 ad-（\"to\"）和 dare（\"to give\"，即\"给\"）组成，字面义为\"给出\"或\"附加\"。",
+    "formation_semantic": "ad-（朝向）+ dare（给） \"加入、附加\" → \"增加、添加\"。",
+    "examples": [
+      {
+        "en": "To improve the experiment's reliability, the researchers decided to add more control variables.",
+        "zh": "为提高实验的可靠性，研究人员决定添加更多控制变量。"
+      },
+      {
+        "en": "Students often meet the word \"add\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 add 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"add\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 add 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:3",
+    "word": "addition",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "增加；添加",
+          "附加物；新增部分",
+          "加法"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 additio(n-)，为 addere（\"to add\"）的动名词形式，经由古法语进入英语。",
+    "formation_semantic": "ad-（朝向）+ dit（= dare 的变体 \"给\"）+ -ion（名词后缀） \"添加的行为或结果\" → \"加法、增加物\"。",
+    "examples": [
+      {
+        "en": "In addition to tuition fees, students must also budget for accommodation and textbooks.",
+        "zh": "除了学费之外，学生还必须为住宿和教科书做预算。"
+      },
+      {
+        "en": "Students often meet the word \"addition\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 addition 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"addition\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 addition 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:4",
+    "word": "additional",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "额外的；附加的"
+        ]
+      }
+    ],
+    "etymology": "由 addition 派生而来，加形容词后缀 -al，经由晚期拉丁语 additionalis。",
+    "formation_semantic": "add（加）+ -ition（名词后缀）+ -al（形容词后缀） \"添加的性质\" → \"额外的、附加的\"。",
+    "examples": [
+      {
+        "en": "The government allocated additional funding for scientific research in renewable energy technologies.",
+        "zh": "政府为可再生能源技术的科学研究分配了额外资金。"
+      },
+      {
+        "en": "Students often meet the word \"additional\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 additional 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"additional\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 additional 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:5",
+    "word": "address",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "地址",
+          "演说；致辞",
+          "处理；应对"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "处理；应对",
+          "发表演说",
+          "称呼；写地址"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 ad-（\"to\"）+ rectus（\"straight, right\"，即\"直的、正确的\"），经由古法语 adrecier（\"to straighten, direct\"）进入英语。原义为\"使某物朝向正确方向\"。",
+    "formation_semantic": "ad-（朝向）+ dress（= direct 的变体 \"引导、指向\"） \"使朝向正确方向\" → \"向...致辞\" / \"写地址（指向某处）\" / \"处理问题\"。",
+    "examples": [
+      {
+        "en": "The president's address to the nation focused on climate change and economic reform.",
+        "zh": "总统对全国的讲话聚焦于气候变化和经济改革。"
+      },
+      {
+        "en": "Students often meet the word \"address\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 address 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"address\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 address 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:6",
+    "word": "adequate",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "足够的；充分的",
+          "适当的；合格的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 adaequatus，由 ad-（\"to\"）+ aequus（\"equal, level\"，即\"相等的\"）组成，字面义为\"使相等\"。",
+    "formation_semantic": "ad-（使）+ equ（相等）+ -ate（形容词后缀） \"使与需求相等\" → \"足够满足需要的\" → \"充分的、适当的\"。",
+    "examples": [
+      {
+        "en": "Adequate preparation for the entrance examination requires at least three months of consistent study.",
+        "zh": "为入学考试做充分准备需要至少三个月的持续学习。"
+      },
+      {
+        "en": "Students often meet the word \"adequate\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 adequate 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"adequate\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 adequate 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:7",
+    "word": "adjust",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "调整；调节",
+          "适应；习惯"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 ad-（\"to\"）+ justus（\"just, right\"，即\"公正的、正确的\"），经由古法语 ajuster 进入英语。",
+    "formation_semantic": "ad-（使）+ just（正确、公正） \"使变得正确\" → \"调整、适应\"。",
+    "examples": [
+      {
+        "en": "Immigrants often need time to adjust to the cultural differences in their new country.",
+        "zh": "移民通常需要时间来适应新国家的文化差异。"
+      },
+      {
+        "en": "Students often meet the word \"adjust\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 adjust 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"adjust\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 adjust 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:8",
+    "word": "administration",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "管理；行政",
+          "行政部门；政府",
+          "执行；施行"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 administratio，由 ad-（\"to\"）+ ministrare（\"to serve, manage\"，即\"服务、管理\"）组成，minister 意为\"仆人、助手\"。",
+    "formation_semantic": "ad-（加强）+ minister（仆人、服务）+ -ation（名词后缀） \"为...服务的行为\" → \"管理、行政\" → \"行政机构、政府\"。",
+    "examples": [
+      {
+        "en": "The university administration implemented new policies to improve campus sustainability.",
+        "zh": "大学行政部门实施了新政策以改善校园可持续性。"
+      },
+      {
+        "en": "Students often meet the word \"administration\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 administration 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"administration\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 administration 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:9",
+    "word": "admire",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "钦佩；赞赏",
+          "欣赏"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 admirari（\"to wonder at\"），由 ad-（\"at\"）+ mirari（\"to wonder\"，即\"惊奇、惊叹\"）组成。",
+    "formation_semantic": "ad-（对、向）+ mir（惊奇）+ -e（动词后缀） \"对...感到惊奇\" → \"钦佩、赞赏\"。",
+    "examples": [
+      {
+        "en": "I deeply admire scientists who dedicate their lives to finding cures for diseases.",
+        "zh": "我深深钦佩那些毕生致力于寻找疾病疗法的科学家们。"
+      },
+      {
+        "en": "Students often meet the word \"admire\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 admire 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"admire\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 admire 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:10",
+    "word": "admission",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "准许进入；录取",
+          "承认；供认",
+          "入场费"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 admissio(n-)，由 ad-（\"to\"）+ mittere（\"to send, let go\"，即\"发送、放出\"）组成。",
+    "formation_semantic": "ad-（进入）+ miss（发送）+ -ion（名词后缀） \"允许进入\" → \"准入、入场费\" / \"承认（让事实进入意识）\"。",
+    "examples": [
+      {
+        "en": "Admission to the conference requires a valid registration and identification document.",
+        "zh": "参加会议需要有效的注册证明和身份证件。"
+      },
+      {
+        "en": "Students often meet the word \"admission\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 admission 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"admission\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 admission 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:11",
+    "word": "admit",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "承认；供认",
+          "准许进入；录取",
+          "接收；容纳"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 admittere，由 ad-（\"to\"）+ mittere（\"to send\"）组成。",
+    "formation_semantic": "ad-（进入）+ mit（发送） \"放入、允许进入\" → \"承认（接纳事实）\"。",
+    "examples": [
+      {
+        "en": "The researcher had to admit that the experimental results did not support the hypothesis.",
+        "zh": "研究人员不得不承认实验结果并不支持假设。"
+      },
+      {
+        "en": "Students often meet the word \"admit\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 admit 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"admit\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 admit 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:12",
+    "word": "adapt",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "适应；适合",
+          "改编；改造"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 adaptare，由 ad-（\"to\"）+ aptare（\"to fit\"，即\"使适合\"）组成，aptus 意为\"适合的\"。",
+    "formation_semantic": "ad-（使）+ apt（适合） \"使适合\" → \"适应、改编\"。",
+    "examples": [
+      {
+        "en": "Animals must adapt to environmental changes in order to survive and reproduce successfully.",
+        "zh": "动物必须适应环境变化才能成功生存和繁衍。"
+      },
+      {
+        "en": "Students often meet the word \"adapt\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 adapt 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"adapt\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 adapt 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:13",
+    "word": "adopt",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "采用；采纳",
+          "收养；领养"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 adoptare，由 ad-（\"to\"）+ optare（\"to choose, desire\"，即\"选择、渴望\"）组成。",
+    "formation_semantic": "ad-（向）+ opt（选择） \"选择某人作为己有\" → \"收养\" / \"采用、采纳\"。",
+    "examples": [
+      {
+        "en": "Many companies have adopted flexible working arrangements to attract talented employees.",
+        "zh": "许多公司已采用弹性工作安排来吸引优秀人才。"
+      },
+      {
+        "en": "Students often meet the word \"adopt\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 adopt 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"adopt\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 adopt 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:14",
+    "word": "adult",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "成年人"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "成年的；成人的",
+          "成熟的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 adultus（\"grown up, mature\"），为 adolescere（\"to grow up\"，即\"成长\"）的过去分词。",
+    "formation_semantic": "ad-（朝向）+ ul（= alere 的变体 \"滋养\"）+ -t（过去分词后缀） \"已成长的\" → \"成年的、成年人\"。",
+    "examples": [
+      {
+        "en": "Adult education programs provide opportunities for lifelong learning and career development.",
+        "zh": "成人教育项目为终身学习和职业发展提供了机会。"
+      },
+      {
+        "en": "Students often meet the word \"adult\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 adult 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"adult\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 adult 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:15",
+    "word": "brace",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "支撑；加固",
+          "使防备；使振作"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "支架；托架",
+          "牙套"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 bracchia（\"arms\"，即\"手臂\"），是 bracchium 的复数形式。古法语中演变为 brace，指\"双臂\"，后引申为\"支撑\"。",
+    "formation_semantic": "bracch（手臂）+ -e \"手臂\" → \"用手臂支撑\" → \"支架、支撑物\" / \"使做好准备（如同用双手托住）\"。",
+    "examples": [
+      {
+        "en": "The engineer installed steel braces to strengthen the building against earthquake damage.",
+        "zh": "工程师安装了钢制支架以加固建筑物抵御地震破坏。"
+      },
+      {
+        "en": "Students often meet the word \"brace\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 brace 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"brace\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 brace 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:16",
+    "word": "brain",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "大脑；脑",
+          "智力；头脑"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 braegen，与中古荷兰语 brein 同源，原始日耳曼语 bragnan。其更早的词源不确定。",
+    "formation_semantic": "单一词根，无前/后缀。 原始含义即为\"脑\"，后引申为\"智力、智慧\"。",
+    "examples": [
+      {
+        "en": "Regular exercise not only strengthens the body but also stimulates brain function.",
+        "zh": "定期锻炼不仅能增强身体，还能刺激大脑功能。"
+      },
+      {
+        "en": "Students often meet the word \"brain\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 brain 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"brain\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 brain 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:17",
+    "word": "branch",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "树枝；枝条",
+          "分支机构；分部",
+          "分科；分支"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "分支；分岔"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 branca（\"paw, foot\"，即\"爪子\"），经由古法语 branche 进入英语。爪子的分叉形状与树枝分叉相似。",
+    "formation_semantic": "单一词根。 \"爪子（分叉形状）\" → \"树枝\" → \"分支、分部、分科\"。",
+    "examples": [
+      {
+        "en": "The company plans to open a new branch office in Singapore next year.",
+        "zh": "该公司计划明年在新加坡开设新的分公司。"
+      },
+      {
+        "en": "Students often meet the word \"branch\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 branch 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"branch\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 branch 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:18",
+    "word": "brand",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "品牌；商标",
+          "类型；风格"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "给……打上烙印",
+          "塑造品牌；给……贴标签"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 brand（\"fire, flame, torch\"，即\"火、火焰\"），源自原始日耳曼语 brandaz。古诺斯语中用于指\"烙印\"（在牛身上烧出的标记）。",
+    "formation_semantic": "单一词根。 \"火焰\" → \"灼烧、烙印\" → \"商标、品牌（源于烙印作为标记）\"。",
+    "examples": [
+      {
+        "en": "The marketing team developed a strategy to strengthen the brand's global recognition.",
+        "zh": "营销团队制定了提升品牌全球知名度的战略。"
+      },
+      {
+        "en": "Students often meet the word \"brand\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 brand 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"brand\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 brand 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:19",
+    "word": "toss",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "扔；抛",
+          "掷硬币决定",
+          "翻来覆去"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "投掷；抛",
+          "掷硬币"
+        ]
+      }
+    ],
+    "etymology": "词源不确定。可能源自斯堪的纳维亚语（如古诺斯语 tolla \"to lift, weigh\"）。最早记录于16世纪，意为\"举起并投掷\"。",
+    "formation_semantic": "单一词根。 \"举起并投掷\" → \"抛、掷\" → \"（随意）扔\" / \"摇摆不定\"。",
+    "examples": [
+      {
+        "en": "The committee decided to toss the proposal after failing to reach a consensus.",
+        "zh": "委员会在未能达成共识后决定放弃该提案。"
+      },
+      {
+        "en": "Students often meet the word \"toss\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 toss 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"toss\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 toss 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:20",
+    "word": "total",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "总的；全部的",
+          "完全的；彻底的"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "总数；总额"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "总计；合计"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 totus（\"all, whole, entire\"，即\"全部的\"），经由古法语 total 进入英语。",
+    "formation_semantic": "tot（全部）+ -al（形容词/名词后缀） \"全部的\" → \"总计、总和的\" / \"完全的\"。",
+    "examples": [
+      {
+        "en": "The total cost of the project exceeded the initial budget by approximately fifteen percent.",
+        "zh": "项目的总成本比最初预算超出了大约百分之十五。"
+      },
+      {
+        "en": "Students often meet the word \"total\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 total 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"total\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 total 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:21",
+    "word": "touch",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "触摸；接触",
+          "感动；触动",
+          "涉及；影响"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "触摸；接触",
+          "少量；一点",
+          "联系；风格"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 toccare（\"to knock, strike\"，即\"敲击\"），经由古法语 touchier 进入英语。原义为\"敲响（钟）\"。",
+    "formation_semantic": "单一词根。 \"敲击\" → \"触碰\" → \"接触\" / \"感动（触动内心）\" / \"涉及\"。",
+    "examples": [
+      {
+        "en": "The documentary about poverty touched millions of viewers around the world.",
+        "zh": "这部关于贫困的纪录片触动了全球数百万观众。"
+      },
+      {
+        "en": "Students often meet the word \"touch\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 touch 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"touch\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 touch 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:22",
+    "word": "tough",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "艰难的；棘手的",
+          "坚韧的；结实的",
+          "严厉的；强硬的"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 toh（\"strong, firm\"），原始日耳曼语 tanhu-。与德语 zähe（坚韧的）同源。词源可追溯至原始印欧语 denk-（\"to bite\"，咬）。",
+    "formation_semantic": "单一词根。 \"咬起来费力的\" → \"坚韧的\" → \"困难的、坚强的、严厉的\"。",
+    "examples": [
+      {
+        "en": "The new regulations impose tough penalties on companies that violate environmental standards.",
+        "zh": "新规对违反环保标准的公司施以严厉处罚。"
+      },
+      {
+        "en": "Students often meet the word \"tough\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 tough 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"tough\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 tough 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:23",
+    "word": "treat",
+    "pos_defs": [
+      {
+        "pos": "v.",
+        "defs": [
+          "对待；看待",
+          "治疗；处理",
+          "款待；请客"
+        ]
+      },
+      {
+        "pos": "n.",
+        "defs": [
+          "乐事；款待"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 tractare（\"to handle, manage, discuss\"，即\"处理、管理\"），是 trahere（\"to pull, draw\"，即\"拉\"）的反复动词形式。经由古法语 traitier 进入英语。",
+    "formation_semantic": "treat（= tract 的变体 \"拉、处理\"） \"反复拉、操作\" → \"处理\" → \"对待\" / \"治疗（处理疾病）\" / \"款待（以...方式对待）\"。",
+    "examples": [
+      {
+        "en": "Doctors treat patients not only with medication but also with psychological support.",
+        "zh": "医生不仅用药物治疗病人，还提供心理支持。"
+      },
+      {
+        "en": "Students often meet the word \"treat\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 treat 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"treat\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 treat 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:24",
+    "word": "treaty",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "条约；协定"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 tractatus（\"discussion, handling\"，即\"讨论、处理\"），经由古法语 traité 进入英语。与 treat 同源。",
+    "formation_semantic": "treat（处理）+ -y（名词后缀） \"讨论和处理的结果\" → \"协议、条约\"。",
+    "examples": [
+      {
+        "en": "The two nations signed a peace treaty ending decades of conflict between them.",
+        "zh": "两国签署了和平条约，结束了彼此之间数十年的冲突。"
+      },
+      {
+        "en": "Students often meet the word \"treaty\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 treaty 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"treaty\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 treaty 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:25",
+    "word": "trend",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "趋势；趋向"
+        ]
+      },
+      {
+        "pos": "v.",
+        "defs": [
+          "趋向；倾向"
+        ]
+      }
+    ],
+    "etymology": "源自古英语 trendan（\"to turn, revolve\"，即\"转动、旋转\"），原始日耳曼语 trandijan。与中古荷兰语 trenden（\"to turn\"）同源。",
+    "formation_semantic": "单一词根。 \"转动、转向\" → \"方向、倾向\" → \"趋势、潮流\"。",
+    "examples": [
+      {
+        "en": "The trend toward online education has accelerated significantly after the pandemic.",
+        "zh": "疫情之后，在线教育的趋势显著加速。"
+      },
+      {
+        "en": "Students often meet the word \"trend\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 trend 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"trend\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 trend 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:26",
+    "word": "vice",
+    "pos_defs": [
+      {
+        "pos": "n.",
+        "defs": [
+          "恶习；罪恶",
+          "缺点；弊端"
+        ]
+      },
+      {
+        "pos": "adj.",
+        "defs": [
+          "副的；代理的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 vitium（\"fault, defect, crime\"，即\"缺点、缺陷\"），经由古法语 vice 进入英语。",
+    "formation_semantic": "vic（缺点）+ -e \"缺点、缺陷\" → \"恶习、邪恶\"。",
+    "examples": [
+      {
+        "en": "The film explores the conflict between virtue and vice in human nature.",
+        "zh": "这部电影探讨了人性中美德与邪恶之间的冲突。"
+      },
+      {
+        "en": "Students often meet the word \"vice\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 vice 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"vice\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 vice 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  },
+  {
+    "id": "bikaoci_unit_11:27",
+    "word": "vicious",
+    "pos_defs": [
+      {
+        "pos": "adj.",
+        "defs": [
+          "恶毒的；恶意的",
+          "恶性的；严重的",
+          "凶猛的；暴力的"
+        ]
+      }
+    ],
+    "etymology": "源自拉丁语 vitiosus（\"faulty, defective\"），由 vitium（\"vice, fault\"）加形容词后缀 -osus 构成，经由古法语 vicieus 进入英语。",
+    "formation_semantic": "vic（恶习）+ -ious（形容词后缀，充满...的） \"充满恶习的\" → \"邪恶的、恶意的\" → \"凶猛的、剧烈的\"。",
+    "examples": [
+      {
+        "en": "The economic downturn created a vicious cycle of job losses and reduced consumer spending.",
+        "zh": "经济衰退造成了失业与消费支出减少的恶性循环。"
+      },
+      {
+        "en": "Students often meet the word \"vicious\" in passages about education, society, or technology.",
+        "zh": "学生常在教育、社会或科技类文章中遇到 vicious 这个词。"
+      },
+      {
+        "en": "A clear grasp of \"vicious\" helps readers understand the author's argument more precisely.",
+        "zh": "准确掌握 vicious 的含义有助于读者更精确地理解作者的论证。"
+      }
+    ]
+  }
+]
