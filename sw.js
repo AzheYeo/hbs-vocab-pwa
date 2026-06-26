@@ -1,4 +1,4 @@
-const CACHE_NAME = "hbs-vocab-pwa-v5";
+const CACHE_NAME = "hbs-vocab-pwa-v7";
 const ASSETS = [
   "./",
   "./index.html",
@@ -6,7 +6,7 @@ const ASSETS = [
   "./app.js",
   "./manifest.webmanifest",
   "./assets/icon.svg",
-  "./data/words.json"
+  "./data/vocab.csv"
 ];
 
 self.addEventListener("install", (event) => {

@@ -1,4 +1,4 @@
-const DATA_URL = "data/words.json";
+const DATA_URL = "data/vocab.csv";
 const STORE_KEY = "hbs-vocab-progress-v1";
 const DEFAULT_TODAY_PLAN = 40;
 const MIN_TODAY_PLAN = 5;
@@ -266,6 +266,152 @@ function examplesHtml(word) {
   `;
 }
 
+function parseCsv(text) {
+  const rows = [];
+  let row = [];
+  let field = "";
+  let inQuotes = false;
+  for (let index = 0; index < text.length; index += 1) {
+    const char = text[index];
+    const next = text[index + 1];
+    if (inQuotes) {
+      if (char === '"' && next === '"') {
+        field += '"';
+        index += 1;
+      } else if (char === '"') {
+        inQuotes = false;
+      } else {
+        field += char;
+      }
+      continue;
+    }
+    if (char === '"') {
+      inQuotes = true;
+    } else if (char === ",") {
+      row.push(field);
+      field = "";
+    } else if (char === "\n") {
+      row.push(field);
+      rows.push(row);
+      row = [];
+      field = "";
+    } else if (char !== "\r") {
+      field += char;
+    }
+  }
+  if (field || row.length) {
+    row.push(field);
+    rows.push(row);
+  }
+  return rows;
+}
+
+function csvToObjects(text) {
+  const rows = parseCsv(text);
+  const headers = (rows.shift() || []).map((header) => String(header).replace(/^\uFEFF/, "").trim());
+  return rows
+    .filter((row) => row.some((field) => String(field).trim()))
+    .map((row) => Object.fromEntries(headers.map((header, index) => [header, row[index] || ""])));
+}
+
+function kindOf(source) {
+  if (source.startsWith("必考词")) return "必考词";
+  if (source.startsWith("基础词")) return "基础词";
+  return "超纲词";
+}
+
+function moduleSortKey(name) {
+  const match = name.match(/^(必考词|基础词) Unit (\d+)$/);
+  if (!match) return [KIND_ORDER.indexOf(name) >= 0 ? KIND_ORDER.indexOf(name) : 99, 999];
+  return [KIND_ORDER.indexOf(match[1]), Number(match[2])];
+}
+
+function slugSource(source) {
+  const match = source.match(/^(必考词|基础词) Unit (\d+)$/);
+  if (!match) return "chaogangci";
+  return `${match[1] === "必考词" ? "bikaoci" : "jichuci"}_unit_${String(Number(match[2])).padStart(2, "0")}`;
+}
+
+function parsePosDefs(meaning) {
+  const posPattern = /^(vt|vi|v|n|adj|adv|prep|pron|conj|num)\.\s*(.*)$/;
+  const chunks = String(meaning || "")
+    .split(/\n/)
+    .flatMap((line) => line.split(/[；;]\s*(?=(?:vt|vi|v|n|adj|adv|prep|pron|conj|num)\.)/))
+    .map((item) => item.trim())
+    .filter(Boolean);
+  const groups = [];
+  let current = null;
+  for (const chunk of chunks) {
+    const match = chunk.match(posPattern);
+    if (match) {
+      const pos = `${match[1]}.`;
+      if (!groups.length || groups[groups.length - 1].pos !== pos) {
+        groups.push({ pos, defs: [] });
+      }
+      current = groups[groups.length - 1];
+      if (match[2]) current.defs.push(match[2]);
+    } else if (current) {
+      current.defs.push(chunk);
+    }
+  }
+  return groups.filter((group) => group.defs.length);
+}
+
+function parseExamples(text) {
+  return String(text || "")
+    .split(/\n/)
+    .map((line) => line.trim().replace(/^\d+\.\s*/, ""))
+    .filter(Boolean)
+    .map((line) => {
+      const match = line.match(/^(.*?)（(.*?)）$/);
+      return match ? { en: match[1].trim(), zh: match[2].trim() } : { en: line, zh: "" };
+    });
+}
+
+function payloadFromCsv(text) {
+  const rows = csvToObjects(text);
+  const moduleCounts = new Map();
+  const moduleOrders = new Map();
+  const words = rows.map((row) => {
+    const source = row["来源"].trim();
+    const unitOrder = (moduleOrders.get(source) || 0) + 1;
+    moduleOrders.set(source, unitOrder);
+    moduleCounts.set(source, (moduleCounts.get(source) || 0) + 1);
+    return {
+      id: `${slugSource(source)}:${unitOrder}`,
+      word: row["单词"].trim(),
+      module: source,
+      kind: kindOf(source),
+      source: "data/vocab.csv",
+      definition: row["释义"].replace(/\s*\n\s*/g, " / ").trim(),
+      pos_defs: parsePosDefs(row["释义"]),
+      etymology: row["词源"].trim(),
+      formation_semantic: "",
+      examples: parseExamples(row["例句"]),
+      content_status: row["释义"].trim() && row["词源"].trim() ? "complete" : "partial",
+      order: {
+        global: Number(row["序号"]),
+        unit: unitOrder,
+      },
+    };
+  });
+  const modules = [...moduleCounts.entries()]
+    .map(([name, count]) => ({ name, kind: kindOf(name), count }))
+    .sort((left, right) => {
+      const a = moduleSortKey(left.name);
+      const b = moduleSortKey(right.name);
+      return a[0] - b[0] || a[1] - b[1];
+    });
+  return {
+    version: 5,
+    schema: "hbs-vocab-csv-runtime-v1",
+    source: DATA_URL,
+    total: words.length,
+    modules,
+    words,
+  };
+}
+
 function wordFieldsHtml(word) {
   const formationSemantic = word.formation_semantic || [word.formation, word.semantic].filter(Boolean).join(" ");
   return `
@@ -507,7 +653,7 @@ function renderMistakes() {
 
 async function boot() {
   const res = await fetch(DATA_URL);
-  app.payload = await res.json();
+  app.payload = payloadFromCsv(await res.text());
   app.words = app.payload.words;
   app.byId = new Map(app.words.map((word) => [word.id, word]));
   buildTodayQueue();

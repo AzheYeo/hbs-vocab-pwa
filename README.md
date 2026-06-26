@@ -5,7 +5,7 @@
 - `index.html`: 应用入口
 - `styles.css`: 黑白讲义风样式
 - `app.js`: 复习、搜索、错词本逻辑
-- `data/words.json`: 从 LaTeX 模块提取的 6582 个单词
+- `data/vocab.csv`: 红宝书词汇 CSV，应用启动时直接解析，共 6397 个单词
 - `manifest.webmanifest`: PWA 安装信息
 - `sw.js`: 离线缓存
 
