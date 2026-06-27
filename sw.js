@@ -1,4 +1,4 @@
-const CACHE_NAME = "hbs-vocab-pwa-v8";
+const CACHE_NAME = "hbs-vocab-pwa-v9";
 const ASSETS = [
   "./",
   "./index.html",
